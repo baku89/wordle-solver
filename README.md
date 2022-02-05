@@ -6,7 +6,7 @@ The algorithm uses a straightforward strategy of choosing the best guess to maxi
 
 ## Result
 
-**(SPOILER)** You can see the tree data from [flow.yml](./flow.yml).
+**(SPOILER)** You can see the tree data from [flow.yaml](./flow.yaml).
 
 ## Statics
 
