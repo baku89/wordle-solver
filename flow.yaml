@@ -4,8 +4,8 @@
 # - "HUMID" also might be an answer (annotated as trailing ? mark)
 
 statics:
-  maxDepth: 5
-  averageDepth: 2.4393088552915776
+  maxDepth: 6
+  averageDepth: 3.4401727861771065
 flow:
   guess: TRACE (2315?)
   next:
@@ -411,9 +411,9 @@ flow:
           next:
             ⬜🟩🟨🟩⬜: DOPEY
         ⬜⬜⬜🟩🟩:
-          guess: EMBED (3?)
+          guess: SPEED (3?)
           next:
-            🟨⬜⬜🟩🟩: SPEED
+            ⬜⬜🟨🟩🟩: EMBED
             🟨⬜🟨🟩🟩: BUSED
         ⬜⬜🟨🟨⬜:
           guess: ENJOY (5?)
@@ -451,11 +451,11 @@ flow:
           next:
             ⬜🟩🟩⬜⬜: PENNY
         ⬜⬜🟩🟩⬜:
-          guess: HUMPH (3)
+          guess: BENCH (3)
           next:
-            ⬜⬜⬜⬜⬜: BONEY
-            ⬜⬜🟨⬜⬜: MONEY
-            🟩⬜⬜⬜⬜: HONEY
+            ⬜🟨🟩⬜⬜: MONEY
+            ⬜🟨🟩⬜🟨: HONEY
+            🟩🟨🟩⬜⬜: BONEY
         ⬜🟨⬜🟨⬜:
           guess: EQUIP (3?)
           next:
@@ -467,15 +467,15 @@ flow:
           next:
             🟩⬜🟩🟩🟩: SPIED
         ⬜🟨🟨🟨⬜:
-          guess: FEIGN (6?)
+          guess: BEGIN (6?)
           next:
-            ⬜🟨🟩🟨🟨:
+            ⬜🟨🟨🟨🟨:
               guess: EKING (2?)
               next:
                 🟩⬜🟩🟩🟩: EYING
-            ⬜🟩🟨🟨🟩: BEGIN
-            ⬜🟩🟩🟨🟨: BEING
-            ⬜🟩🟩🟩🟨: NEIGH
+            ⬜🟩🟨🟨🟨: NEIGH
+            ⬜🟩🟨🟨🟩: FEIGN
+            🟩🟩🟨🟨🟨: BEING
         ⬜🟨🟨🟨🟨: DEIGN
         ⬜🟨🟨🟩🟨: INDEX
         ⬜🟨🟩🟨⬜: ENNUI
@@ -559,11 +559,11 @@ flow:
         🟨🟨⬜🟩🟩: PLIED
         🟨🟨🟨🟨⬜: ELFIN
         🟨🟩⬜🟨🟩:
-          guess: DWARF (3)
+          guess: DOWRY (3)
           next:
-            🟨⬜⬜⬜⬜: YIELD
-            🟨⬜⬜⬜🟨: FIELD
-            🟨🟨⬜⬜⬜: WIELD
+            🟨⬜⬜⬜⬜: FIELD
+            🟨⬜⬜⬜🟨: YIELD
+            🟨⬜🟨⬜⬜: WIELD
         🟨🟩⬜🟩⬜: PIXEL
         🟩⬜⬜🟨⬜: LEGGY
         🟩⬜⬜🟩⬜: LEVEL
@@ -573,170 +573,171 @@ flow:
         🟩🟩🟨🟩⬜: LIKEN
         🟩🟩🟩🟩⬜: LINEN
     ⬜⬜⬜⬜🟩:
-      guess: SLING (104)
+      guess: LIONS (104)
       next:
         ⬜⬜⬜⬜⬜:
-          guess: REBUT (4)
+          guess: AWFUL (8)
           next:
-            ⬜🟨⬜⬜⬜: EVOKE
-            ⬜🟨⬜🟩⬜: QUEUE
-            ⬜🟨🟨⬜⬜: BOOZE
-            ⬜🟩⬜⬜⬜: FEMME
-        ⬜⬜⬜⬜🟨:
-          guess: BOUGH (9)
-          next:
-            ⬜⬜⬜🟩⬜: WEDGE
-            ⬜⬜⬜🟩🟨: HEDGE
-            ⬜⬜🟨🟨⬜: FUGUE
-            ⬜⬜🟨🟩⬜:
-              guess: FUDGE (2?)
+            ⬜⬜⬜⬜⬜: HEDGE
+            ⬜⬜⬜🟨⬜:
+              guess: JUDGE (2?)
               next:
-                ⬜🟩🟩🟩🟩: JUDGE
-            ⬜🟩⬜🟩⬜: DODGE
-            ⬜🟩🟨🟨⬜: VOGUE
-            ⬜🟩🟩🟩⬜: GOUGE
-            🟩⬜🟨🟩⬜: BUDGE
+                ⬜🟩🟩🟩🟩: BUDGE
+            ⬜⬜⬜🟩⬜: QUEUE
+            ⬜⬜🟨⬜⬜: FEMME
+            ⬜⬜🟨🟨⬜: FUDGE
+            ⬜⬜🟨🟩⬜: FUGUE
+            ⬜🟨⬜⬜⬜: WEDGE
+        ⬜⬜⬜⬜🟨:
+          guess: SEGUE (2?)
+          next:
+            🟨🟩🟨⬜🟩: GEESE
         ⬜⬜⬜🟨⬜:
-          guess: UNDUE (2?)
+          guess: UNDUE (3?)
           next:
             🟨🟨⬜🟩🟩: VENUE
+            🟨🟨🟩⬜🟩: NUDGE
         ⬜⬜⬜🟨🟨:
-          guess: GNOME (2?)
+          guess: DENSE (3?)
           next:
-            🟨🟨⬜⬜🟩: NUDGE
-        ⬜⬜⬜🟩⬜:
-          guess: OZONE (3?)
-          next:
-            ⬜⬜⬜🟩🟩: PENNE
-            🟨⬜🟩🟩🟩: PHONE
+            ⬜🟨🟨🟨🟩: ENSUE
+            ⬜🟩🟩🟩🟩: SENSE
+        ⬜⬜⬜🟩⬜: PENNE
         ⬜⬜🟨⬜⬜:
-          guess: MOVIE (6?)
+          guess: GOUGE (3?)
           next:
-            ⬜⬜⬜🟨🟩: PIQUE
-            ⬜⬜⬜🟩🟩: PIXIE
-            ⬜🟨⬜🟨🟩: DIODE
-            🟨⬜⬜🟨🟩: IMBUE
-            🟨🟨⬜🟨🟩: BIOME
-        ⬜⬜🟨⬜🟨: MIDGE
-        ⬜⬜🟨🟨🟨:
-          guess: HINGE (3?)
+            🟨🟩⬜🟩🟩: DODGE
+            🟨🟩🟨⬜🟩: VOGUE
+        ⬜⬜🟨⬜🟨:
+          guess: HOUSE (4?)
           next:
-            ⬜🟨🟩🟨🟩: GENIE
-            ⬜🟩🟩🟩🟩: BINGE
-        ⬜⬜🟩⬜⬜: OXIDE
-        ⬜⬜🟩⬜🟨: GUIDE
-        ⬜⬜🟩🟨⬜: KNIFE
+            ⬜🟨⬜🟩🟩: OBESE
+            ⬜🟩⬜🟩🟩: POSSE
+            ⬜🟩🟩🟩🟩: MOUSE
+        ⬜⬜🟩⬜⬜:
+          guess: BOOZE (2?)
+          next:
+            ⬜🟨🟩⬜🟩: EVOKE
+        ⬜⬜🟩⬜🟨:
+          guess: SHAME (6)
+          next:
+            🟨⬜⬜⬜🟩: GOOSE
+            🟨⬜⬜🟨🟩: MOOSE
+            🟨🟩⬜⬜🟩: WHOSE
+            🟩⬜⬜⬜🟩: SPOKE
+            🟩⬜⬜🟨🟩: SMOKE
+            🟩🟩⬜⬜🟩: SHOVE
+        ⬜⬜🟩🟨⬜: GNOME
+        ⬜⬜🟩🟨🟨: NOOSE
         ⬜⬜🟩🟩⬜:
-          guess: OPINE (3?)
+          guess: OZONE (2?)
           next:
-            ⬜⬜🟩🟩🟩: WHINE
-            🟩⬜🟩🟩🟩: OVINE
+            🟨⬜🟩🟩🟩: PHONE
+        ⬜⬜🟩🟩🟨: SHONE
         ⬜🟨⬜⬜⬜:
-          guess: MODEL (5)
+          guess: GUIDE (2?)
           next:
-            ⬜⬜⬜🟨🟨: BELLE
-            ⬜⬜🟨🟨🟨: DELVE
-            ⬜🟨⬜🟨🟨: WHOLE
-            ⬜🟩⬜🟨🟨: BOULE
-            🟩⬜⬜🟩🟨: MELEE
+            ⬜🟨🟨⬜🟩: IMBUE
         ⬜🟨⬜⬜🟨:
-          guess: LODGE (4?)
+          guess: SPIKE (4?)
           next:
-            🟨⬜⬜🟨🟩: BUGLE
-            🟨⬜⬜🟩🟩: BULGE
-            🟩⬜🟩🟩🟩: LEDGE
-        ⬜🟨⬜🟨⬜: NOBLE
-        ⬜🟨⬜🟨🟨: LUNGE
-        ⬜🟨🟨⬜⬜:
-          guess: BIBLE (2?)
-          next:
-            🟩🟨⬜🟨🟩: BELIE
-        ⬜🟨🟨⬜🟨:
-          guess: LIEGE (2?)
-          next:
-            🟨🟩🟨🟩🟩: BILGE
-        ⬜🟨🟩⬜⬜:
-          guess: EXILE (2?)
-          next:
-            🟨⬜🟩🟩🟩: WHILE
-        ⬜🟨🟩⬜🟨: GUILE
-        ⬜🟩⬜⬜⬜:
-          guess: DUMPY (6)
-          next:
-            ⬜⬜⬜⬜⬜: BLOKE
-            ⬜⬜⬜🟩⬜: ELOPE
-            ⬜🟨⬜⬜⬜: FLUKE
-            ⬜🟨🟨⬜⬜: FLUME
-            ⬜🟨🟨🟨⬜: PLUME
-            🟨🟨⬜⬜⬜: ELUDE
-        ⬜🟩⬜⬜🟨:
-          guess: GLOVE (2?)
-          next:
-            🟩🟩🟩⬜🟩: GLOBE
-        ⬜🟩🟩⬜⬜:
-          guess: OLIVE (2?)
-          next:
-            ⬜🟩🟩⬜🟩: ELIDE
-        ⬜🟩🟩⬜🟨: GLIDE
-        🟨⬜⬜⬜⬜:
-          guess: HUMPH (6)
-          next:
-            ⬜⬜⬜⬜⬜: OBESE
-            ⬜⬜⬜🟨⬜: POSSE
-            ⬜⬜🟨⬜⬜: MOOSE
-            ⬜🟨🟨⬜⬜: MOUSE
-            🟨⬜⬜⬜⬜: WHOSE
-            🟩🟨⬜⬜⬜: HOUSE
-        🟨⬜⬜⬜🟨:
-          guess: GOOSE (2?)
-          next:
-            🟩⬜⬜🟩🟩: GEESE
-        🟨⬜⬜🟨⬜:
-          guess: NOOSE (3?)
-          next:
-            🟨⬜⬜🟨🟩: ENSUE
-            🟨⬜⬜🟩🟩: DENSE
-        🟨⬜🟨⬜⬜: ISSUE
-        🟨⬜🟩⬜⬜: POISE
-        🟨⬜🟩⬜🟨: GUISE
-        🟨⬜🟩🟨⬜: NOISE
-        🟨🟨⬜⬜⬜:
-          guess: LOUSE (3?)
-          next:
-            🟨⬜🟨🟩🟩: PULSE
-            🟩🟩⬜🟩🟩: LOOSE
-        🟩⬜⬜⬜⬜:
-          guess: SMOKE (3?)
-          next:
-            🟩⬜🟩⬜🟩: SHOVE
-            🟩⬜🟩🟩🟩: SPOKE
-        🟩⬜⬜⬜🟨: SEGUE
-        🟩⬜⬜🟨⬜: SENSE
-        🟩⬜⬜🟩⬜: SHONE
-        🟩⬜🟨⬜⬜: SIEVE
-        🟩⬜🟨⬜🟨: SIEGE
-        🟩⬜🟨🟨🟨: SINGE
-        🟩⬜🟩⬜⬜:
-          guess: SPIKE (2?)
-          next:
+            🟨⬜🟨⬜🟩: ISSUE
+            🟨⬜🟩⬜🟩: GUISE
             🟩⬜🟩⬜🟩: SEIZE
-        🟩⬜🟩🟨⬜:
+        ⬜🟨⬜🟨⬜:
+          guess: GENIE (2?)
+          next:
+            ⬜🟨🟨🟨🟩: KNIFE
+        ⬜🟨⬜🟨🟨:
           guess: SNIDE (2?)
           next:
             🟩🟩🟩⬜🟩: SNIPE
-        🟩⬜🟩🟩⬜:
-          guess: HUMPH (3)
+        ⬜🟨⬜🟩⬜: WHINE
+        ⬜🟨⬜🟩🟨:
+          guess: PITHY (3)
           next:
-            ⬜⬜⬜⬜⬜: SWINE
-            ⬜⬜⬜🟨⬜: SPINE
-            🟨⬜⬜⬜⬜: SHINE
-        🟩🟨⬜⬜⬜: SOLVE
-        🟩🟨🟩⬜⬜: SMILE
-        🟩🟩⬜⬜⬜: SLOPE
-        🟩🟩🟩⬜⬜:
-          guess: SLIDE (2?)
+            ⬜🟨⬜⬜⬜: SWINE
+            ⬜🟨⬜🟨⬜: SHINE
+            🟨🟨⬜⬜⬜: SPINE
+        ⬜🟨🟨⬜⬜:
+          guess: MOVIE (2?)
           next:
-            🟩🟩🟩⬜🟩: SLIME
+            ⬜🟨⬜🟨🟩: OXIDE
+        ⬜🟨🟨⬜🟨: POISE
+        ⬜🟨🟨🟨🟨: NOISE
+        ⬜🟨🟨🟩⬜:
+          guess: OPINE (2?)
+          next:
+            🟩⬜🟩🟩🟩: OVINE
+        ⬜🟩⬜⬜⬜:
+          guess: PIQUE (3?)
+          next:
+            ⬜🟩⬜⬜🟩: MIDGE
+            🟩🟩⬜⬜🟩: PIXIE
+        ⬜🟩⬜⬜🟨:
+          guess: SIEGE (2?)
+          next:
+            🟩🟩🟩⬜🟩: SIEVE
+        ⬜🟩⬜🟨⬜:
+          guess: HINGE (2?)
+          next:
+            ⬜🟩🟩🟩🟩: BINGE
+        ⬜🟩⬜🟨🟨: SINGE
+        ⬜🟩🟩⬜⬜:
+          guess: BIOME (2?)
+          next:
+            ⬜🟩🟩⬜🟩: DIODE
+        🟨⬜⬜⬜⬜:
+          guess: DUMPY (9)
+          next:
+            ⬜⬜⬜⬜⬜: BELLE
+            ⬜⬜🟨⬜⬜: MELEE
+            ⬜🟨⬜⬜⬜: FLUKE
+            ⬜🟨🟨⬜⬜: FLUME
+            ⬜🟨🟨🟨⬜: PLUME
+            ⬜🟩⬜⬜⬜:
+              guess: BUGLE (2?)
+              next:
+                🟩🟩🟨🟨🟩: BULGE
+            🟨🟨⬜⬜⬜: ELUDE
+            🟩⬜⬜⬜⬜: DELVE
+        🟨⬜⬜⬜🟨: PULSE
+        🟨⬜🟨⬜⬜: BOULE
+        🟨⬜🟨⬜🟨: SOLVE
+        🟨⬜🟨🟨⬜: NOBLE
+        🟨⬜🟩⬜⬜:
+          guess: GLOBE (5?)
+          next:
+            ⬜🟨🟩⬜🟩: WHOLE
+            ⬜🟩🟩⬜🟩: ELOPE
+            ⬜🟩🟩🟨🟩: BLOKE
+            🟩🟩🟩⬜🟩: GLOVE
+        🟨⬜🟩⬜🟨: SLOPE
+        🟨🟨⬜⬜⬜:
+          guess: EAGLE (6)
+          next:
+            🟨⬜⬜🟨🟩: BELIE
+            🟨⬜⬜🟩🟩: WHILE
+            🟨⬜🟨🟨🟩: GLIDE
+            🟨⬜🟨🟩🟩: GUILE
+            🟩⬜⬜🟨🟩: ELIDE
+            🟩⬜⬜🟩🟩: EXILE
+        🟨🟨⬜⬜🟨:
+          guess: SMILE (3?)
+          next:
+            🟩⬜🟩🟨🟩: SLIDE
+            🟩🟨🟩🟨🟩: SLIME
+        🟨🟨🟨⬜⬜: OLIVE
+        🟨🟩⬜⬜⬜:
+          guess: BILGE (2?)
+          next:
+            🟩🟩🟨⬜🟩: BIBLE
+        🟩⬜⬜⬜⬜: LEDGE
+        🟩⬜⬜🟨⬜: LUNGE
+        🟩⬜🟨⬜⬜: LODGE
+        🟩⬜🟨⬜🟨: LOUSE
+        🟩⬜🟩⬜🟨: LOOSE
+        🟩🟩⬜⬜⬜: LIEGE
     ⬜⬜⬜🟨⬜:
       guess: MUILS (48)
       next:
@@ -779,9 +780,9 @@ flow:
             🟨🟨⬜⬜🟨: CHILD
             🟩⬜⬜⬜🟨: ICILY
         ⬜🟨⬜⬜⬜:
-          guess: CHUNK (2?)
+          guess: COUGH (2?)
           next:
-            🟩🟨🟩⬜⬜: COUGH
+            🟩⬜🟩⬜🟨: CHUNK
         ⬜🟨⬜⬜🟩: FOCUS
         ⬜🟨⬜🟨⬜:
           guess: CLUNG (2?)
@@ -861,11 +862,11 @@ flow:
         🟨⬜⬜🟨⬜: SMOCK
         🟨⬜⬜🟨🟨: SHOCK
         🟨⬜🟨⬜🟩:
-          guess: DWARF (3)
+          guess: FEWER (3)
           next:
             ⬜⬜⬜⬜⬜: PINCH
-            ⬜⬜⬜⬜🟨: FINCH
-            ⬜🟨⬜⬜⬜: WINCH
+            ⬜⬜🟨⬜⬜: WINCH
+            🟩⬜⬜⬜⬜: FINCH
         🟨⬜🟨🟨⬜: DISCO
         🟨⬜🟩⬜⬜: FLICK
         🟨⬜🟩⬜🟩: WHICH
@@ -906,18 +907,18 @@ flow:
         🟩🟨⬜⬜🟨: CHUCK
         🟩🟨⬜⬜🟩: COUCH
     ⬜⬜⬜🟩🟨:
-      guess: WHELP (10)
+      guess: BLEEP (10)
       next:
+        ⬜⬜🟨⬜⬜: WENCH
+        ⬜⬜🟨⬜🟨: EPOCH
+        ⬜⬜🟩⬜⬜: CHECK
         ⬜⬜🟩⬜🟨: SPECK
-        ⬜⬜🟩🟨⬜: FLECK
-        ⬜🟨🟨⬜⬜: BENCH
-        ⬜🟨🟨⬜🟨: EPOCH
-        ⬜🟨🟨🟨⬜: BELCH
-        ⬜🟨🟩⬜⬜: BEECH
-        ⬜🟨🟩🟨⬜: LEECH
-        ⬜🟩🟩⬜⬜: CHECK
-        🟩🟨🟨⬜⬜: WENCH
-        🟩🟨🟨🟨⬜: WELCH
+        ⬜🟨🟨⬜⬜: WELCH
+        ⬜🟨🟩⬜⬜: LEECH
+        ⬜🟩🟩⬜⬜: FLECK
+        🟩⬜🟨⬜⬜: BENCH
+        🟩⬜🟩⬜⬜: BEECH
+        🟩🟨🟨⬜⬜: BELCH
     ⬜⬜⬜🟩🟩:
       guess: NOUPS (15)
       next:
@@ -928,12 +929,12 @@ flow:
         ⬜⬜🟩⬜⬜: DEUCE
         ⬜🟩⬜⬜⬜: VOICE
         🟨⬜⬜⬜⬜:
-          guess: FEWER (4)
+          guess: WENCH (4)
           next:
-            ⬜🟨⬜⬜⬜: MINCE
-            ⬜🟨🟨⬜⬜: WINCE
-            ⬜🟩⬜⬜⬜: HENCE
-            🟩🟩⬜⬜⬜: FENCE
+            ⬜🟨🟩🟩⬜: MINCE
+            ⬜🟩🟩🟩⬜: FENCE
+            ⬜🟩🟩🟩🟨: HENCE
+            🟩🟨🟩🟩⬜: WINCE
         🟨⬜⬜⬜🟨: SINCE
         🟨⬜⬜🟨⬜: PENCE
         🟨⬜🟨⬜⬜: DUNCE
@@ -1140,12 +1141,12 @@ flow:
           next:
             🟩🟨🟩🟩⬜: ABLED
         ⬜🟨⬜🟨🟩:
-          guess: BLUSH (4)
+          guess: EPOCH (4)
           next:
-            ⬜🟨⬜⬜⬜: LAPEL
-            ⬜🟨⬜⬜🟨: HAZEL
-            ⬜🟨⬜🟨⬜: EASEL
-            🟨🟨⬜⬜⬜: LABEL
+            🟨⬜⬜⬜⬜: LABEL
+            🟨⬜⬜⬜🟨: HAZEL
+            🟨🟨⬜⬜⬜: LAPEL
+            🟩⬜⬜⬜⬜: EASEL
         ⬜🟨⬜🟩⬜:
           guess: ESSAY (3?)
           next:
@@ -1160,15 +1161,15 @@ flow:
           next:
             🟨⬜⬜🟩🟩: IDEAL
         ⬜🟨🟨🟨⬜:
-          guess: HOWDY (7)
+          guess: ALOHA (7)
           next:
-            ⬜⬜⬜⬜⬜: ENEMA
-            ⬜⬜⬜🟨⬜: AMEND
-            ⬜⬜🟨⬜⬜: WAXEN
-            ⬜🟨⬜⬜⬜: OAKEN
-            🟨⬜⬜⬜⬜: ASHEN
-            🟩⬜⬜⬜⬜: HAVEN
-            🟩⬜⬜⬜🟨: HYENA
+            🟨⬜⬜⬜⬜: WAXEN
+            🟨⬜⬜⬜🟩: ENEMA
+            🟨⬜⬜🟨⬜: HAVEN
+            🟨⬜⬜🟨🟩: HYENA
+            🟨⬜🟨⬜⬜: OAKEN
+            🟩⬜⬜⬜⬜: AMEND
+            🟩⬜⬜🟨⬜: ASHEN
         ⬜🟨🟨🟨🟨:
           guess: ALIEN (2?)
           next:
@@ -1237,15 +1238,15 @@ flow:
         ⬜🟩⬜⬜🟨: PAUSE
         ⬜🟩⬜🟨⬜: BADGE
         ⬜🟩🟨⬜⬜:
-          guess: CIGAR (3)
+          guess: QUIET (3)
           next:
-            ⬜⬜⬜🟨⬜: MAUVE
-            ⬜⬜🟨🟨⬜: MANGE
-            ⬜🟨⬜🟨⬜: MAIZE
+            ⬜⬜⬜🟨⬜: MANGE
+            ⬜⬜🟩🟨⬜: MAIZE
+            ⬜🟨⬜🟨⬜: MAUVE
         ⬜🟩🟨⬜🟨: MASSE
         ⬜🟩🟨🟩⬜: MAYBE
         🟨🟨⬜⬜⬜:
-          guess: BLINK (8)
+          guess: CLINK (8)
           next:
             ⬜🟨⬜⬜⬜: APPLE
             ⬜🟨⬜🟨⬜: ANGLE
@@ -1332,12 +1333,12 @@ flow:
         🟨⬜⬜🟩⬜: CAMEO
         🟩⬜⬜🟨🟩: OCEAN
     ⬜⬜🟨🟨🟩:
-      guess: BLUSH (4)
+      guess: FOCAL (4)
       next:
-        ⬜⬜⬜⬜⬜: CANOE
-        ⬜⬜⬜⬜🟨: CACHE
-        ⬜⬜🟩🟩⬜: CAUSE
-        🟨🟨⬜⬜⬜: CABLE
+        ⬜⬜🟨🟨⬜: CAUSE
+        ⬜⬜🟨🟨🟨: CABLE
+        ⬜⬜🟩🟨⬜: CACHE
+        ⬜🟨🟨🟨⬜: CANOE
     ⬜⬜🟨🟩⬜:
       guess: FANCY (2?)
       next:
@@ -1355,15 +1356,15 @@ flow:
         ⬜⬜⬜⬜🟨: PIANO
         ⬜⬜⬜⬜🟩: AGAIN
         ⬜⬜⬜🟨⬜:
-          guess: BLIMP (7)
+          guess: FLIMP (7)
           next:
             ⬜🟨⬜🟩⬜: LOAMY
             ⬜🟨🟨⬜⬜: AVAIL
-            ⬜🟩⬜⬜⬜: FLAKY
             ⬜🟩⬜⬜🟨: PLAZA
             ⬜🟩⬜🟩⬜: LLAMA
-            ⬜🟩🟨⬜⬜: FLAIL
             ⬜🟩🟨⬜🟨: PLAID
+            🟩🟩⬜⬜⬜: FLAKY
+            🟩🟩🟨⬜⬜: FLAIL
         ⬜⬜⬜🟨🟨:
           guess: BIFID (5)
           next:
@@ -1419,18 +1420,18 @@ flow:
         🟩🟩⬜🟨⬜: SHAWL
         🟩🟩⬜🟩⬜: SHALL
     ⬜⬜🟩⬜🟨:
-      guess: HUMID (8)
+      guess: CHILD (8)
       next:
-        ⬜⬜⬜⬜⬜:
+        ⬜⬜⬜⬜🟨: BEADY
+        ⬜⬜⬜🟨⬜:
           guess: LEAKY (2?)
           next:
             🟩🟩🟩⬜🟩: LEAFY
-        ⬜⬜⬜⬜🟨: BEADY
-        ⬜⬜🟨⬜⬜: MEALY
-        ⬜⬜🟨🟩⬜: EMAIL
-        🟨⬜⬜⬜⬜: LEASH
-        🟩⬜⬜⬜⬜: HEAVY
-        🟩⬜⬜⬜🟨: HEADY
+        ⬜⬜⬜🟩⬜: MEALY
+        ⬜⬜🟨🟨⬜: EMAIL
+        ⬜🟨⬜⬜⬜: HEAVY
+        ⬜🟨⬜⬜🟨: HEADY
+        ⬜🟨⬜🟨⬜: LEASH
     ⬜⬜🟩⬜🟩:
       guess: SLUMP (35)
       next:
@@ -1455,13 +1456,13 @@ flow:
           next:
             🟨🟨🟩⬜🟩: WHALE
         ⬜🟩⬜⬜⬜:
-          guess: BADGE (5)
+          guess: BUDGE (5)
           next:
-            ⬜🟨⬜⬜🟩: FLAKE
-            ⬜🟨⬜🟨🟩: GLAZE
-            ⬜🟨🟨🟨🟩: GLADE
-            🟩🟨⬜⬜🟩: BLAZE
-            🟩🟨🟨⬜🟩: BLADE
+            ⬜⬜⬜⬜🟩: FLAKE
+            ⬜⬜⬜🟨🟩: GLAZE
+            ⬜⬜🟨🟨🟩: GLADE
+            🟩⬜⬜⬜🟩: BLAZE
+            🟩⬜🟨⬜🟩: BLADE
         ⬜🟩⬜⬜🟨: PLANE
         ⬜🟩⬜🟩⬜:
           guess: FLAME (2?)
@@ -1517,30 +1518,30 @@ flow:
         🟩⬜🟩🟩🟩: CEASE
         🟩🟩🟩⬜🟩: CHAFE
     ⬜⬜🟩🟩⬜:
-      guess: BLUSH (12)
+      guess: SHLUB (12)
       next:
         ⬜⬜⬜⬜⬜: KNACK
-        ⬜⬜⬜⬜🟨: WHACK
-        ⬜⬜⬜⬜🟩: COACH
-        ⬜⬜⬜🟨⬜:
-          guess: SMACK (2?)
-          next:
-            🟩⬜🟩🟩🟩: SNACK
-        ⬜⬜⬜🟨🟨: SHACK
-        ⬜⬜🟨⬜⬜: QUACK
-        ⬜🟩⬜⬜⬜:
+        ⬜⬜⬜⬜🟨: ABACK
+        ⬜⬜⬜🟨⬜: QUACK
+        ⬜⬜🟨⬜⬜:
           guess: FLACK (2?)
           next:
             ⬜🟩🟩🟩🟩: CLACK
-        ⬜🟩⬜🟨⬜: SLACK
-        🟨⬜⬜⬜⬜: ABACK
-        🟩🟩⬜⬜⬜: BLACK
+        ⬜⬜🟨⬜🟨: BLACK
+        ⬜🟨⬜⬜⬜: COACH
+        ⬜🟩⬜⬜⬜: WHACK
+        🟩⬜⬜⬜⬜:
+          guess: SMACK (2?)
+          next:
+            🟩⬜🟩🟩🟩: SNACK
+        🟩⬜🟨⬜⬜: SLACK
+        🟩🟩⬜⬜⬜: SHACK
     ⬜⬜🟩🟩🟨:
-      guess: BLUSH (3)
+      guess: BELLY (3)
       next:
-        ⬜⬜⬜⬜🟩: PEACH
-        ⬜🟨⬜⬜🟩: LEACH
-        🟩⬜⬜⬜🟩: BEACH
+        ⬜🟩⬜⬜⬜: PEACH
+        ⬜🟩🟨⬜⬜: LEACH
+        🟩🟩⬜⬜⬜: BEACH
     ⬜⬜🟩🟩🟩:
       guess: PLACE (3?)
       next:
@@ -1550,10 +1551,10 @@ flow:
       guess: SOUND (64)
       next:
         ⬜⬜⬜⬜⬜:
-          guess: MYRRH (3?)
+          guess: GIRLY (3?)
           next:
-            ⬜⬜🟨🟩🟨: WHIRL
-            ⬜🟨🟩⬜⬜: GIRLY
+            ⬜⬜🟩⬜🟨: MYRRH
+            ⬜🟨🟨🟨⬜: WHIRL
         ⬜⬜⬜⬜🟩: RIGID
         ⬜⬜🟨⬜⬜:
           guess: MYRRH (6)
@@ -1587,18 +1588,18 @@ flow:
             🟩🟨🟨⬜⬜: FLOUR
             🟩🟨🟩⬜⬜: FUROR
         ⬜🟩⬜⬜⬜:
-          guess: FLUME (5)
+          guess: GROWL (5)
           next:
-            ⬜⬜⬜⬜⬜: WORRY
-            ⬜⬜⬜🟨⬜: MORPH
-            ⬜⬜⬜🟩⬜: ROOMY
-            ⬜🟨⬜⬜⬜: LORRY
-            🟩⬜⬜⬜⬜: FORGO
+            ⬜🟨🟨⬜⬜: MORPH
+            ⬜🟨🟨⬜🟨: LORRY
+            ⬜🟨🟨🟨⬜: WORRY
+            ⬜🟨🟩⬜⬜: ROOMY
+            🟨🟨🟨⬜⬜: FORGO
         ⬜🟩⬜⬜🟨:
-          guess: DOWRY (3?)
+          guess: ROWDY (3?)
           next:
-            🟨🟩🟨🟨🟩: WORDY
-            🟨🟩🟩🟨🟩: ROWDY
+            🟨🟩🟨🟩🟩: WORDY
+            🟨🟩🟩🟨🟩: DOWRY
         ⬜🟩⬜⬜🟩: WORLD
         ⬜🟩⬜🟨⬜:
           guess: ROBIN (3?)
@@ -1623,11 +1624,11 @@ flow:
             🟩⬜🟩🟩⬜: SWIRL
             🟩⬜🟩🟩🟩: SMIRK
         🟩⬜🟨⬜⬜:
-          guess: SHRUB (4?)
+          guess: SHRUG (4?)
           next:
             🟩⬜🟩🟨⬜: SURLY
             🟩⬜🟩🟩⬜: SYRUP
-            🟩🟩🟩🟩⬜: SHRUG
+            🟩🟩🟩🟩⬜: SHRUB
         🟩⬜🟩⬜⬜: SLURP
         🟩⬜🟩🟨⬜: SPURN
         🟩🟨⬜⬜🟩: SWORD
@@ -1767,12 +1768,12 @@ flow:
         ⬜🟩⬜🟩🟨: WIDER
         ⬜🟩🟨🟩⬜: RIPEN
         ⬜🟩🟩🟩⬜:
-          guess: MODEL (4)
+          guess: FLUME (4)
           next:
-            ⬜⬜⬜🟩⬜: FINER
-            ⬜⬜⬜🟩🟨: LINER
-            ⬜⬜🟨🟩⬜: DINER
-            🟩⬜⬜🟩⬜: MINER
+            ⬜⬜⬜⬜🟨: DINER
+            ⬜⬜⬜🟨🟨: MINER
+            ⬜🟨⬜⬜🟨: LINER
+            🟩⬜⬜⬜🟨: FINER
         🟨⬜⬜🟨⬜:
           guess: REBUS (2?)
           next:
@@ -1888,11 +1889,11 @@ flow:
         🟨⬜🟩⬜🟨: SCORN
         🟨⬜🟩⬜🟩: SCOUR
         🟩⬜⬜⬜🟨:
-          guess: NAVAL (3)
+          guess: SWIRL (3)
           next:
-            ⬜⬜⬜⬜⬜: CURRY
-            ⬜⬜⬜⬜🟨: CURLY
-            ⬜⬜🟨⬜⬜: CURVY
+            ⬜⬜⬜🟨⬜: CURVY
+            ⬜⬜⬜🟨🟨: CURLY
+            ⬜⬜⬜🟩⬜: CURRY
         🟩⬜🟨⬜🟨: CORNY
         🟩⬜🟨⬜🟩: COLOR
         🟩⬜🟨🟩🟨: CURIO
@@ -1928,11 +1929,11 @@ flow:
         🟨🟨⬜🟨🟩: CURSE
         🟩🟩⬜🟨🟩: SCREE
     ⬜🟨⬜🟩⬜:
-      guess: REBUT (3)
+      guess: STOOL (3)
       next:
-        🟨⬜⬜⬜⬜: PORCH
-        🟨⬜⬜🟨⬜: LURCH
-        🟨⬜🟨⬜⬜: BIRCH
+        ⬜⬜⬜⬜⬜: BIRCH
+        ⬜⬜⬜⬜🟨: LURCH
+        ⬜⬜🟨⬜⬜: PORCH
     ⬜🟨⬜🟩🟨:
       guess: PERCH (2?)
       next:
@@ -1942,22 +1943,22 @@ flow:
       guess: PYLON (61)
       next:
         ⬜⬜⬜⬜⬜:
-          guess: HUMID (12)
+          guess: BUDAS (12)
           next:
-            ⬜⬜⬜⬜🟨: RADAR
-            ⬜⬜⬜🟨⬜: RABBI
-            ⬜⬜⬜🟩🟨: RADII
-            ⬜⬜⬜🟩🟩: RABID
-            ⬜⬜🟨⬜⬜: KARMA
-            ⬜🟨🟨⬜⬜: UMBRA
-            ⬜🟩⬜⬜⬜:
-              guess: SUGAR (2?)
+            ⬜⬜⬜🟨⬜: KARMA
+            ⬜⬜⬜🟨🟨:
+              guess: MARSH (2?)
               next:
-                ⬜🟩🟩🟨🟩: AUGUR
-            ⬜🟩🟩⬜⬜: RUMBA
-            🟨⬜⬜⬜⬜: RAJAH
-            🟨⬜🟨⬜⬜: MARSH
-            🟩⬜⬜⬜⬜: HARSH
+                ⬜🟩🟩🟩🟩: HARSH
+            ⬜⬜⬜🟩⬜: RAJAH
+            ⬜⬜🟩🟨⬜: RADII
+            ⬜⬜🟩🟩⬜: RADAR
+            ⬜🟩⬜🟨⬜: AUGUR
+            ⬜🟩⬜🟩🟨: SUGAR
+            🟨⬜⬜🟨⬜: RABBI
+            🟨⬜🟨🟨⬜: RABID
+            🟨🟨⬜🟨⬜: UMBRA
+            🟨🟩⬜🟨⬜: RUMBA
         ⬜⬜⬜⬜🟨: NADIR
         ⬜⬜⬜🟨⬜:
           guess: CIGAR (3)
@@ -2038,11 +2039,11 @@ flow:
             ⬜🟩🟩🟩🟩: REBAR
             🟨🟨⬜🟨🟩: AIDER
         ⬜🟨⬜🟨⬜:
-          guess: HUMPH (3)
+          guess: THUMB (3)
           next:
             ⬜⬜⬜⬜⬜: SWEAR
-            ⬜⬜🟨⬜⬜: SMEAR
-            🟨⬜⬜⬜⬜: SHEAR
+            ⬜⬜⬜🟨⬜: SMEAR
+            ⬜🟩⬜⬜⬜: SHEAR
         ⬜🟨🟨⬜⬜:
           guess: REGAL (3?)
           next:
@@ -2174,19 +2175,19 @@ flow:
         ⬜🟨🟨⬜🟩: READY
         🟩🟨🟨⬜⬜: BEARD
     ⬜🟨🟩⬜🟩:
-      guess: BLUSH (7)
+      guess: SLUNG (7)
       next:
         ⬜⬜⬜⬜⬜: AWARE
-        ⬜⬜⬜🟨⬜:
-          guess: SNARE (2?)
-          next:
-            🟩⬜🟩🟩🟩: SPARE
-        ⬜⬜⬜🟨🟨: SHARE
         ⬜🟩⬜⬜⬜:
-          guess: GLARE (2?)
+          guess: BLARE (2?)
           next:
             ⬜🟩🟩🟩🟩: FLARE
-        🟩🟩⬜⬜⬜: BLARE
+        ⬜🟩⬜⬜🟨: GLARE
+        🟩⬜⬜⬜⬜:
+          guess: SHARE (2?)
+          next:
+            🟩⬜🟩🟩🟩: SPARE
+        🟩⬜⬜🟨⬜: SNARE
     ⬜🟨🟩🟨⬜:
       guess: HYDRO (5)
       next:
@@ -2199,81 +2200,83 @@ flow:
     ⬜🟨🟩🟩⬜: ROACH
     ⬜🟨🟩🟩🟨: REACH
     ⬜🟩⬜⬜⬜:
-      guess: GUILD (49)
+      guess: BIDON (49)
       next:
         ⬜⬜⬜⬜⬜:
-          guess: BUXOM (6)
+          guess: WRYLY (2?)
           next:
-            ⬜⬜⬜🟨⬜: FROWN
-            ⬜⬜⬜🟩⬜: PROOF
-            ⬜⬜🟨🟨⬜: PROXY
-            🟩⬜⬜🟨⬜: BROWN
-            🟩⬜⬜🟩⬜: BROOK
-            🟩⬜⬜🟩🟩: BROOM
-        ⬜⬜⬜⬜🟨:
-          guess: STINK (3)
+            ⬜🟩⬜⬜⬜: GRUFF
+        ⬜⬜⬜⬜🟨: WRUNG
+        ⬜⬜⬜🟨⬜:
+          guess: PROWL (5?)
           next:
-            ⬜⬜⬜⬜⬜: DROOP
-            ⬜⬜⬜🟨⬜: DROWN
-            🟨⬜⬜⬜⬜: DROSS
-        ⬜⬜⬜⬜🟩:
-          guess: BROOD (2?)
-          next:
-            ⬜🟩🟩⬜🟩: FROND
-        ⬜⬜⬜🟨⬜: PROWL
-        ⬜⬜⬜🟨🟨: DROOL
-        ⬜⬜⬜🟩⬜: WRYLY
-        ⬜⬜⬜🟩🟨:
-          guess: DROLL (2?)
-          next:
-            🟩🟩⬜🟩⬜: DRYLY
-        ⬜⬜🟨⬜⬜: IRONY
-        ⬜⬜🟨🟨⬜: BROIL
-        ⬜⬜🟩⬜⬜:
-          guess: ABYSM (8)
-          next:
-            ⬜⬜⬜⬜⬜: PRIOR
-            ⬜⬜⬜⬜🟨: PRIMO
-            ⬜⬜⬜🟩⬜: FRISK
-            ⬜⬜⬜🟩🟩: PRISM
-            ⬜⬜🟨⬜⬜: PRIVY
-            ⬜🟨⬜⬜⬜: BRINK
-            ⬜🟨⬜🟩⬜: BRISK
-            ⬜🟨🟨⬜⬜: BRINY
-        ⬜⬜🟩⬜🟨: DRINK
-        ⬜⬜🟩🟩⬜:
-          guess: KRILL (2?)
-          next:
-            ⬜🟩🟩🟩🟩: FRILL
-        ⬜⬜🟩🟩🟨: DRILL
-        ⬜🟨⬜⬜⬜: BRUSH
-        ⬜🟨⬜⬜🟨: DRUNK
-        ⬜🟨⬜⬜🟩: PROUD
-        ⬜🟨🟨⬜🟩: DRUID
-        🟨⬜⬜⬜⬜:
+            ⬜🟩🟩⬜⬜: GROSS
+            ⬜🟩🟩🟩🟩: GROWL
+            🟨🟩🟩⬜⬜: GROUP
+            🟩🟩🟩⬜⬜: PROXY
+        ⬜⬜⬜🟨🟨:
           guess: PRONG (2?)
           next:
             ⬜🟩🟩🟩🟩: WRONG
-        🟨⬜🟩⬜⬜:
-          guess: BRING (2?)
+        ⬜⬜⬜🟨🟩:
+          guess: GROWN (2?)
           next:
-            ⬜🟩🟩🟩🟩: WRING
-        🟨🟨⬜⬜⬜: WRUNG
-        🟩⬜⬜⬜⬜:
-          guess: STINK (3)
+            ⬜🟩🟩🟩🟩: FROWN
+        ⬜⬜⬜🟩⬜:
+          guess: GROOM (2?)
           next:
-            ⬜⬜⬜⬜⬜: GROOM
-            ⬜⬜⬜🟨⬜: GROWN
-            🟨⬜⬜⬜⬜: GROSS
-        🟩⬜⬜🟨⬜: GROWL
-        🟩⬜🟨⬜⬜: GROIN
-        🟩⬜🟩⬜⬜: GRIMY
-        🟩⬜🟩⬜🟩: GRIND
-        🟩⬜🟩🟩⬜: GRILL
-        🟩🟨⬜⬜⬜:
-          guess: GROUP (2?)
+            ⬜🟩🟩🟩⬜: PROOF
+        ⬜⬜🟨⬜⬜: DRYLY
+        ⬜⬜🟨⬜🟨: DRUNK
+        ⬜⬜🟨🟨⬜:
+          guess: DROLL (3?)
           next:
-            🟩🟩⬜🟨⬜: GRUFF
+            🟨🟩🟩⬜⬜: PROUD
+            🟩🟩🟩⬜⬜: DROSS
+        ⬜⬜🟨🟨🟨: FROND
+        ⬜⬜🟨🟨🟩: DROWN
+        ⬜⬜🟨🟩⬜:
+          guess: DROOP (2?)
+          next:
+            🟩🟩🟩🟩⬜: DROOL
+        ⬜🟨⬜⬜⬜:
+          guess: FLAGS (7)
+          next:
+            ⬜⬜⬜⬜⬜: PRIVY
+            ⬜⬜⬜⬜🟨: PRISM
+            ⬜⬜⬜🟨⬜: GRIMY
+            ⬜🟨⬜⬜⬜: KRILL
+            ⬜🟨⬜🟨⬜: GRILL
+            🟩⬜⬜⬜🟨: FRISK
+            🟩🟨⬜⬜⬜: FRILL
+        ⬜🟨⬜⬜🟨: WRING
+        ⬜🟨⬜🟨⬜: PRIMO
+        ⬜🟨⬜🟨🟨: IRONY
+        ⬜🟨⬜🟨🟩: GROIN
+        ⬜🟨⬜🟩⬜: PRIOR
+        ⬜🟨🟨⬜⬜:
+          guess: DRILL (2?)
+          next:
+            🟩🟩🟨⬜⬜: DRUID
+        ⬜🟨🟨⬜🟨:
+          guess: GRIND (2?)
+          next:
+            ⬜🟩🟩🟩🟨: DRINK
+        🟩⬜⬜⬜⬜: BRUSH
+        🟩⬜⬜🟨🟩: BROWN
+        🟩⬜⬜🟩⬜:
+          guess: BROOM (2?)
+          next:
+            🟩🟩🟩🟩⬜: BROOK
+        🟩⬜🟨🟩⬜: BROOD
+        🟩🟨⬜⬜⬜: BRISK
+        🟩🟨⬜⬜🟨:
+          guess: GAUDY (3)
+          next:
+            ⬜⬜⬜⬜⬜: BRINK
+            ⬜⬜⬜⬜🟩: BRINY
+            🟨⬜⬜⬜⬜: BRING
+        🟩🟨⬜🟨⬜: BROIL
     ⬜🟩⬜⬜🟨:
       guess: DINGS (19)
       next:
@@ -2318,11 +2321,11 @@ flow:
           next:
             ⬜🟩🟩🟩🟩: URINE
         ⬜🟨⬜⬜⬜:
-          guess: FEIGN (3)
+          guess: FLICK (3)
           next:
-            ⬜🟨⬜⬜⬜: BROKE
-            ⬜🟨⬜🟨⬜: GROVE
-            🟩🟨⬜⬜⬜: FROZE
+            ⬜⬜⬜⬜⬜: GROVE
+            ⬜⬜⬜⬜🟨: BROKE
+            🟩⬜⬜⬜⬜: FROZE
         ⬜🟨⬜🟨⬜: DROVE
         ⬜🟨⬜🟩⬜: ERODE
         ⬜🟨🟨🟨⬜: DRONE
@@ -2338,9 +2341,9 @@ flow:
             🟩🟩⬜🟩🟩: PRUDE
         🟩⬜🟨⬜⬜: PRUNE
         🟩🟨⬜⬜⬜:
-          guess: PROVE (2?)
+          guess: PROBE (2?)
           next:
-            🟩🟩🟩⬜🟩: PROBE
+            🟩🟩🟩⬜🟩: PROVE
         🟩🟨⬜⬜🟨: PROSE
         🟩🟨🟨⬜⬜: PRONE
     ⬜🟩⬜🟨⬜:
@@ -2488,11 +2491,11 @@ flow:
         🟨⬜🟨⬜⬜: CRAZY
         🟨🟨⬜⬜⬜: CRAMP
     ⬜🟩🟩🟨🟩:
-      guess: NAVAL (3)
+      guess: DOZEN (3)
       next:
-        ⬜🟨⬜⬜⬜: CRAZE
-        ⬜🟨🟨⬜⬜: CRAVE
-        🟨🟨⬜⬜⬜: CRANE
+        ⬜⬜⬜🟨⬜: CRAVE
+        ⬜⬜⬜🟨🟨: CRANE
+        ⬜⬜🟨🟨⬜: CRAZE
     ⬜🟩🟩🟩⬜:
       guess: WRACK (2?)
       next:
@@ -2505,14 +2508,14 @@ flow:
       guess: POINT (113?)
       next:
         ⬜⬜⬜⬜🟨:
-          guess: GUILD (6)
+          guess: MOLDY (6)
           next:
-            ⬜🟨⬜⬜⬜: STUFF
-            ⬜🟨⬜⬜🟨: STUDY
-            ⬜🟩⬜⬜⬜: MUSTY
-            ⬜🟩⬜⬜🟨: DUSTY
-            ⬜🟩⬜🟨⬜: LUSTY
-            🟩🟩⬜⬜⬜: GUSTY
+            ⬜⬜⬜⬜⬜: STUFF
+            ⬜⬜⬜⬜🟩: GUSTY
+            ⬜⬜⬜🟨🟩: DUSTY
+            ⬜⬜⬜🟩🟩: STUDY
+            ⬜⬜🟨⬜🟩: LUSTY
+            🟩⬜⬜⬜🟩: MUSTY
         ⬜⬜⬜🟨🟨: NUTTY
         ⬜⬜⬜🟩🟨:
           guess: STUNG (2?)
@@ -2524,21 +2527,21 @@ flow:
             ⬜⬜🟩🟩🟩: BLUNT
             🟩⬜🟩🟩🟩: STUNT
         ⬜⬜🟨⬜🟨:
-          guess: FLESH (10)
+          guess: SHAWL (10)
           next:
             ⬜⬜⬜⬜⬜:
-              guess: BAWDY (4)
+              guess: BAKED (4)
               next:
-                ⬜⬜⬜⬜🟩: KITTY
-                ⬜⬜⬜🟨🟩: DITTY
-                ⬜⬜🟨⬜🟩: WITTY
-                🟩⬜⬜⬜🟩: BITTY
-            ⬜⬜⬜⬜🟩: WIDTH
-            ⬜⬜⬜🟨⬜: SIXTY
-            ⬜⬜⬜🟨🟩: SIXTH
-            🟩⬜⬜⬜⬜: FIFTY
-            🟩⬜⬜⬜🟩: FIFTH
-            🟩🟨⬜⬜🟩: FILTH
+                ⬜⬜⬜⬜⬜: FIFTY
+                ⬜⬜⬜⬜🟨: DITTY
+                ⬜⬜🟨⬜⬜: KITTY
+                🟩⬜⬜⬜⬜: BITTY
+            ⬜⬜⬜🟨⬜: WITTY
+            ⬜🟨⬜⬜⬜: FIFTH
+            ⬜🟨⬜⬜🟨: FILTH
+            ⬜🟨⬜🟨⬜: WIDTH
+            🟩⬜⬜⬜⬜: SIXTY
+            🟩🟨⬜⬜⬜: SIXTH
         ⬜⬜🟨⬜🟩:
           guess: FLESH (9)
           next:
@@ -2570,16 +2573,16 @@ flow:
             🟩🟨🟩⬜⬜: SMITH
             🟩🟩🟩⬜⬜: STIFF
         ⬜⬜🟩⬜🟩:
-          guess: BLUSH (6)
+          guess: BOUGH (6)
           next:
-            ⬜⬜⬜🟨⬜: SWIFT
-            ⬜⬜⬜🟨🟨: SHIFT
-            ⬜🟨⬜🟨⬜: STILT
-            ⬜🟨🟨⬜⬜:
-              guess: QUILT (2?)
+            ⬜⬜⬜⬜⬜:
+              guess: SWIFT (2?)
               next:
-                ⬜🟩🟩🟩🟩: GUILT
-            🟩🟨🟨⬜⬜: BUILT
+                🟩⬜🟩⬜🟩: STILT
+            ⬜⬜⬜⬜🟨: SHIFT
+            ⬜⬜🟨⬜⬜: QUILT
+            ⬜⬜🟨🟨⬜: GUILT
+            🟩⬜🟨⬜⬜: BUILT
         ⬜⬜🟩🟨🟨: UNITY
         ⬜⬜🟩🟩🟨:
           guess: STINK (2?)
@@ -2615,18 +2618,18 @@ flow:
         ⬜🟨🟨🟨🟩: INGOT
         ⬜🟨🟩⬜🟩: IDIOT
         ⬜🟩⬜⬜🟨:
-          guess: SHOWY (10)
+          guess: BUSHY (10)
           next:
-            ⬜⬜🟨⬜⬜: MOTTO
-            ⬜⬜🟨⬜🟩: LOFTY
-            ⬜⬜🟩⬜🟩: BOOTY
-            ⬜🟨🟨⬜⬜: MOUTH
-            ⬜🟨🟨⬜🟨: YOUTH
-            ⬜🟨🟨⬜🟩: HOTLY
-            ⬜🟨🟩⬜⬜: BOOTH
-            🟩⬜🟩⬜🟩: SOOTY
-            🟩🟨🟨⬜⬜: SOUTH
-            🟩🟨🟩⬜⬜: SOOTH
+            ⬜⬜⬜⬜⬜: MOTTO
+            ⬜⬜⬜⬜🟩: LOFTY
+            ⬜⬜⬜🟨🟩: HOTLY
+            ⬜⬜🟨⬜🟩: SOOTY
+            ⬜⬜🟨🟨⬜: SOOTH
+            ⬜🟨⬜🟨⬜: MOUTH
+            ⬜🟨⬜🟨🟨: YOUTH
+            ⬜🟨🟨🟨⬜: SOUTH
+            🟩⬜⬜⬜🟩: BOOTY
+            🟩⬜⬜🟨⬜: BOOTH
         ⬜🟩⬜⬜🟩:
           guess: BOOST (4?)
           next:
@@ -2752,35 +2755,35 @@ flow:
         🟩🟩⬜⬜🟩: SPENT
         🟩🟩⬜🟩🟩: SPELT
     🟨⬜⬜⬜🟩:
-      guess: MUILS (20)
+      guess: LOUIS (20)
       next:
-        ⬜⬜⬜⬜🟨:
-          guess: NAVAL (3)
+        ⬜⬜⬜🟨⬜: WHITE
+        ⬜⬜⬜🟨🟨:
+          guess: SMITE (2?)
           next:
-            ⬜⬜⬜⬜⬜: STOKE
-            ⬜⬜🟨⬜⬜: STOVE
-            🟨⬜⬜⬜⬜: STONE
-        ⬜⬜⬜🟩🟨:
-          guess: STOLE (2?)
+            🟩⬜🟩🟩🟩: SPITE
+        ⬜⬜🟨⬜⬜: BUTTE
+        ⬜⬜🟨🟨⬜:
+          guess: UNITE (2?)
           next:
-            🟩🟩⬜🟩🟩: STYLE
-        ⬜⬜🟨🟨⬜: LITHE
-        ⬜⬜🟩⬜⬜: WHITE
-        ⬜⬜🟩⬜🟨: SPITE
-        ⬜⬜🟩🟨⬜: ELITE
-        ⬜🟨⬜⬜⬜: ETUDE
-        ⬜🟨⬜🟨⬜: FLUTE
-        ⬜🟨🟨⬜⬜: UNTIE
-        ⬜🟨🟩⬜⬜: UNITE
-        ⬜🟨🟩🟩⬜: UTILE
-        ⬜🟩⬜⬜⬜:
-          guess: BUTTE (2?)
+            🟨⬜🟩🟩🟩: QUITE
+        ⬜⬜🟨🟨🟨: SUITE
+        ⬜⬜🟨🟩⬜: UNTIE
+        ⬜⬜🟩⬜⬜: ETUDE
+        ⬜🟨⬜⬜🟨:
+          guess: STANK (4)
           next:
-            ⬜🟩🟨🟩🟩: QUOTE
-        ⬜🟩🟩⬜⬜: QUITE
-        ⬜🟩🟩⬜🟨: SUITE
-        🟨⬜⬜⬜🟨: SMOTE
-        🟨⬜🟩⬜🟨: SMITE
+            🟩🟨⬜⬜⬜: SMOTE
+            🟩🟩⬜⬜⬜: STOVE
+            🟩🟩⬜⬜🟨: STOKE
+            🟩🟩⬜🟩⬜: STONE
+        ⬜🟨🟨⬜⬜: QUOTE
+        🟨⬜⬜⬜🟨: STYLE
+        🟨⬜⬜🟨⬜: ELITE
+        🟨⬜🟨🟨⬜: UTILE
+        🟨⬜🟩⬜⬜: FLUTE
+        🟨🟨⬜⬜🟨: STOLE
+        🟩⬜⬜🟨⬜: LITHE
     🟨⬜⬜🟨⬜:
       guess: CLOUT (8?)
       next:
@@ -2831,42 +2834,22 @@ flow:
         ⬜🟨🟨⬜⬜: EDICT
         🟨🟨🟨⬜⬜: EVICT
     🟨⬜🟨⬜⬜:
-      guess: SPINY (53)
+      guess: ALIST (53)
       next:
-        ⬜⬜⬜⬜⬜:
-          guess: ALOFT (17?)
+        🟨⬜⬜⬜🟨:
+          guess: BOEUF (7)
           next:
-            🟨⬜⬜⬜🟨: DATUM
-            🟨⬜⬜⬜🟩: GAMUT
-            🟨⬜🟩⬜🟨: QUOTA
-            🟨🟨⬜⬜🟨: WALTZ
-            🟨🟨⬜⬜🟩: VAULT
-            🟨🟨⬜🟨🟨: FATAL
-            🟨🟨⬜🟨🟩: FAULT
-            🟨🟩🟩⬜🟩:
-              guess: GLOAT (2?)
-              next:
-                ⬜🟩🟩🟩🟩: BLOAT
-            🟨🟩🟩🟨🟩: FLOAT
-            🟩⬜🟨⬜🟩: ABBOT
-            🟩⬜🟩⬜🟩: ABOUT
-            🟩⬜🟩🟨🟩: AFOOT
-            🟩🟨⬜⬜🟩: ADULT
-            🟩🟨🟩⬜🟨: ATOLL
-            🟩🟩🟨⬜🟩: ALLOT
-        ⬜⬜⬜⬜🟩:
-          guess: BATTY (2?)
+            ⬜⬜⬜⬜⬜: PATTY
+            ⬜⬜⬜⬜🟨: FATTY
+            ⬜⬜⬜🟨⬜: JUNTA
+            ⬜⬜⬜🟩⬜: DATUM
+            ⬜🟨⬜🟨⬜: QUOTA
+            🟩⬜⬜⬜⬜: BATTY
+            🟩🟨⬜⬜⬜: BATON
+        🟨⬜⬜⬜🟩:
+          guess: DOUGH (6)
           next:
-            ⬜🟩🟩🟩🟩: FATTY
-        ⬜⬜⬜🟨⬜:
-          guess: BATON (3?)
-          next:
-            ⬜🟨🟨⬜🟨: JUNTA
-            ⬜🟩🟩⬜🟨: NATAL
-        ⬜⬜⬜🟨🟩: AUNTY
-        ⬜⬜⬜🟩⬜:
-          guess: DOUGH (5)
-          next:
+            ⬜⬜🟨🟨⬜: GAMUT
             ⬜⬜🟩⬜⬜:
               guess: JAUNT (2?)
               next:
@@ -2874,35 +2857,68 @@ flow:
             ⬜⬜🟩⬜🟨: HAUNT
             ⬜⬜🟩🟨⬜: GAUNT
             🟩⬜🟩⬜⬜: DAUNT
-        ⬜⬜🟨⬜⬜:
-          guess: AUDIT (4?)
+        🟨⬜⬜🟨🟨:
+          guess: HYPER (4)
           next:
-            🟨⬜⬜🟨🟨: VITAL
-            🟨⬜⬜🟩🟩: HABIT
-            🟩⬜🟨🟩🟩: ADMIT
-        ⬜⬜🟩⬜⬜: FAITH
-        ⬜⬜🟩⬜🟩: AMITY
-        ⬜⬜🟩🟩⬜: FAINT
-        ⬜🟨⬜⬜⬜: ADOPT
-        ⬜🟨⬜⬜🟩: PATTY
-        ⬜🟨🟨⬜⬜: PATIO
-        ⬜🟨🟩🟩⬜: PAINT
-        ⬜🟩⬜⬜🟩: APTLY
-        🟨⬜⬜⬜🟩: HASTY
-        🟨⬜⬜🟨⬜: ANGST
-        🟨⬜⬜🟨🟩: NASTY
-        🟨⬜🟨⬜⬜: VISTA
-        🟨⬜🟩⬜⬜: WAIST
-        🟨🟨⬜⬜⬜: PASTA
+            ⬜⬜🟨⬜⬜: PASTA
+            ⬜🟨⬜⬜⬜: NASTY
+            ⬜🟨🟨⬜⬜: PASTY
+            🟩🟨⬜⬜⬜: HASTY
+        🟨⬜⬜🟨🟩: SQUAT
+        🟨⬜⬜🟩🟨: PATSY
+        🟨⬜🟨⬜🟨: PATIO
+        🟨⬜🟨⬜🟩: HABIT
+        🟨⬜🟨🟨🟨:
+          guess: VISTA (2?)
+          next:
+            ⬜🟨🟨🟨🟨: SATIN
+        🟨⬜🟩⬜🟨: FAITH
+        🟨⬜🟩⬜🟩:
+          guess: FAINT (2?)
+          next:
+            ⬜🟩🟩🟩🟩: PAINT
+        🟨⬜🟩🟨🟩: SAINT
+        🟨⬜🟩🟩🟩: WAIST
+        🟨🟨⬜⬜🟨:
+          guess: NATAL (3?)
+          next:
+            ⬜🟩🟨⬜🟨: WALTZ
+            ⬜🟩🟩🟩🟩: FATAL
         🟨🟨⬜⬜🟩:
-          guess: PATSY (2?)
+          guess: FAULT (2?)
           next:
-            🟩🟩🟨🟨🟩: PASTY
-        🟩⬜⬜⬜⬜: SQUAT
-        🟩⬜⬜⬜🟩: SALTY
-        🟩⬜🟨🟨⬜: SATIN
-        🟩⬜🟩🟩⬜: SAINT
-        🟩🟩⬜⬜⬜: SPLAT
+            ⬜🟩🟩🟩🟩: VAULT
+        🟨🟨⬜🟨🟨: SALTY
+        🟨🟨⬜🟨🟩: SPLAT
+        🟨🟨🟨⬜🟨: VITAL
+        🟨🟩⬜⬜🟩:
+          guess: FLING (3)
+          next:
+            ⬜🟩⬜⬜⬜: BLOAT
+            ⬜🟩⬜⬜🟨: GLOAT
+            🟩🟩⬜⬜⬜: FLOAT
+        🟩⬜⬜⬜🟨: AUNTY
+        🟩⬜⬜⬜🟩:
+          guess: ABBOT (4?)
+          next:
+            🟩⬜⬜🟨🟩: ADOPT
+            🟩⬜⬜🟩🟩: AFOOT
+            🟩🟩⬜🟨🟩: ABOUT
+        🟩⬜⬜🟩🟩: ANGST
+        🟩⬜🟨⬜🟩:
+          guess: AUDIT (2?)
+          next:
+            🟩⬜🟨🟩🟩: ADMIT
+        🟩⬜🟩⬜🟨: AMITY
+        🟩🟨⬜⬜🟨:
+          guess: ATOLL (2?)
+          next:
+            🟩🟨⬜🟩⬜: APTLY
+        🟩🟨⬜⬜🟩: ADULT
+        🟩🟩⬜⬜🟩:
+          guess: ALOFT (2?)
+          next:
+            🟩🟩🟨⬜🟩: ALLOT
     🟨⬜🟨⬜🟨:
       guess: PLEAT (19?)
       next:
@@ -2914,11 +2930,11 @@ flow:
         ⬜⬜🟨🟩🟩: BEGAT
         ⬜⬜🟩🟨🟩: AGENT
         ⬜⬜🟩🟩🟨:
-          guess: MODEL (3)
+          guess: MIDST (3)
           next:
-            ⬜⬜⬜🟨⬜: STEAK
-            ⬜⬜🟨🟨⬜: STEAD
-            🟨⬜⬜🟨⬜: STEAM
+            ⬜⬜⬜🟨🟨: STEAK
+            ⬜⬜🟨🟨🟨: STEAD
+            🟨⬜⬜🟨🟨: STEAM
         ⬜⬜🟩🟩🟩:
           guess: SWEAT (2?)
           next:
@@ -2934,20 +2950,20 @@ flow:
         🟨⬜🟩🟨🟩: ADEPT
         🟩🟨🟨🟩🟨: PETAL
     🟨⬜🟨⬜🟩:
-      guess: BLUSH (10)
+      guess: BAHUS (10)
       next:
-        ⬜⬜⬜⬜⬜: ATONE
-        ⬜⬜⬜🟨⬜:
+        ⬜🟨⬜⬜⬜: ATONE
+        ⬜🟩⬜⬜⬜: LATTE
+        ⬜🟩⬜⬜🟨:
           guess: WASTE (2?)
           next:
             ⬜🟩🟩🟩🟩: PASTE
-        ⬜⬜⬜🟨🟨: HASTE
-        ⬜⬜🟩⬜🟨: HAUTE
-        ⬜⬜🟩🟨⬜: SAUTE
-        ⬜🟨⬜⬜⬜: LATTE
-        ⬜🟨⬜⬜🟨: LATHE
-        🟩⬜⬜⬜🟨: BATHE
-        🟩⬜⬜🟨⬜: BASTE
+        ⬜🟩⬜🟨🟨: SAUTE
+        ⬜🟩🟨⬜⬜: LATHE
+        ⬜🟩🟨⬜🟨: HASTE
+        ⬜🟩🟨🟨⬜: HAUTE
+        🟩🟩⬜⬜🟨: BASTE
+        🟩🟩🟨⬜⬜: BATHE
     🟨⬜🟨🟨⬜:
       guess: PAINT (8)
       next:
@@ -3013,26 +3029,26 @@ flow:
         🟩🟨⬜⬜🟩: STALK
         🟩🟩⬜🟩⬜: SLANT
     🟨⬜🟩⬜🟨:
-      guess: SADLY (12)
+      guess: HWYLS (12)
       next:
-        ⬜🟨⬜⬜⬜:
-          guess: HEATH (2?)
-          next:
-            ⬜🟩🟩🟨⬜: MEANT
-        ⬜🟨⬜⬜🟩: MEATY
-        ⬜🟨⬜🟨⬜:
-          guess: LEANT (2?)
-          next:
-            🟩🟩🟩⬜🟩: LEAPT
-        ⬜🟨⬜🟩⬜: EXALT
-        ⬜🟨🟨⬜⬜: DEATH
-        ⬜🟨🟨🟩⬜: DEALT
-        🟨🟨⬜⬜⬜:
+        ⬜⬜⬜⬜⬜: MEANT
+        ⬜⬜⬜⬜🟨:
           guess: FEAST (2?)
           next:
             ⬜🟩🟩🟩🟩: BEAST
-        🟨🟨⬜⬜🟨: YEAST
-        🟨🟨⬜🟨⬜: LEAST
+        ⬜⬜⬜🟨⬜:
+          guess: LEANT (2?)
+          next:
+            🟩🟩🟩⬜🟩: LEAPT
+        ⬜⬜⬜🟨🟨: LEAST
+        ⬜⬜⬜🟩⬜:
+          guess: EXALT (2?)
+          next:
+            🟨⬜🟩🟩🟩: DEALT
+        ⬜⬜🟨⬜⬜: MEATY
+        ⬜⬜🟨⬜🟨: YEAST
+        🟨⬜⬜⬜⬜: DEATH
+        🟩⬜⬜⬜⬜: HEATH
     🟨⬜🟩⬜🟩:
       guess: GLOPS (12)
       next:
@@ -3077,18 +3093,18 @@ flow:
             ⬜🟩🟩🟩🟩: ROTOR
         ⬜⬜🟨⬜🟩: ROBOT
         ⬜🟨⬜⬜🟨:
-          guess: BIOME (3)
+          guess: GOLEM (3)
           next:
-            ⬜🟩⬜⬜⬜: GIRTH
-            ⬜🟩⬜🟨⬜: MIRTH
-            🟩🟩⬜⬜⬜: BIRTH
+            ⬜⬜⬜⬜⬜: BIRTH
+            ⬜⬜⬜⬜🟨: MIRTH
+            🟩⬜⬜⬜⬜: GIRTH
         ⬜🟨⬜⬜🟩: RIGHT
         ⬜🟨🟨⬜🟨:
-          guess: DWARF (3)
+          guess: FRONT (3)
           next:
-            ⬜⬜⬜🟨⬜: NORTH
-            ⬜⬜⬜🟨🟨: FORTH
-            ⬜🟨⬜🟨⬜: WORTH
+            ⬜🟨🟨⬜🟨: WORTH
+            ⬜🟨🟨🟨🟨: NORTH
+            🟩🟨🟨⬜🟨: FORTH
         🟨⬜⬜⬜🟩: FIRST
         🟨⬜⬜🟨🟨: RUSTY
         🟨⬜⬜🟨🟩: BURST
@@ -3132,11 +3148,11 @@ flow:
         ⬜⬜🟩🟨⬜: RETRY
         ⬜⬜🟩🟨🟨: ENTRY
         ⬜⬜🟩🟩⬜:
-          guess: REBUT (3)
+          guess: BLUSH (3)
           next:
-            🟨🟨⬜⬜🟨: ESTER
-            🟨🟨⬜🟨🟨: UTTER
-            🟨🟩⬜⬜🟨: DETER
+            ⬜⬜⬜⬜⬜: DETER
+            ⬜⬜⬜🟨⬜: ESTER
+            ⬜⬜🟨⬜⬜: UTTER
         ⬜⬜🟩🟩🟨:
           guess: INTER (2?)
           next:
@@ -3213,26 +3229,26 @@ flow:
     🟨🟨🟩🟨⬜: CHART
     🟨🟨🟩🟩🟨: REACT
     🟨🟩⬜⬜⬜:
-      guess: FEIGN (14)
+      guess: SNOUT (14)
       next:
-        ⬜⬜⬜⬜⬜: BROTH
-        ⬜⬜⬜⬜🟨: BRUNT
-        ⬜⬜⬜🟨⬜: GROUT
-        ⬜⬜⬜🟨🟨: GRUNT
-        ⬜⬜🟨⬜⬜:
-          guess: ORBIT (2?)
-          next:
-            🟨🟩⬜🟩🟩: DROIT
-        ⬜⬜🟩⬜⬜: WRIST
-        ⬜⬜🟩⬜🟨: PRINT
-        🟨⬜🟩⬜⬜: DRIFT
-        🟩⬜⬜⬜⬜:
+        ⬜⬜⬜⬜🟨: FRITZ
+        ⬜⬜⬜⬜🟩: DRIFT
+        ⬜⬜⬜🟨🟩: FRUIT
+        ⬜⬜🟨⬜🟩: ORBIT
+        ⬜⬜🟩⬜🟨:
           guess: FROTH (2?)
           next:
-            🟩🟩🟩🟨⬜: FROST
-        🟩⬜⬜⬜🟨: FRONT
-        🟩⬜🟨⬜⬜: FRUIT
-        🟩⬜🟩⬜⬜: FRITZ
+            ⬜🟩🟩🟩🟩: BROTH
+        ⬜⬜🟩⬜🟩: DROIT
+        ⬜⬜🟩🟩🟩: GROUT
+        ⬜🟨⬜⬜🟩: PRINT
+        ⬜🟨⬜🟨🟩:
+          guess: GRUNT (2?)
+          next:
+            ⬜🟩🟩🟩🟩: BRUNT
+        ⬜🟨🟩⬜🟩: FRONT
+        🟨⬜⬜⬜🟩: WRIST
+        🟨⬜🟩⬜🟩: FROST
     🟨🟩⬜⬜🟨:
       guess: GREET (3?)
       next:
@@ -3270,10 +3286,10 @@ flow:
       guess: LYING (17)
       next:
         ⬜⬜⬜⬜⬜:
-          guess: THUMB (3?)
+          guess: THUMP (3?)
           next:
             🟩🟨⬜⬜⬜: TOOTH
-            🟩🟩🟩🟩⬜: THUMP
+            🟩🟩🟩🟩⬜: THUMB
         ⬜⬜⬜⬜🟨: TOUGH
         ⬜⬜⬜🟩🟩: THONG
         ⬜⬜🟨⬜⬜: TIMID
@@ -3424,12 +3440,12 @@ flow:
         🟩🟩🟨⬜⬜: TAPIR
         🟩🟩🟩⬜⬜: TAROT
     🟩🟨🟨⬜🟨:
-      guess: KARMA (4)
+      guess: PERKY (4)
       next:
-        ⬜🟨🟩⬜🟩: TERRA
-        ⬜🟩🟨⬜⬜: TAPER
-        ⬜🟩🟨🟨⬜: TAMER
-        🟨🟩🟨⬜⬜: TAKER
+        ⬜🟨🟨⬜⬜: TAMER
+        ⬜🟨🟨🟨⬜: TAKER
+        ⬜🟩🟩⬜⬜: TERRA
+        🟨🟨🟨⬜⬜: TAPER
     🟩🟨🟩⬜⬜: TIARA
     🟩🟨🟩⬜🟨: TEARY
     🟩🟩⬜⬜⬜:

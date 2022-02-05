@@ -108,16 +108,20 @@ function solveFlow(candidates: string[], answers: string[], depth = 0): Flow {
 		(maybeAnswer ? 1 : 0)
 
 	const maxDepth =
-		_.max(nexts.map((flow) => (typeof flow === 'string' ? 0 : flow.maxDepth))) +
-		1
+		Math.max(
+			0,
+			...nexts.map((flow) => (typeof flow === 'string' ? 1 : flow.maxDepth))
+		) + 1
 
-	const averageDepth = _.sum(
-		nexts.map((flow) =>
-			typeof flow === 'string'
-				? 1 / count
-				: (flow.averageDepth + 1) * (flow.count / count)
-		)
-	)
+	const averageDepth =
+		_.sum([
+			...nexts.map((flow) =>
+				typeof flow === 'string'
+					? 1 / count
+					: flow.averageDepth * (flow.count / count)
+			),
+			...(maybeAnswer ? [0] : []),
+		]) + 1
 
 	return {
 		input,

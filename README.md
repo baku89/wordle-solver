@@ -30,5 +30,5 @@ yarn serve
 - The best first guess: `TRACE`
 - The worst first guess: `QAJAQ` (a way to spell kayak)
 - The worst first guess that also can be an answer: `FUZZY`
-- The maximum number of guess: `5`
-- The average number of guess: `2.4393088552915776`
+- The maximum number of guess: `6`
+- The average number of guess: `3.4401727861771065`
