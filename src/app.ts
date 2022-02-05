@@ -1,14 +1,20 @@
 import { Answers, ValidWords } from './words'
 import _ from 'lodash'
 import YAML from 'yaml'
+import { sortKeysBy, without } from './util'
 
 type Groups = Record<string, string[]>
 type GuessResult = { groups: Groups; maybeAnswer: boolean }
-
-function variance(numbers: number[]) {
-	const average = _.mean(numbers)
-	return _.mean(numbers.map((n) => Math.pow(n - average, 2)))
-}
+type Flow =
+	| string
+	| {
+			input: string
+			maxDepth: number
+			averageDepth: number
+			maybeAnswer: boolean
+			count: number
+			next: Record<string, Flow>
+	  }
 
 function getHint(input: string, answer: string) {
 	let hint = ''
@@ -84,23 +90,12 @@ function solveBestInput(candidates: string[], answers: string[]) {
 	return best
 }
 
-type Flow =
-	| string
-	| {
-			input: string
-			maxDepth: number
-			averageDepth: number
-			maybeAnswer: boolean
-			count: number
-			next: Record<string, Flow>
-	  }
-
 function solveFlow(candidates: string[], answers: string[], depth = 0): Flow {
 	if (answers.length === 1) return answers[0]
 
 	const { input, groups, maybeAnswer } = solveBestInput(candidates, answers)
 
-	const remainingCandidates = _.without(candidates, input)
+	const remainingCandidates = without(candidates, input)
 
 	const next = _.mapValues(groups, (group) => {
 		return solveFlow(remainingCandidates, group, depth + 1)
@@ -134,7 +129,16 @@ function solveFlow(candidates: string[], answers: string[], depth = 0): Flow {
 	}
 }
 
-setTimeout(() => {
+function formatFlow(flow: Flow) {
+	if (typeof flow === 'string') return flow
+
+	return {
+		guess: `${flow.input} (${flow.count}${flow.maybeAnswer ? '?' : ''})`,
+		next: _.mapValues(sortKeysBy(flow.next, getHintHash), formatFlow),
+	}
+}
+
+function main() {
 	const result = solveFlow(ValidWords, Answers)
 
 	if (typeof result === 'string') return
@@ -150,55 +154,6 @@ setTimeout(() => {
 			statics: { maxDepth, averageDepth },
 			flow: formatFlow(result),
 		})
-}, 10)
-
-function formatFlow(flow: Flow) {
-	if (typeof flow === 'string') return flow
-
-	return {
-		guess: `${flow.input} (${flow.count}${flow.maybeAnswer ? '?' : ''})`,
-		next: _.mapValues(sortKeysBy(flow.next, getHintHash), formatFlow),
-	}
 }
 
-function sortKeysBy<T>(
-	record: Record<string, T>,
-	iteratees: (value: string) => number
-) {
-	const sorted: Record<string, T> = {}
-	const keys = _.sortBy(Object.keys(record), iteratees)
-	for (const key of keys) {
-		sorted[key] = record[key]
-	}
-	return sorted
-}
-
-function printResult(result: ReturnType<typeof solveBestInput>) {
-	const counts = Object.values(result.groups).map((g) => g.length)
-
-	let str = ''
-
-	str += `Input: ${result.input}\n`
-
-	str += `Variance = ${variance(counts)}\n`
-	str += `Average = ${_.mean(counts)} words\n`
-	str += `# of Branches = ${counts.length}\n`
-
-	str += '\n---\n\n'
-
-	str += Object.entries(result.groups)
-		.map(([h, g]) => {
-			const num = _.padStart('(' + g.length + ')', 6)
-			const group = printGroup(g)
-			return `${h} ${num} -> ${group}`
-		})
-		.join('\n')
-
-	return str
-
-	function printGroup(group: string[]) {
-		const str = group.join(',')
-		// if (str.length > 77) return str.slice(0, 80) + '...'
-		return str
-	}
-}
+setTimeout(main, 10)
