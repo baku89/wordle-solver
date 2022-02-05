@@ -1,6 +1,8 @@
 # Wordle Solver
 
-\*My way of playing Wordle is not just guessing the word but guessing how to guess algorithmically.\*
+\*NOTE: My way of playing Wordle is not just guessing the word but guessing how to guess algorithmically.\*
+
+This [repo](https://github.com/alex1770/wordle) and [page](http://sonorouschocolate.com/notes/index.php?title=The_best_strategies_for_Wordle) by alex1770 seem to be right strategy.
 
 ---
 
