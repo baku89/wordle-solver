@@ -1,3483 +1,3487 @@
-input: TRACE
-next:
-  ⬜⬜⬜⬜⬜:
-    input: SOILY
-    next:
-      ⬜⬜⬜⬜⬜: HUMPH
-      ⬜⬜⬜⬜🟨: NYMPH
-      ⬜⬜⬜⬜🟩:
-        input: DOGMA
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: FUNNY
-            next:
-              ⬜🟩⬜⬜🟩: PUPPY
-              ⬜🟩🟩⬜🟩: HUNKY
-              ⬜🟩🟩🟩🟩: BUNNY
-              🟨🟩⬜⬜🟩: PUFFY
-              🟩🟩⬜⬜🟩: FUZZY
-              🟩🟩🟩⬜🟩: FUNKY
-          ⬜⬜⬜🟨⬜: JUMPY
-          ⬜⬜⬜🟩⬜: MUMMY
-          ⬜⬜🟨⬜⬜: GUPPY
-          ⬜⬜🟨🟩⬜: GUMMY
-          ⬜⬜🟩⬜⬜: BUGGY
-          ⬜⬜🟩🟩⬜: PYGMY
-          🟨⬜⬜⬜⬜: BUDDY
-          🟨⬜⬜🟨⬜: MUDDY
-          🟨⬜🟨⬜⬜: PUDGY
-          🟩⬜⬜🟨⬜: DUMPY
-          🟩⬜⬜🟩⬜: DUMMY
-      ⬜⬜⬜🟨⬜:
-        input: FLUNK
-        next:
-          ⬜🟩🟩⬜⬜:
-            input: PLUMB
-            next:
-              🟩🟩🟩🟩⬜: PLUMP
-          ⬜🟩🟩🟩🟩: PLUNK
-          🟨🟩🟩⬜⬜: BLUFF
-          🟩🟩🟩⬜⬜: FLUFF
-          🟩🟩🟩🟩⬜: FLUNG
-      ⬜⬜⬜🟨🟨:
-        input: GLYPH
-        next:
-          ⬜🟨🟨🟩🟩: LYMPH
-      ⬜⬜⬜🟨🟩:
-        input: PULPY
-        next:
-          ⬜🟩🟩⬜🟩: BULKY
-          🟨🟩🟨🟩🟩: LUMPY
-      ⬜⬜⬜🟩🟩:
-        input: BADGE
-        next:
-          ⬜⬜⬜⬜⬜: FULLY
-          ⬜⬜⬜🟨⬜: GULLY
-          ⬜⬜🟨⬜⬜: DULLY
-          🟩⬜⬜⬜⬜: BULLY
-      ⬜⬜🟨⬜⬜:
-        input: HUMID
-        next:
-          ⬜⬜⬜🟩🟩: VIVID
-          ⬜⬜🟨🟩⬜: MINIM
-          ⬜🟨⬜🟩⬜: UNZIP
-          ⬜🟨⬜🟩🟩: UNDID
-          ⬜🟩⬜🟨⬜: FUNGI
-      ⬜⬜🟨⬜🟩:
-        input: DWANG
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: JIFFY
-            next:
-              ⬜🟩⬜⬜🟩: HIPPY
-              ⬜🟩🟨⬜🟩: FIZZY
-          ⬜⬜⬜⬜🟨: PIGGY
-          ⬜⬜⬜🟨⬜:
-            input: PINKY
-            next:
-              ⬜🟩🟩🟩🟩: KINKY
-          ⬜⬜⬜🟩⬜: NINNY
-          ⬜🟨⬜⬜⬜: WIMPY
-          🟨⬜⬜⬜⬜: BIDDY
-          🟨⬜⬜⬜🟨: GIDDY
-          🟨🟨⬜🟨⬜: WINDY
-          🟩⬜⬜⬜⬜: DIZZY
-          🟩⬜⬜🟨🟨: DINGY
-      ⬜⬜🟨🟨⬜:
-        input: VIGIL
-        next:
-          ⬜🟨⬜🟩🟨: FLUID
-          ⬜🟨⬜🟩🟩: PUPIL
-          ⬜🟩⬜🟩🟨: LIPID
-          🟨🟩⬜🟩🟨: LIVID
-      ⬜⬜🟨🟨🟨: VINYL
-      ⬜⬜🟨🟨🟩:
-        input: FILMY
-        next:
-          ⬜🟩🟩🟨🟩: MILKY
-      ⬜⬜🟨🟩🟨: IDYLL
-      ⬜⬜🟨🟩🟩:
-        input: EMBED
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: DWARF
-            next:
-              ⬜⬜⬜⬜⬜: HILLY
-              ⬜⬜⬜⬜🟨: FILLY
-              ⬜🟨⬜⬜⬜: WILLY
-          ⬜⬜⬜⬜🟨: DILLY
-          ⬜⬜🟨⬜⬜: BILLY
-          ⬜🟨⬜⬜🟨: DIMLY
-          ⬜🟩⬜⬜⬜: IMPLY
-      ⬜⬜🟩⬜⬜: WHIFF
-      ⬜⬜🟩⬜🟨:
-        input: DYING
-        next:
-          ⬜🟩🟩🟩🟩: VYING
-      ⬜⬜🟩⬜🟩:
-        input: UNIFY
-        next:
-          ⬜🟨🟩⬜🟩: WHINY
-      ⬜⬜🟩🟨⬜:
-        input: BLINK
-        next:
-          ⬜🟩🟩🟩⬜: FLING
-          🟩🟩🟩⬜⬜: BLIMP
-          🟩🟩🟩🟩⬜: BLIND
-      ⬜⬜🟩🟨🟨: LYING
-      ⬜⬜🟩🟩⬜:
-        input: GUILD
-        next:
-          ⬜🟩🟩🟩⬜: QUILL
-          ⬜🟩🟩🟩🟩: BUILD
-      ⬜🟨⬜⬜⬜:
-        input: MAJOR
-        next:
-          ⬜⬜⬜🟨⬜: KNOWN
-          ⬜⬜⬜🟩⬜: WHOOP
-          🟨⬜⬜🟨⬜: GUMBO
-          🟨⬜⬜🟩⬜: BUXOM
-          🟨⬜🟨🟨⬜: JUMBO
-      ⬜🟨⬜⬜🟩: PHONY
-      ⬜🟨⬜🟨⬜:
-        input: BLOND
-        next:
-          ⬜🟨🟩⬜⬜: GHOUL
-          ⬜🟩🟩⬜⬜: GLOOM
-          ⬜🟩🟩⬜🟩: FLOOD
-          ⬜🟩🟩🟨⬜: FLOWN
-          🟩🟩🟩⬜⬜: BLOOM
-          🟩🟩🟩⬜🟩: BLOOD
-          🟩🟩🟩🟨⬜: BLOWN
-      ⬜🟨⬜🟨🟨: NYLON
-      ⬜🟨⬜🟩⬜: KNOLL
-      ⬜🟨⬜🟩🟩: ODDLY
-      ⬜🟨🟨⬜⬜:
-        input: DINGO
-        next:
-          ⬜🟨🟨⬜🟨: INBOX
-          ⬜🟩⬜⬜🟩: HIPPO
-          ⬜🟩🟩🟩🟩: BINGO
-          🟨🟨⬜⬜🟨: OVOID
-          🟨🟩⬜⬜🟨: WIDOW
-      ⬜🟨🟨🟨⬜:
-        input: LINGO
-        next:
-          🟨🟨⬜🟨🟩: IGLOO
-          🟩🟩⬜⬜🟩: LIMBO
-      ⬜🟨🟩⬜⬜:
-        input: ONION
-        next:
-          🟨⬜🟩🟩⬜: IDIOM
-          🟨🟩🟩🟩🟩: UNION
-          🟩⬜🟩⬜⬜: OPIUM
-          🟩🟨🟩⬜⬜: OWING
-      ⬜🟩⬜⬜⬜:
-        input: BUMPH
-        next:
-          ⬜🟨⬜⬜⬜:
-            input: FOUND
-            next:
-              ⬜🟩🟩🟩🟩: WOUND
-          ⬜🟨⬜⬜🟨: HOUND
-          ⬜🟨⬜⬜🟩: DOUGH
-          ⬜🟨⬜🟨⬜: POUND
-          ⬜🟨🟨⬜⬜: MOUND
-          🟩⬜⬜⬜⬜: BONGO
-          🟩🟨⬜⬜⬜: BOUND
-          🟩🟨⬜⬜🟩: BOUGH
-      ⬜🟩⬜⬜🟨: YOUNG
-      ⬜🟩⬜⬜🟩:
-        input: GAWDS
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: BOOBY
-            next:
-              ⬜🟩⬜⬜🟩: POPPY
-              🟨🟩⬜🟩🟩: HOBBY
-              🟩🟩⬜🟩🟩: BOBBY
-              🟩🟩🟩⬜🟩: BOOZY
-          ⬜⬜⬜🟩⬜: MOODY
-          ⬜⬜🟨⬜⬜: WOOZY
-          ⬜⬜🟨🟩⬜: WOODY
-          ⬜⬜🟩🟨⬜: DOWNY
-          ⬜⬜🟩🟩⬜:
-            input: HOWDY
-            next:
-              ⬜🟩🟩🟩🟩: DOWDY
-          🟨⬜⬜⬜⬜: FOGGY
-          🟨⬜⬜🟨⬜: DODGY
-          🟩⬜⬜⬜⬜: GOOFY
-          🟩⬜⬜🟩⬜: GOODY
-      ⬜🟩⬜🟨⬜: MOGUL
-      ⬜🟩⬜🟨🟨: POLYP
-      ⬜🟩⬜🟨🟩:
-        input: LOOPY
-        next:
-          🟨🟩⬜⬜🟩: MOLDY
-          🟩🟩⬜⬜🟩: LOBBY
-      ⬜🟩⬜🟩⬜: WOULD
-      ⬜🟩⬜🟩🟩:
-        input: WEDGE
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: FINCH
-            next:
-              ⬜⬜⬜⬜⬜: JOLLY
-              ⬜⬜⬜⬜🟨: HOLLY
-              ⬜⬜🟨⬜⬜: NOBLY
-              🟩⬜⬜⬜⬜: FOLLY
-          ⬜⬜⬜🟨⬜: GOLLY
-          ⬜⬜🟨⬜⬜: DOLLY
-          ⬜⬜🟩🟨⬜: GODLY
-          🟨⬜⬜⬜⬜: LOWLY
-          🟩⬜⬜⬜⬜: WOOLY
-      ⬜🟩🟨🟨⬜:
-        input: FOLIO
-        next:
-          ⬜🟩🟨🟩⬜: LOGIN
-      ⬜🟩🟩⬜⬜:
-        input: DOING
-        next:
-          ⬜🟩🟩🟩🟩: GOING
-      🟨⬜⬜⬜⬜: HUMUS
-      🟨⬜⬜⬜🟩:
-        input: HOKUM
-        next:
-          ⬜⬜⬜⬜⬜: GYPSY
-          ⬜⬜⬜🟨⬜: FUSSY
-          ⬜⬜🟨🟨⬜: DUSKY
-          ⬜⬜🟨🟨🟨: MUSKY
-          🟨⬜⬜🟨⬜:
-            input: PUSHY
-            next:
-              ⬜🟩🟩🟩🟩: BUSHY
-          🟨⬜⬜🟨🟨: MUSHY
-          🟩⬜⬜🟨⬜: HUSSY
-          🟩⬜🟨🟨⬜: HUSKY
-      🟨⬜⬜🟨⬜:
-        input: BLUFF
-        next:
-          ⬜🟨🟨⬜⬜: LUPUS
-          ⬜🟩🟩⬜⬜: PLUSH
-          ⬜🟩🟩🟨⬜: FLUSH
-          🟩🟩🟩⬜⬜: BLUSH
-      🟨⬜🟨⬜⬜: MINUS
-      🟨⬜🟨⬜🟩:
-        input: GIPSY
-        next:
-          ⬜🟩⬜🟨🟩: FISHY
-          ⬜🟩⬜🟩🟩: MISSY
-          ⬜🟩🟨🟨🟩: WISPY
-      🟨⬜🟩⬜⬜:
-        input: USING
-        next:
-          ⬜🟨🟩⬜⬜: WHISK
-      🟨⬜🟩🟨⬜: BLISS
-      🟨🟨⬜🟨⬜:
-        input: FLOSS
-        next:
-          ⬜🟩🟩🟩🟩: GLOSS
-      🟨🟨🟨⬜⬜:
-        input: KIOSK
-        next:
-          ⬜🟩🟨🟨⬜: BISON
-      🟨🟩⬜⬜⬜:
-        input: BOSOM
-        next:
-          🟩🟩🟨⬜⬜: BONUS
-      🟨🟩⬜⬜🟩:
-        input: BOSSY
-        next:
-          ⬜🟩🟩🟩🟩: MOSSY
-      🟨🟩⬜🟨🟩: LOUSY
-      🟨🟩🟩⬜🟩: NOISY
-      🟩⬜⬜⬜⬜:
-        input: SKUNK
-        next:
-          🟩⬜🟩⬜⬜: SHUSH
-          🟩⬜🟩🟨⬜: SNUFF
-          🟩⬜🟩🟩⬜: SWUNG
-          🟩🟨🟩🟩🟩: SPUNK
-      🟩⬜⬜⬜🟩: SUNNY
-      🟩⬜⬜🟨⬜:
-        input: CHUNK
-        next:
-          ⬜⬜🟩⬜⬜: SLUMP
-          ⬜⬜🟩🟩⬜: SLUNG
-          ⬜⬜🟩🟩🟩: SLUNK
-          ⬜🟨🟩⬜⬜: SLUSH
-      🟩⬜⬜🟨🟩: SULKY
-      🟩⬜⬜🟩⬜:
-        input: SKULK
-        next:
-          🟩🟩🟩🟩⬜: SKULL
-      🟩⬜⬜🟩🟩:
-        input: SHYLY
-        next:
-          🟩⬜🟨🟩🟩: SULLY
-          🟩⬜🟩🟩🟩: SLYLY
-      🟩⬜🟨⬜⬜:
-        input: SUSHI
-        next:
-          🟩🟨⬜⬜🟨: SQUIB
-      🟩⬜🟨⬜🟩: SISSY
-      🟩⬜🟨🟨🟩: SILKY
-      🟩⬜🟨🟩🟩: SILLY
-      🟩⬜🟩⬜⬜:
-        input: FROWN
-        next:
-          ⬜⬜⬜⬜⬜: SKIMP
-          ⬜⬜⬜⬜🟨: SUING
-          ⬜⬜⬜🟨⬜: SWISH
-          ⬜⬜⬜🟨🟨: SWING
-          🟨⬜⬜⬜⬜: SKIFF
-          🟨⬜⬜⬜🟨: SNIFF
-      🟩⬜🟩⬜🟩:
-        input: SPINY
-        next:
-          🟩⬜🟩🟩🟩: SHINY
-          🟩🟩🟩⬜🟩: SPIKY
-      🟩⬜🟩🟨⬜:
-        input: SLING
-        next:
-          🟩🟩🟩🟩⬜: SLINK
-      🟩⬜🟩🟨🟩: SLIMY
-      🟩⬜🟩🟩⬜:
-        input: AWAKE
-        next:
-          ⬜⬜⬜⬜⬜: SPILL
-          ⬜⬜⬜🟨⬜: SKILL
-          ⬜🟩⬜⬜⬜: SWILL
-      🟩🟨⬜⬜⬜:
-        input: SHOWN
-        next:
-          🟩⬜🟩⬜⬜:
-            input: SPOOF
-            next:
-              🟩🟩🟩🟩⬜: SPOOK
-          🟩⬜🟩⬜🟨: SNOOP
-          🟩⬜🟩⬜🟩: SPOON
-          🟩⬜🟩🟨⬜: SWOOP
-          🟩⬜🟩🟨🟩: SWOON
-          🟩🟩🟩⬜⬜: SHOOK
-      🟩🟨⬜⬜🟨: SYNOD
-      🟩🟨⬜⬜🟩:
-        input: SHOWY
-        next:
-          🟩⬜🟩⬜🟩: SMOKY
-          🟩⬜🟩🟩🟩: SNOWY
-      🟩🟨⬜🟨⬜:
-        input: SLOSH
-        next:
-          🟩🟨🟩⬜⬜: SPOOL
-          🟩🟩🟩⬜⬜: SLOOP
-      🟩🟨🟨🟨⬜: SPOIL
-      🟩🟩⬜⬜⬜: SOUND
-      🟩🟩⬜⬜🟩: SOGGY
-      🟩🟩🟨🟨⬜: SOLID
-  ⬜⬜⬜⬜🟨:
-    input: LINED
-    next:
-      ⬜⬜⬜🟨⬜:
-        input: GEEKY
-        next:
-          ⬜🟨⬜⬜🟩: EPOXY
-          ⬜🟨🟩⬜🟩: POESY
-          ⬜🟩⬜🟩🟩: PESKY
-          ⬜🟩🟩⬜🟩: BEEFY
-          🟩🟨🟩⬜⬜: GUESS
-      ⬜⬜⬜🟨🟨:
-        input: SEEDY
-        next:
-          ⬜🟩⬜🟨⬜: DEBUG
-          ⬜🟩🟩🟩🟩: WEEDY
-      ⬜⬜⬜🟩⬜:
-        input: SWEEP
-        next:
-          ⬜⬜🟨🟩⬜: GOOEY
-          🟩⬜🟩🟩🟩: SHEEP
-      ⬜⬜⬜🟩🟨:
-        input: MODEM
-        next:
-          ⬜🟩🟨🟩⬜: DOPEY
-      ⬜⬜⬜🟩🟩:
-        input: EMBED
-        next:
-          🟨⬜⬜🟩🟩: SPEED
-          🟨⬜🟨🟩🟩: BUSED
-      ⬜⬜🟨🟨⬜:
-        input: ENJOY
-        next:
-          🟨🟨⬜⬜⬜: BEGUN
-          🟩🟨⬜🟨🟩: EBONY
-          🟩🟩⬜⬜🟩: ENEMY
-          🟩🟩⬜🟩🟩: ENVOY
-      ⬜⬜🟨🟨🟨:
-        input: NEEDY
-        next:
-          🟨🟨⬜🟨⬜: ENDOW
-          🟨🟩⬜🟨⬜: DEMON
-      ⬜⬜🟨🟨🟩: SPEND
-      ⬜⬜🟨🟩⬜:
-        input: MOVES
-        next:
-          ⬜⬜⬜🟩⬜: QUEEN
-          ⬜⬜⬜🟩🟨: SHEEN
-          ⬜⬜🟩🟩🟨: SEVEN
-          ⬜🟩⬜🟩⬜: WOKEN
-          ⬜🟩⬜🟩🟨: NOSEY
-          ⬜🟩🟩🟩⬜: WOVEN
-          🟨⬜⬜🟩⬜: HYMEN
-          🟨⬜⬜🟩🟨: SEMEN
-          🟨🟩⬜🟩⬜: WOMEN
-      ⬜⬜🟨🟩🟨: DOZEN
-      ⬜⬜🟨🟩🟩:
-        input: UNFED
-        next:
-          ⬜🟩⬜🟩🟩: KNEED
-          🟩🟩⬜🟩🟩: UNWED
-      ⬜⬜🟩🟨⬜:
-        input: VENOM
-        next:
-          ⬜🟩🟩⬜⬜: PENNY
-      ⬜⬜🟩🟩⬜:
-        input: HUMPH
-        next:
-          ⬜⬜⬜⬜⬜: BONEY
-          ⬜⬜🟨⬜⬜: MONEY
-          🟩⬜⬜⬜⬜: HONEY
-      ⬜🟨⬜🟨⬜:
-        input: EQUIP
-        next:
-          🟨⬜⬜🟨⬜: WEIGH
-          🟨⬜⬜🟩⬜: SHEIK
-      ⬜🟨⬜🟨🟨: EDIFY
-      ⬜🟨⬜🟩🟩:
-        input: SHIED
-        next:
-          🟩⬜🟩🟩🟩: SPIED
-      ⬜🟨🟨🟨⬜:
-        input: FEIGN
-        next:
-          ⬜🟨🟩🟨🟨:
-            input: EKING
-            next:
-              🟩⬜🟩🟩🟩: EYING
-          ⬜🟩🟨🟨🟩: BEGIN
-          ⬜🟩🟩🟨🟨: BEING
-          ⬜🟩🟩🟩🟨: NEIGH
-      ⬜🟨🟨🟨🟨: DEIGN
-      ⬜🟨🟨🟩🟨: INDEX
-      ⬜🟨🟩🟨⬜: ENNUI
-      ⬜🟨🟩🟨🟨: DENIM
-      ⬜🟩⬜🟩🟨: VIDEO
-      ⬜🟩🟨🟨🟩: FIEND
-      ⬜🟩🟨🟩⬜:
-        input: GIVEN
-        next:
-          ⬜🟩🟨🟩🟩: VIXEN
-      ⬜🟩🟨🟩🟨: WIDEN
-      ⬜🟩🟩🟩⬜:
-        input: PINEY
-        next:
-          ⬜🟩🟩🟩⬜: SINEW
-      🟨⬜⬜🟨⬜:
-        input: BHELS
-        next:
-          ⬜⬜🟨🟩⬜: JELLY
-          ⬜⬜🟩🟨⬜: ELEGY
-          ⬜⬜🟩🟩⬜: QUELL
-          ⬜⬜🟩🟩🟨:
-            input: HUMPH
-            next:
-              ⬜⬜⬜⬜⬜: SWELL
-              ⬜⬜⬜🟨⬜: SPELL
-              ⬜⬜🟨⬜⬜: SMELL
-          ⬜🟨🟨🟨🟨: WELSH
-          ⬜🟨🟨🟩⬜: HELLO
-          ⬜🟨🟩🟨🟨: FLESH
-          ⬜🟩🟩🟩⬜: WHELP
-          ⬜🟩🟩🟩🟨:
-            input: SHELL
-            next:
-              🟩🟩🟩🟩⬜: SHELF
-          🟨⬜🟨🟨⬜: ELBOW
-          🟩⬜🟨🟨⬜: BELOW
-          🟩⬜🟨🟩⬜: BELLY
-          🟩⬜🟩🟨🟩: BLESS
-      🟨⬜⬜🟨🟨: DWELL
-      🟨⬜⬜🟩⬜:
-        input: BOWEL
-        next:
-          ⬜⬜⬜🟩🟨:
-            input: SLEEP
-            next:
-              🟩🟩🟩🟩⬜: SLEEK
-          ⬜⬜⬜🟩🟩: EXPEL
-          ⬜⬜🟨🟩🟩: WHEEL
-          ⬜⬜🟩🟩🟩: JEWEL
-          ⬜🟩⬜🟩🟨: GOLEM
-          ⬜🟩⬜🟩🟩: HOVEL
-          ⬜🟩🟩🟩🟩: VOWEL
-          🟩⬜⬜🟩🟨: BLEEP
-          🟩⬜⬜🟩🟩:
-            input: BEVEL
-            next:
-              🟩🟩⬜🟩🟩: BEZEL
-      🟨⬜⬜🟩🟨:
-        input: MODEL
-        next:
-          ⬜🟩🟨🟩🟩: DOWEL
-      🟨⬜⬜🟩🟩: BLEED
-      🟨⬜🟨🟨⬜:
-        input: MELON
-        next:
-          ⬜🟩🟨⬜🟨: NEWLY
-          ⬜🟩🟩🟩🟩: FELON
-      🟨⬜🟨🟨🟩: BLEND
-      🟨⬜🟨🟩⬜:
-        input: KNEEL
-        next:
-          ⬜🟨🟨🟩🟩: NOVEL
-      🟨⬜🟨🟩🟨: OLDEN
-      🟨🟨⬜🟨⬜: HELIX
-      🟨🟨⬜🟨🟨: DEVIL
-      🟨🟨⬜🟩⬜:
-        input: SPIEL
-        next:
-          ⬜🟨🟨🟩🟩: IMPEL
-      🟨🟨⬜🟩🟩: PLIED
-      🟨🟨🟨🟨⬜: ELFIN
-      🟨🟩⬜🟨🟩:
-        input: DWARF
-        next:
-          🟨⬜⬜⬜⬜: YIELD
-          🟨⬜⬜⬜🟨: FIELD
-          🟨🟨⬜⬜⬜: WIELD
-      🟨🟩⬜🟩⬜: PIXEL
-      🟩⬜⬜🟨⬜: LEGGY
-      🟩⬜⬜🟩⬜: LEVEL
-      🟩⬜🟨🟨⬜: LEMON
-      🟩⬜🟨🟩⬜: LUMEN
-      🟩🟩⬜🟩⬜: LIBEL
-      🟩🟩🟨🟩⬜: LIKEN
-      🟩🟩🟩🟩⬜: LINEN
-  ⬜⬜⬜⬜🟩:
-    input: SLING
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: REBUT
-        next:
-          ⬜🟨⬜⬜⬜: EVOKE
-          ⬜🟨⬜🟩⬜: QUEUE
-          ⬜🟨🟨⬜⬜: BOOZE
-          ⬜🟩⬜⬜⬜: FEMME
-      ⬜⬜⬜⬜🟨:
-        input: BOUGH
-        next:
-          ⬜⬜⬜🟩⬜: WEDGE
-          ⬜⬜⬜🟩🟨: HEDGE
-          ⬜⬜🟨🟨⬜: FUGUE
-          ⬜⬜🟨🟩⬜:
-            input: FUDGE
-            next:
-              ⬜🟩🟩🟩🟩: JUDGE
-          ⬜🟩⬜🟩⬜: DODGE
-          ⬜🟩🟨🟨⬜: VOGUE
-          ⬜🟩🟩🟩⬜: GOUGE
-          🟩⬜🟨🟩⬜: BUDGE
-      ⬜⬜⬜🟨⬜:
-        input: UNDUE
-        next:
-          🟨🟨⬜🟩🟩: VENUE
-      ⬜⬜⬜🟨🟨:
-        input: GNOME
-        next:
-          🟨🟨⬜⬜🟩: NUDGE
-      ⬜⬜⬜🟩⬜:
-        input: OZONE
-        next:
-          ⬜⬜⬜🟩🟩: PENNE
-          🟨⬜🟩🟩🟩: PHONE
-      ⬜⬜🟨⬜⬜:
-        input: MOVIE
-        next:
-          ⬜⬜⬜🟨🟩: PIQUE
-          ⬜⬜⬜🟩🟩: PIXIE
-          ⬜🟨⬜🟨🟩: DIODE
-          🟨⬜⬜🟨🟩: IMBUE
-          🟨🟨⬜🟨🟩: BIOME
-      ⬜⬜🟨⬜🟨: MIDGE
-      ⬜⬜🟨🟨🟨:
-        input: HINGE
-        next:
-          ⬜🟨🟩🟨🟩: GENIE
-          ⬜🟩🟩🟩🟩: BINGE
-      ⬜⬜🟩⬜⬜: OXIDE
-      ⬜⬜🟩⬜🟨: GUIDE
-      ⬜⬜🟩🟨⬜: KNIFE
-      ⬜⬜🟩🟩⬜:
-        input: OPINE
-        next:
-          ⬜⬜🟩🟩🟩: WHINE
-          🟩⬜🟩🟩🟩: OVINE
-      ⬜🟨⬜⬜⬜:
-        input: MODEL
-        next:
-          ⬜⬜⬜🟨🟨: BELLE
-          ⬜⬜🟨🟨🟨: DELVE
-          ⬜🟨⬜🟨🟨: WHOLE
-          ⬜🟩⬜🟨🟨: BOULE
-          🟩⬜⬜🟩🟨: MELEE
-      ⬜🟨⬜⬜🟨:
-        input: LODGE
-        next:
-          🟨⬜⬜🟨🟩: BUGLE
-          🟨⬜⬜🟩🟩: BULGE
-          🟩⬜🟩🟩🟩: LEDGE
-      ⬜🟨⬜🟨⬜: NOBLE
-      ⬜🟨⬜🟨🟨: LUNGE
-      ⬜🟨🟨⬜⬜:
-        input: BIBLE
-        next:
-          🟩🟨⬜🟨🟩: BELIE
-      ⬜🟨🟨⬜🟨:
-        input: LIEGE
-        next:
-          🟨🟩🟨🟩🟩: BILGE
-      ⬜🟨🟩⬜⬜:
-        input: EXILE
-        next:
-          🟨⬜🟩🟩🟩: WHILE
-      ⬜🟨🟩⬜🟨: GUILE
-      ⬜🟩⬜⬜⬜:
-        input: DUMPY
-        next:
-          ⬜⬜⬜⬜⬜: BLOKE
-          ⬜⬜⬜🟩⬜: ELOPE
-          ⬜🟨⬜⬜⬜: FLUKE
-          ⬜🟨🟨⬜⬜: FLUME
-          ⬜🟨🟨🟨⬜: PLUME
-          🟨🟨⬜⬜⬜: ELUDE
-      ⬜🟩⬜⬜🟨:
-        input: GLOVE
-        next:
-          🟩🟩🟩⬜🟩: GLOBE
-      ⬜🟩🟩⬜⬜:
-        input: OLIVE
-        next:
-          ⬜🟩🟩⬜🟩: ELIDE
-      ⬜🟩🟩⬜🟨: GLIDE
-      🟨⬜⬜⬜⬜:
-        input: HUMPH
-        next:
-          ⬜⬜⬜⬜⬜: OBESE
-          ⬜⬜⬜🟨⬜: POSSE
-          ⬜⬜🟨⬜⬜: MOOSE
-          ⬜🟨🟨⬜⬜: MOUSE
-          🟨⬜⬜⬜⬜: WHOSE
-          🟩🟨⬜⬜⬜: HOUSE
-      🟨⬜⬜⬜🟨:
-        input: GOOSE
-        next:
-          🟩⬜⬜🟩🟩: GEESE
-      🟨⬜⬜🟨⬜:
-        input: NOOSE
-        next:
-          🟨⬜⬜🟨🟩: ENSUE
-          🟨⬜⬜🟩🟩: DENSE
-      🟨⬜🟨⬜⬜: ISSUE
-      🟨⬜🟩⬜⬜: POISE
-      🟨⬜🟩⬜🟨: GUISE
-      🟨⬜🟩🟨⬜: NOISE
-      🟨🟨⬜⬜⬜:
-        input: LOUSE
-        next:
-          🟨⬜🟨🟩🟩: PULSE
-          🟩🟩⬜🟩🟩: LOOSE
-      🟩⬜⬜⬜⬜:
-        input: SMOKE
-        next:
-          🟩⬜🟩⬜🟩: SHOVE
-          🟩⬜🟩🟩🟩: SPOKE
-      🟩⬜⬜⬜🟨: SEGUE
-      🟩⬜⬜🟨⬜: SENSE
-      🟩⬜⬜🟩⬜: SHONE
-      🟩⬜🟨⬜⬜: SIEVE
-      🟩⬜🟨⬜🟨: SIEGE
-      🟩⬜🟨🟨🟨: SINGE
-      🟩⬜🟩⬜⬜:
-        input: SPIKE
-        next:
-          🟩⬜🟩⬜🟩: SEIZE
-      🟩⬜🟩🟨⬜:
-        input: SNIDE
-        next:
-          🟩🟩🟩⬜🟩: SNIPE
-      🟩⬜🟩🟩⬜:
-        input: HUMPH
-        next:
-          ⬜⬜⬜⬜⬜: SWINE
-          ⬜⬜⬜🟨⬜: SPINE
-          🟨⬜⬜⬜⬜: SHINE
-      🟩🟨⬜⬜⬜: SOLVE
-      🟩🟨🟩⬜⬜: SMILE
-      🟩🟩⬜⬜⬜: SLOPE
-      🟩🟩🟩⬜⬜:
-        input: SLIDE
-        next:
-          🟩🟩🟩⬜🟩: SLIME
-  ⬜⬜⬜🟨⬜:
-    input: MUILS
-    next:
-      ⬜⬜⬜⬜⬜: CONDO
-      ⬜⬜⬜⬜🟨:
-        input: SCOOP
-        next:
-          🟩🟩🟩⬜⬜: SCOFF
-      ⬜⬜⬜🟨⬜:
-        input: COLON
-        next:
-          🟩🟨🟨⬜🟩: CLOWN
-      ⬜⬜⬜🟨🟨: SCOWL
-      ⬜⬜⬜🟩⬜: COYLY
-      ⬜⬜⬜🟩🟨: SCOLD
-      ⬜⬜🟨⬜⬜:
-        input: CONIC
-        next:
-          🟨⬜⬜🟨⬜: PICKY
-          🟨🟩🟩🟩🟩: IONIC
-          🟩⬜⬜🟩🟩: CIVIC
-          🟩⬜🟩🟩🟩: CYNIC
-      ⬜⬜🟨⬜🟨: SONIC
-      ⬜⬜🟨🟨⬜:
-        input: CIVIL
-        next:
-          🟨🟨⬜🟩🟨: LOGIC
-      ⬜⬜🟩⬜⬜: ICING
-      ⬜⬜🟩⬜🟨: SCION
-      ⬜⬜🟩🟨⬜:
-        input: CLING
-        next:
-          🟩🟩🟩⬜⬜: CLIFF
-          🟩🟩🟩🟩⬜: CLINK
-      ⬜⬜🟩🟩⬜:
-        input: IDEAL
-        next:
-          🟨⬜⬜⬜🟨: CHILI
-          🟨⬜⬜⬜🟩: CHILL
-          🟨🟨⬜⬜🟨: CHILD
-          🟩⬜⬜⬜🟨: ICILY
-      ⬜🟨⬜⬜⬜:
-        input: CHUNK
-        next:
-          🟩🟨🟩⬜⬜: COUGH
-      ⬜🟨⬜⬜🟩: FOCUS
-      ⬜🟨⬜🟨⬜:
-        input: CLUNG
-        next:
-          🟩🟩🟨⬜⬜: CLOUD
-      ⬜🟨⬜🟨🟩: LOCUS
-      ⬜🟨⬜🟩⬜: COULD
-      ⬜🟨🟨⬜🟩: FICUS
-      ⬜🟩⬜⬜⬜: DUCHY
-      ⬜🟩⬜🟨⬜: LUCKY
-      ⬜🟩🟨⬜⬜:
-        input: CUBIC
-        next:
-          🟨🟩🟩🟩🟩: PUBIC
-      ⬜🟩🟨🟨⬜: LUCID
-      🟨⬜⬜⬜⬜: COMFY
-      🟨⬜🟨⬜⬜: COMIC
-      🟨⬜🟩🟨⬜: CLIMB
-      🟨🟨⬜⬜⬜: CHUMP
-      🟨🟨⬜🟨⬜: CLUMP
-      🟨🟩🟨⬜⬜: CUMIN
-      🟩⬜🟨⬜⬜: MIMIC
-      🟩🟩⬜⬜⬜: MUCKY
-      🟩🟩⬜⬜🟩: MUCUS
-      🟩🟩🟨⬜🟨: MUSIC
-  ⬜⬜⬜🟨🟨:
-    input: COLEY
-    next:
-      🟨⬜⬜🟨⬜: MEDIC
-      🟨⬜⬜🟩⬜: BICEP
-      🟨⬜⬜🟩🟩: DICEY
-      🟨⬜🟨🟩⬜: EXCEL
-      🟨🟨⬜🟨⬜: GECKO
-      🟨🟨⬜🟨🟩: DECOY
-      🟩⬜⬜🟨⬜: CHESS
-      🟩⬜⬜🟩⬜:
-        input: CHEEK
-        next:
-          🟩🟩🟨🟩⬜: CHIEF
-      🟩⬜🟨🟩⬜: CLUED
-      🟩🟨🟩🟨⬜: CELLO
-      🟩🟩⬜🟩⬜: COVEN
-      🟩🟩⬜🟩🟩: COVEY
-  ⬜⬜⬜🟨🟩:
-    input: CHONS
-    next:
-      🟨⬜⬜⬜⬜: EMCEE
-      🟨⬜⬜🟨⬜: UNCLE
-      🟨⬜⬜🟩🟨: SCENE
-      🟨⬜🟩⬜🟨: SCOPE
-      🟨⬜🟩🟩🟨: SCONE
-      🟨🟨⬜🟨⬜: NICHE
-      🟩⬜⬜⬜⬜: CYCLE
-      🟩⬜🟨⬜⬜: COUPE
-      🟩⬜🟨⬜🟨: COPSE
-      🟩⬜🟩⬜⬜: CLOVE
-      🟩⬜🟩⬜🟨: CLOSE
-      🟩⬜🟩🟩⬜: CLONE
-      🟩🟩⬜⬜⬜:
-        input: CHIDE
-        next:
-          🟩🟩🟩⬜🟩: CHIME
-      🟩🟩🟩⬜⬜: CHOKE
-      🟩🟩🟩⬜🟨: CHOSE
-  ⬜⬜⬜🟩⬜:
-    input: CUISH
-    next:
-      🟨⬜⬜⬜⬜:
-        input: FLOCK
-        next:
-          ⬜⬜🟩🟩🟩: KNOCK
-          ⬜🟩🟩🟩🟩: BLOCK
-      🟨⬜⬜⬜🟩:
-        input: LYNCH
-        next:
-          ⬜⬜⬜🟩🟩: POOCH
-      🟨⬜⬜🟨⬜: SMOCK
-      🟨⬜⬜🟨🟨: SHOCK
-      🟨⬜🟨⬜🟩:
-        input: DWARF
-        next:
-          ⬜⬜⬜⬜⬜: PINCH
-          ⬜⬜⬜⬜🟨: FINCH
-          ⬜🟨⬜⬜⬜: WINCH
-      🟨⬜🟨🟨⬜: DISCO
-      🟨⬜🟩⬜⬜: FLICK
-      🟨⬜🟩⬜🟩: WHICH
-      🟨⬜🟩🟨⬜:
-        input: SPICY
-        next:
-          🟩⬜🟩🟩⬜: SLICK
-      🟨🟨⬜⬜⬜: PLUCK
-      🟨🟨⬜⬜🟩:
-        input: VOUCH
-        next:
-          ⬜🟩🟩🟩🟩: POUCH
-      🟨🟨⬜🟨⬜: SNUCK
-      🟨🟨⬜🟨🟨: SHUCK
-      🟨🟩⬜⬜🟩:
-        input: LYMPH
-        next:
-          ⬜⬜⬜⬜🟩:
-            input: HUNCH
-            next:
-              🟨🟩🟩🟩🟩: BUNCH
-          ⬜⬜⬜🟨🟩: PUNCH
-          ⬜⬜🟨⬜🟩: MUNCH
-          🟨⬜⬜⬜🟩: GULCH
-          🟨⬜🟨⬜🟩: MULCH
-          🟩⬜⬜⬜🟩: LUNCH
-      🟨🟩🟩⬜⬜:
-        input: QUICK
-        next:
-          ⬜🟩🟩🟩⬜: JUICY
-      🟩⬜⬜⬜⬜: CLOCK
-      🟩⬜⬜⬜🟨: CHOCK
-      🟩⬜⬜⬜🟩: CONCH
-      🟩⬜🟨⬜🟩: CINCH
-      🟩⬜🟩⬜⬜: CLICK
-      🟩⬜🟩⬜🟨: CHICK
-      🟩🟨⬜⬜⬜: CLUCK
-      🟩🟨⬜⬜🟨: CHUCK
-      🟩🟨⬜⬜🟩: COUCH
-  ⬜⬜⬜🟩🟨:
-    input: WHELP
-    next:
-      ⬜⬜🟩⬜🟨: SPECK
-      ⬜⬜🟩🟨⬜: FLECK
-      ⬜🟨🟨⬜⬜: BENCH
-      ⬜🟨🟨⬜🟨: EPOCH
-      ⬜🟨🟨🟨⬜: BELCH
-      ⬜🟨🟩⬜⬜: BEECH
-      ⬜🟨🟩🟨⬜: LEECH
-      ⬜🟩🟩⬜⬜: CHECK
-      🟩🟨🟨⬜⬜: WENCH
-      🟩🟨🟨🟨⬜: WELCH
-  ⬜⬜⬜🟩🟩:
-    input: NOUPS
-    next:
-      ⬜⬜⬜⬜🟨: SLICE
-      ⬜⬜⬜🟨⬜: PIECE
-      ⬜⬜⬜🟨🟨: SPICE
-      ⬜⬜🟨⬜⬜: JUICE
-      ⬜⬜🟩⬜⬜: DEUCE
-      ⬜🟩⬜⬜⬜: VOICE
-      🟨⬜⬜⬜⬜:
-        input: FEWER
-        next:
-          ⬜🟨⬜⬜⬜: MINCE
-          ⬜🟨🟨⬜⬜: WINCE
-          ⬜🟩⬜⬜⬜: HENCE
-          🟩🟩⬜⬜⬜: FENCE
-      🟨⬜⬜⬜🟨: SINCE
-      🟨⬜⬜🟨⬜: PENCE
-      🟨⬜🟨⬜⬜: DUNCE
-      🟨🟨🟨⬜⬜: OUNCE
-      🟩⬜⬜⬜⬜: NIECE
-  ⬜⬜🟨⬜⬜:
-    input: SONLY
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: MAXIM
-        next:
-          ⬜🟨⬜🟨⬜: PIZZA
-          ⬜🟨⬜🟩⬜: APHID
-          ⬜🟨🟨🟩⬜: AFFIX
-          ⬜🟩⬜⬜⬜: KAPPA
-          ⬜🟩⬜🟩⬜: VAPID
-          🟨🟩⬜⬜⬜: GAMMA
-          🟩🟩⬜⬜⬜:
-            input: MAMMA
-            next:
-              🟩🟩⬜🟩🟩: MAGMA
-          🟩🟩⬜⬜🟩: MADAM
-          🟩🟩⬜🟩⬜: MAFIA
-      ⬜⬜⬜⬜🟨: KAYAK
-      ⬜⬜⬜⬜🟩:
-        input: PUDGY
-        next:
-          ⬜⬜⬜⬜🟩:
-            input: MAMMY
-            next:
-              ⬜🟩⬜⬜🟩: JAZZY
-          ⬜⬜⬜🟨🟩: GAWKY
-          ⬜⬜⬜🟩🟩: BAGGY
-          ⬜⬜🟨⬜🟩: BAWDY
-          ⬜⬜🟩⬜🟩: DADDY
-          ⬜🟨🟨🟨🟩: GAUDY
-          🟨⬜⬜⬜🟩: HAPPY
-          🟩⬜🟩⬜🟩: PADDY
-      ⬜⬜⬜🟨⬜:
-        input: FLUID
-        next:
-          ⬜🟨⬜⬜⬜: PAPAL
-          ⬜🟨⬜🟨⬜: AXIAL
-          ⬜🟨⬜🟩🟩: VALID
-          ⬜🟨🟨⬜⬜: PUPAL
-          ⬜🟨🟩⬜⬜: LAUGH
-          ⬜🟩⬜⬜⬜: ALPHA
-          ⬜🟩⬜🟨⬜: ALIBI
-          ⬜🟩🟨⬜⬜: ALBUM
-          🟨🟨🟨⬜⬜: AWFUL
-      ⬜⬜⬜🟨🟨: BYLAW
-      ⬜⬜⬜🟨🟩:
-        input: BALMY
-        next:
-          ⬜🟨🟩⬜🟩: ALLAY
-      ⬜⬜⬜🟩⬜: VILLA
-      ⬜⬜⬜🟩🟩:
-        input: MIDGE
-        next:
-          ⬜⬜⬜⬜⬜: APPLY
-          ⬜⬜⬜🟨⬜: GAYLY
-          ⬜⬜🟨⬜⬜: DALLY
-          ⬜⬜🟩⬜⬜: BADLY
-          ⬜🟨⬜🟨⬜: GAILY
-          ⬜🟨🟨⬜⬜: DAILY
-          🟨⬜⬜⬜⬜: AMPLY
-          🟩⬜🟩⬜⬜: MADLY
-      ⬜⬜🟨⬜⬜:
-        input: AGING
-        next:
-          🟨⬜⬜🟨⬜: HUMAN
-          🟨⬜⬜🟩⬜: FAUNA
-          🟨🟨⬜🟨⬜: PAGAN
-          🟩⬜🟨🟨⬜: ADMIN
-          🟩⬜🟩🟨⬜: AVIAN
-          🟩🟨🟩🟩🟩: APING
-      ⬜⬜🟨🟨⬜:
-        input: NAVAL
-        next:
-          🟨🟨⬜⬜🟨: ALIGN
-          🟨🟨🟩⬜🟩: ANVIL
-      ⬜⬜🟨🟨🟩: INLAY
-      ⬜⬜🟩⬜⬜:
-        input: MANGA
-        next:
-          ⬜🟨🟩⬜🟩: NINJA
-          🟩🟩🟩⬜🟩: MANIA
-      ⬜⬜🟩⬜🟩:
-        input: DEFOG
-        next:
-          ⬜⬜⬜⬜⬜: NANNY
-          ⬜⬜⬜⬜🟨: MANGY
-          ⬜⬜🟨⬜⬜: FANNY
-          🟨⬜⬜⬜⬜: HANDY
-          🟩⬜⬜⬜⬜: DANDY
-      ⬜⬜🟩🟨⬜:
-        input: BANAL
-        next:
-          ⬜🟨🟩⬜🟩: ANNUL
-          ⬜🟨🟩🟩🟩: FINAL
-      ⬜⬜🟩🟨🟩: LANKY
-      ⬜⬜🟩🟩🟩: MANLY
-      ⬜🟨⬜⬜⬜:
-        input: AUDIO
-        next:
-          🟨⬜⬜⬜🟩: MAMBO
-          🟩⬜⬜🟨🟨: AXIOM
-          🟩⬜🟨🟩🟨: AVOID
-      ⬜🟨⬜⬜🟨: BAYOU
-      ⬜🟨⬜🟨⬜:
-        input: ALLOW
-        next:
-          🟨🟨⬜🟨⬜: OFFAL
-          🟩🟨⬜🟨⬜: AFOUL
-          🟩🟨🟩🟩🟩: AGLOW
-          🟩🟩⬜🟨⬜: ALOUD
-          🟩🟩⬜🟩⬜: ALOOF
-      ⬜🟨⬜🟨🟩: ALLOY
-      ⬜🟨⬜🟩⬜: VIOLA
-      ⬜🟨🟨⬜⬜:
-        input: WAGON
-        next:
-          ⬜🟨⬜🟩🟩: AXION
-          ⬜🟨🟨🟨🟨: AMONG
-      ⬜🟨🟨⬜🟩: AGONY
-      ⬜🟨🟨🟨⬜: ALONG
-      ⬜🟨🟩⬜⬜:
-        input: MANGO
-        next:
-          ⬜🟩🟩⬜🟩: BANJO
-      ⬜🟨🟩⬜🟩: ANNOY
-      ⬜🟩⬜⬜⬜:
-        input: VODKA
-        next:
-          ⬜🟩🟨⬜🟩: DOGMA
-      ⬜🟩⬜🟨⬜:
-        input: MODAL
-        next:
-          ⬜🟩⬜🟨🟨: POLKA
-      ⬜🟩⬜🟨🟨: LOYAL
-      ⬜🟩⬜🟩⬜: VOILA
-      ⬜🟩🟨⬜⬜:
-        input: NOMAD
-        next:
-          🟨🟩🟩🟩⬜: WOMAN
-      ⬜🟩🟩⬜⬜: GONAD
-      ⬜🟩🟩🟨⬜: ZONAL
-      🟨⬜⬜⬜⬜:
-        input: BASIS
-        next:
-          ⬜🟨🟨🟨🟩: AMISS
-      🟨⬜⬜⬜🟨: ABYSS
-      🟨⬜⬜⬜🟩:
-        input: ASSAY
-        next:
-          🟨🟨⬜⬜🟩: DAISY
-          🟨🟨🟩⬜🟩: GASSY
-      🟨⬜⬜🟨⬜:
-        input: USUAL
-        next:
-          ⬜🟨⬜🟨🟩: BASIL
-          ⬜🟨⬜🟩🟩: BASAL
-      🟨⬜⬜🟨🟩: PALSY
-      🟨⬜🟨⬜⬜: BASIN
-      🟨⬜🟨🟨⬜: NASAL
-      🟨⬜🟩⬜🟩: PANSY
-      🟨🟨⬜🟨⬜: LASSO
-      🟨🟨🟨⬜⬜: MASON
-      🟩⬜⬜⬜⬜:
-        input: SQUAD
-        next:
-          🟩⬜⬜🟨⬜: SIGMA
-      🟩⬜⬜⬜🟩:
-        input: PROVE
-        next:
-          ⬜⬜⬜⬜⬜: SASSY
-          ⬜⬜⬜🟩⬜: SAVVY
-          🟨⬜⬜⬜⬜: SAPPY
-      🟩⬜⬜🟨⬜:
-        input: SALAD
-        next:
-          🟩🟩🟩⬜⬜: SALSA
-      🟩⬜⬜🟩🟩:
-        input: SADLY
-        next:
-          🟩🟩⬜🟩🟩: SALLY
-      🟩⬜🟨⬜⬜: SAUNA
-      🟩⬜🟩⬜🟩: SANDY
-      🟩🟨⬜⬜🟩: SAVOY
-      🟩🟨⬜🟨⬜:
-        input: SHOAL
-        next:
-          🟩⬜🟨🟨🟨: SALVO
-      🟩🟨🟨🟨⬜: SALON
-  ⬜⬜🟨⬜🟨:
-    input: GENAL
-    next:
-      ⬜🟨⬜🟨⬜:
-        input: ABBEY
-        next:
-          🟩⬜⬜🟩⬜: ASKEW
-      ⬜🟨⬜🟨🟨:
-        input: ALLEY
-        next:
-          🟩🟨🟩🟩⬜: ABLED
-      ⬜🟨⬜🟨🟩:
-        input: BLUSH
-        next:
-          ⬜🟨⬜⬜⬜: LAPEL
-          ⬜🟨⬜⬜🟨: HAZEL
-          ⬜🟨⬜🟨⬜: EASEL
-          🟨🟨⬜⬜⬜: LABEL
-      ⬜🟨⬜🟩⬜:
-        input: ESSAY
-        next:
-          🟨⬜⬜🟩⬜: AHEAD
-          🟨🟨⬜🟩⬜: SPEAK
-      ⬜🟨⬜🟩🟨:
-        input: BLEAK
-        next:
-          ⬜🟩🟩🟩⬜: PLEAD
-      ⬜🟨⬜🟩🟩:
-        input: EQUAL
-        next:
-          🟨⬜⬜🟩🟩: IDEAL
-      ⬜🟨🟨🟨⬜:
-        input: HOWDY
-        next:
-          ⬜⬜⬜⬜⬜: ENEMA
-          ⬜⬜⬜🟨⬜: AMEND
-          ⬜⬜🟨⬜⬜: WAXEN
-          ⬜🟨⬜⬜⬜: OAKEN
-          🟨⬜⬜⬜⬜: ASHEN
-          🟩⬜⬜⬜⬜: HAVEN
-          🟩⬜⬜⬜🟨: HYENA
-      ⬜🟨🟨🟨🟨:
-        input: ALIEN
-        next:
-          🟨🟨⬜🟩🟩: LADEN
-      ⬜🟨🟨🟨🟩: NAVEL
-      ⬜🟨🟨🟩⬜:
-        input: SNEAK
-        next:
-          ⬜🟩🟩🟩🟨: KNEAD
-      ⬜🟨🟩🟨⬜:
-        input: ANNEX
-        next:
-          🟩🟨🟩🟩⬜: APNEA
-      ⬜🟨🟩🟨🟩: PANEL
-      ⬜🟩⬜🟨⬜:
-        input: SEPIA
-        next:
-          ⬜🟩⬜🟩🟩: MEDIA
-      ⬜🟩⬜🟨🟨: FELLA
-      ⬜🟩⬜🟩⬜: KEBAB
-      ⬜🟩⬜🟩🟨: DELAY
-      ⬜🟩⬜🟩🟩:
-        input: MEDAL
-        next:
-          ⬜🟩🟩🟩🟩: PEDAL
-      ⬜🟩🟨🟩⬜: SEDAN
-      ⬜🟩🟩🟩🟩: PENAL
-      🟨🟨⬜🟨⬜: OMEGA
-      🟨🟨⬜🟨🟩: BAGEL
-      🟨🟨🟨🟨🟩: ANGEL
-      🟨🟩⬜🟩🟩: LEGAL
-      🟨🟩🟨🟩⬜:
-        input: BEGAN
-        next:
-          ⬜🟩🟩🟩🟩: VEGAN
-      🟩🟨⬜🟨🟩: GAVEL
-      🟩🟨⬜🟩🟨: GLEAM
-      🟩🟨🟨🟩🟨: GLEAN
-  ⬜⬜🟨⬜🟩:
-    input: LAMBS
-    next:
-      ⬜🟨⬜⬜⬜:
-        input: AWOKE
-        next:
-          🟩⬜🟩⬜🟩: ANODE
-      ⬜🟨⬜⬜🟨: ASIDE
-      ⬜🟨⬜🟨⬜:
-        input: ABIDE
-        next:
-          🟩🟩⬜⬜🟩: ABOVE
-          🟩🟩⬜🟩🟩: ABODE
-      ⬜🟨⬜🟨🟨: ABUSE
-      ⬜🟨⬜🟩⬜: ADOBE
-      ⬜🟨🟨⬜⬜: ANIME
-      ⬜🟨🟨⬜🟨: AMUSE
-      ⬜🟩⬜⬜⬜:
-        input: GUNGY
-        next:
-          ⬜⬜⬜⬜⬜: WAIVE
-          ⬜⬜⬜⬜🟨: PAYEE
-          ⬜⬜🟨⬜⬜: NAIVE
-          🟨🟨⬜⬜⬜: VAGUE
-          🟩⬜⬜⬜⬜: GAFFE
-          🟩🟨⬜⬜⬜: GAUZE
-          🟩🟨⬜🟩⬜: GAUGE
-      ⬜🟩⬜⬜🟨: PAUSE
-      ⬜🟩⬜🟨⬜: BADGE
-      ⬜🟩🟨⬜⬜:
-        input: CIGAR
-        next:
-          ⬜⬜⬜🟨⬜: MAUVE
-          ⬜⬜🟨🟨⬜: MANGE
-          ⬜🟨⬜🟨⬜: MAIZE
-      ⬜🟩🟨⬜🟨: MASSE
-      ⬜🟩🟨🟩⬜: MAYBE
-      🟨🟨⬜⬜⬜:
-        input: BLINK
-        next:
-          ⬜🟨⬜⬜⬜: APPLE
-          ⬜🟨⬜🟨⬜: ANGLE
-          ⬜🟨⬜🟨🟨: ANKLE
-          ⬜🟨🟩⬜⬜: AGILE
-          ⬜🟩⬜⬜⬜: ALGAE
-          ⬜🟩⬜🟩⬜: ALONE
-          ⬜🟩🟩⬜⬜: ALIVE
-          ⬜🟩🟩⬜🟨: ALIKE
-      🟨🟨⬜⬜🟨: AISLE
-      🟨🟨🟨⬜⬜: AMPLE
-      🟨🟨🟨🟨⬜: AMBLE
-      🟨🟩⬜⬜⬜:
-        input: VALVE
-        next:
-          ⬜🟩🟨⬜🟩: EAGLE
-          🟨🟩🟩🟩🟩: HALVE
-          🟩🟩🟩⬜🟩: VALUE
-      🟨🟩⬜⬜🟨:
-        input: 'FALSE'
-        next:
-          ⬜🟩🟩🟨🟩: SALVE
-      🟨🟩⬜🟨⬜: FABLE
-      🟨🟩🟨⬜⬜: MAPLE
-      🟩🟩⬜⬜⬜: LADLE
-      🟩🟩⬜⬜🟨: LAPSE
-  ⬜⬜🟨🟨⬜:
-    input: MONAL
-    next:
-      ⬜⬜⬜🟨⬜:
-        input: CADDY
-        next:
-          🟨🟨⬜⬜⬜: SCUBA
-          🟨🟩⬜⬜⬜: BASIC
-          🟨🟩⬜⬜🟩: WACKY
-          🟩🟩⬜⬜🟩: CABBY
-      ⬜⬜⬜🟨🟨: CAULK
-      ⬜⬜⬜🟨🟩: CAVIL
-      ⬜⬜⬜🟩🟨:
-        input: LILAC
-        next:
-          🟨🟨⬜🟩🟩: ILIAC
-      ⬜⬜⬜🟩🟩: CABAL
-      ⬜⬜🟨🟨⬜:
-        input: CHINA
-        next:
-          🟩⬜🟨🟨🟨: CABIN
-      ⬜⬜🟩🟨⬜:
-        input: CANNY
-        next:
-          🟨🟩🟩⬜⬜: PANIC
-          🟩🟩🟩⬜🟩: CANDY
-      ⬜⬜🟩🟩🟩: CANAL
-      ⬜🟨⬜🟨⬜: HAVOC
-      ⬜🟨⬜🟩⬜: CACAO
-      ⬜🟨⬜🟩🟨: CLOAK
-      ⬜🟨🟨🟨⬜: BACON
-      ⬜🟨🟩🟨⬜: CANON
-      ⬜🟩⬜🟨⬜: COCOA
-      ⬜🟩⬜🟩🟩:
-        input: FAVOR
-        next:
-          ⬜🟨⬜🟨⬜: LOCAL
-          ⬜🟨🟨🟨⬜: VOCAL
-          🟩🟨⬜🟨⬜: FOCAL
-      🟨⬜⬜🟩⬜: SUMAC
-      🟨🟩⬜🟨⬜: COMMA
-      🟩⬜⬜🟨⬜: MAGIC
-      🟩⬜⬜🟩⬜: MACAW
-      🟩⬜🟩🟨⬜: MANIC
-      🟩🟨⬜🟨⬜: MACHO
-      🟩🟩⬜🟨⬜: MOCHA
-  ⬜⬜🟨🟨🟨:
-    input: OLDEN
-    next:
-      ⬜⬜⬜🟨⬜: CHEAP
-      ⬜⬜⬜🟨🟩: PECAN
-      ⬜⬜⬜🟩⬜: CAGEY
-      ⬜⬜🟨🟨⬜: DECAY
-      ⬜🟨⬜🟨⬜: FECAL
-      ⬜🟨⬜🟩⬜: CAMEL
-      ⬜🟨🟨🟨⬜: DECAL
-      ⬜🟩⬜🟨🟩: CLEAN
-      🟨⬜⬜🟩⬜: CAMEO
-      🟩⬜⬜🟨🟩: OCEAN
-  ⬜⬜🟨🟨🟩:
-    input: BLUSH
-    next:
-      ⬜⬜⬜⬜⬜: CANOE
-      ⬜⬜⬜⬜🟨: CACHE
-      ⬜⬜🟩🟩⬜: CAUSE
-      🟨🟨⬜⬜⬜: CABLE
-  ⬜⬜🟨🟩⬜:
-    input: FANCY
-    next:
-      ⬜🟩⬜🟩🟩: SAUCY
-  ⬜⬜🟨🟩🟨: MECCA
-  ⬜⬜🟨🟩🟩:
-    input: LANCE
-    next:
-      ⬜🟩⬜🟩🟩: SAUCE
-      ⬜🟩🟩🟩🟩: DANCE
-  ⬜⬜🟩⬜⬜:
-    input: SHULN
-    next:
-      ⬜⬜⬜⬜⬜: FOAMY
-      ⬜⬜⬜⬜🟨: PIANO
-      ⬜⬜⬜⬜🟩: AGAIN
-      ⬜⬜⬜🟨⬜:
-        input: BLIMP
-        next:
-          ⬜🟨⬜🟩⬜: LOAMY
-          ⬜🟨🟨⬜⬜: AVAIL
-          ⬜🟩⬜⬜⬜: FLAKY
-          ⬜🟩⬜⬜🟨: PLAZA
-          ⬜🟩⬜🟩⬜: LLAMA
-          ⬜🟩🟨⬜⬜: FLAIL
-          ⬜🟩🟨⬜🟨: PLAID
-      ⬜⬜⬜🟨🟨:
-        input: BIFID
-        next:
-          ⬜⬜⬜⬜⬜: PLANK
-          ⬜⬜⬜⬜🟩: GLAND
-          ⬜⬜🟨⬜⬜: FLANK
-          🟩⬜⬜⬜⬜: BLANK
-          🟩⬜⬜⬜🟩: BLAND
-      ⬜⬜⬜🟨🟩: PLAIN
-      ⬜⬜⬜🟩⬜: KOALA
-      ⬜⬜🟨⬜⬜: GUAVA
-      ⬜⬜🟨🟨⬜: QUAIL
-      ⬜⬜🟨🟩⬜: QUALM
-      ⬜🟩⬜⬜⬜: KHAKI
-      🟨⬜⬜⬜⬜: AMASS
-      🟨⬜⬜🟨⬜:
-        input: GLASS
-        next:
-          ⬜🟩🟩🟩⬜: FLASK
-      🟨⬜⬜🟩⬜: PSALM
-      🟨⬜🟨⬜⬜: QUASI
-      🟨🟨⬜⬜⬜: AWASH
-      🟨🟨⬜⬜🟨: GNASH
-      🟨🟨⬜🟨⬜: FLASH
-      🟨🟨🟨⬜⬜: QUASH
-      🟩⬜⬜⬜⬜:
-        input: SWAMI
-        next:
-          🟩⬜🟩⬜⬜: SOAPY
-          🟩⬜🟩🟨⬜: SPASM
-          🟩🟩🟩🟩⬜: SWAMP
-      🟩⬜⬜⬜🟨:
-        input: SNAKY
-        next:
-          🟩🟨🟩🟨⬜: SPANK
-      🟩⬜⬜⬜🟩: SPAWN
-      🟩⬜⬜🟨🟨:
-        input: SNAIL
-        next:
-          🟩🟨🟩⬜🟨: SLANG
-      🟩⬜⬜🟨🟩: SLAIN
-      🟩⬜⬜🟩⬜: SMALL
-      🟩🟨⬜⬜⬜:
-        input: SMASH
-        next:
-          🟩⬜🟩🟩🟩: SWASH
-      🟩🟨⬜🟨⬜: SLASH
-      🟩🟩⬜⬜⬜:
-        input: SHADY
-        next:
-          🟩🟩🟩⬜🟩: SHAKY
-      🟩🟩⬜⬜🟨: SHANK
-      🟩🟩⬜🟨⬜: SHAWL
-      🟩🟩⬜🟩⬜: SHALL
-  ⬜⬜🟩⬜🟨:
-    input: HUMID
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: LEAKY
-        next:
-          🟩🟩🟩⬜🟩: LEAFY
-      ⬜⬜⬜⬜🟨: BEADY
-      ⬜⬜🟨⬜⬜: MEALY
-      ⬜⬜🟨🟩⬜: EMAIL
-      🟨⬜⬜⬜⬜: LEASH
-      🟩⬜⬜⬜⬜: HEAVY
-      🟩⬜⬜⬜🟨: HEADY
-  ⬜⬜🟩⬜🟩:
-    input: SLUMP
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: WINDY
-        next:
-          ⬜⬜⬜⬜⬜: HEAVE
-          ⬜⬜⬜🟨⬜: ADAGE
-          ⬜⬜⬜🟩⬜: EVADE
-          ⬜⬜🟨⬜⬜: KNAVE
-          ⬜🟨🟨⬜⬜: INANE
-          🟨⬜⬜⬜⬜: AWAKE
-          🟩⬜⬜⬜⬜: WEAVE
-      ⬜⬜⬜⬜🟨: AGAPE
-      ⬜⬜⬜🟨⬜:
-        input: AMAZE
-        next:
-          🟨🟩🟩⬜🟩: IMAGE
-      ⬜⬜🟨⬜⬜: QUAKE
-      ⬜🟨⬜⬜⬜:
-        input: LEAVE
-        next:
-          🟨🟨🟩⬜🟩: WHALE
-      ⬜🟩⬜⬜⬜:
-        input: BADGE
-        next:
-          ⬜🟨⬜⬜🟩: FLAKE
-          ⬜🟨⬜🟨🟩: GLAZE
-          ⬜🟨🟨🟨🟩: GLADE
-          🟩🟨⬜⬜🟩: BLAZE
-          🟩🟨🟨⬜🟩: BLADE
-      ⬜🟩⬜⬜🟨: PLANE
-      ⬜🟩⬜🟩⬜:
-        input: FLAME
-        next:
-          ⬜🟩🟩🟩🟩: BLAME
-      🟨⬜⬜⬜⬜: ABASE
-      🟨⬜⬜⬜🟨: PHASE
-      🟨⬜🟨⬜⬜: USAGE
-      🟨🟨⬜⬜⬜: LEASE
-      🟩⬜⬜⬜⬜:
-        input: DRINK
-        next:
-          ⬜⬜⬜⬜⬜: SHAVE
-          ⬜⬜⬜⬜🟨: SHAKE
-          ⬜⬜⬜🟨🟨: SNAKE
-          🟨⬜⬜⬜⬜: SHADE
-      🟩⬜⬜⬜🟨:
-        input: SPADE
-        next:
-          🟩🟨🟩⬜🟩: SHAPE
-      🟩⬜⬜🟩⬜: SHAME
-      🟩⬜🟨⬜⬜: SUAVE
-      🟩🟨⬜⬜⬜: SHALE
-      🟩🟩⬜⬜⬜: SLAVE
-  ⬜⬜🟩🟨⬜:
-    input: BLIPS
-    next:
-      ⬜⬜⬜⬜⬜: CHAFF
-      ⬜⬜⬜⬜🟨: CHASM
-      ⬜⬜⬜⬜🟩: CHAOS
-      ⬜⬜⬜🟨⬜: CHAMP
-      ⬜⬜⬜🟨🟨: SCAMP
-      ⬜⬜🟨⬜⬜: CHAIN
-      ⬜🟨⬜⬜⬜: CHALK
-      ⬜🟨⬜⬜🟨:
-        input: SCALD
-        next:
-          🟩🟩🟩🟩⬜: SCALY
-      ⬜🟨⬜🟨🟨: SCALP
-      ⬜🟩⬜⬜⬜:
-        input: CLANK
-        next:
-          🟩🟩🟩🟩⬜: CLANG
-      ⬜🟩⬜⬜🟨: CLASH
-      ⬜🟩⬜⬜🟩: CLASS
-      ⬜🟩⬜🟨⬜: CLAMP
-      ⬜🟩⬜🟨🟨: CLASP
-      ⬜🟩🟨⬜⬜: CLAIM
-  ⬜⬜🟩🟨🟩:
-    input: CHASE
-    next:
-      🟨⬜🟩🟨🟩: SCALE
-      🟩⬜🟩🟩🟩: CEASE
-      🟩🟩🟩⬜🟩: CHAFE
-  ⬜⬜🟩🟩⬜:
-    input: BLUSH
-    next:
-      ⬜⬜⬜⬜⬜: KNACK
-      ⬜⬜⬜⬜🟨: WHACK
-      ⬜⬜⬜⬜🟩: COACH
-      ⬜⬜⬜🟨⬜:
-        input: SMACK
-        next:
-          🟩⬜🟩🟩🟩: SNACK
-      ⬜⬜⬜🟨🟨: SHACK
-      ⬜⬜🟨⬜⬜: QUACK
-      ⬜🟩⬜⬜⬜:
-        input: FLACK
-        next:
-          ⬜🟩🟩🟩🟩: CLACK
-      ⬜🟩⬜🟨⬜: SLACK
-      🟨⬜⬜⬜⬜: ABACK
-      🟩🟩⬜⬜⬜: BLACK
-  ⬜⬜🟩🟩🟨:
-    input: BLUSH
-    next:
-      ⬜⬜⬜⬜🟩: PEACH
-      ⬜🟨⬜⬜🟩: LEACH
-      🟩⬜⬜⬜🟩: BEACH
-  ⬜⬜🟩🟩🟩:
-    input: PLACE
-    next:
-      🟨⬜🟩🟩🟩: SPACE
-      🟩⬜🟩🟩🟩: PEACE
-  ⬜🟨⬜⬜⬜:
-    input: SOUND
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: MYRRH
-        next:
-          ⬜⬜🟨🟩🟨: WHIRL
-          ⬜🟨🟩⬜⬜: GIRLY
-      ⬜⬜⬜⬜🟩: RIGID
-      ⬜⬜🟨⬜⬜:
-        input: MYRRH
-        next:
-          ⬜⬜🟨🟩⬜: QUIRK
-          ⬜🟨🟨⬜⬜: RUGBY
-          ⬜🟨🟩⬜⬜: BURLY
-          ⬜🟨🟩🟩⬜: FURRY
-          ⬜🟨🟩🟩🟨: HURRY
-          🟩🟨🟩⬜⬜: MURKY
-      ⬜⬜🟨⬜🟨: RUDDY
-      ⬜⬜🟨⬜🟩: LURID
-      ⬜⬜🟩⬜⬜: BLURB
-      ⬜🟨⬜⬜⬜:
-        input: IVORY
-        next:
-          ⬜⬜🟩🟨⬜: FLOOR
-          ⬜⬜🟩🟩🟩: GLORY
-          🟨⬜🟨🟨⬜: RIGOR
-          🟨🟨🟨🟨⬜: VIGOR
-      ⬜🟨⬜⬜🟨: HYDRO
-      ⬜🟨⬜⬜🟩: FJORD
-      ⬜🟨⬜🟨⬜: MINOR
-      ⬜🟨⬜🟩⬜: RHINO
-      ⬜🟨🟨⬜⬜:
-        input: FORTH
-        next:
-          ⬜🟨🟨⬜⬜: RUMOR
-          ⬜🟨🟨⬜🟨: HUMOR
-          ⬜🟨🟩⬜⬜: JUROR
-          🟩🟨🟨⬜⬜: FLOUR
-          🟩🟨🟩⬜⬜: FUROR
-      ⬜🟩⬜⬜⬜:
-        input: FLUME
-        next:
-          ⬜⬜⬜⬜⬜: WORRY
-          ⬜⬜⬜🟨⬜: MORPH
-          ⬜⬜⬜🟩⬜: ROOMY
-          ⬜🟨⬜⬜⬜: LORRY
-          🟩⬜⬜⬜⬜: FORGO
-      ⬜🟩⬜⬜🟨:
-        input: DOWRY
-        next:
-          🟨🟩🟨🟨🟩: WORDY
-          🟨🟩🟩🟨🟩: ROWDY
-      ⬜🟩⬜⬜🟩: WORLD
-      ⬜🟩⬜🟨⬜:
-        input: ROBIN
-        next:
-          🟨🟩⬜⬜🟨: HONOR
-          🟨🟩⬜⬜🟩: MORON
-      ⬜🟩⬜🟨🟨: DONOR
-      ⬜🟩⬜🟩⬜: HORNY
-      ⬜🟩🟨⬜⬜: FORUM
-      ⬜🟩🟩⬜⬜: ROUGH
-      ⬜🟩🟩⬜🟩: GOURD
-      ⬜🟩🟩🟨⬜: MOURN
-      ⬜🟩🟩🟩🟩: ROUND
-      🟨⬜⬜⬜⬜: RISKY
-      🟨⬜🟨⬜⬜: VIRUS
-      🟨⬜🟩⬜⬜: USURP
-      🟨🟨⬜⬜⬜: VISOR
-      🟩⬜⬜⬜⬜:
-        input: SHIRK
-        next:
-          🟩⬜🟨🟨⬜: SPRIG
-          🟩⬜🟩🟩⬜: SWIRL
-          🟩⬜🟩🟩🟩: SMIRK
-      🟩⬜🟨⬜⬜:
-        input: SHRUB
-        next:
-          🟩⬜🟩🟨⬜: SURLY
-          🟩⬜🟩🟩⬜: SYRUP
-          🟩🟩🟩🟩⬜: SHRUG
-      🟩⬜🟩⬜⬜: SLURP
-      🟩⬜🟩🟨⬜: SPURN
-      🟩🟨⬜⬜🟩: SWORD
-      🟩🟨⬜🟨⬜:
-        input: SWORN
-        next:
-          🟩⬜🟩🟩🟩: SHORN
-      🟩🟩⬜⬜⬜: SORRY
-  ⬜🟨⬜⬜🟨:
-    input: SINEW
-    next:
-      ⬜⬜⬜🟨⬜:
-        input: LURID
-        next:
-          ⬜⬜🟨⬜⬜: EVERY
-          ⬜⬜🟨⬜🟨: REEDY
-          ⬜⬜🟩⬜⬜:
-            input: FJORD
-            next:
-              ⬜⬜⬜🟨⬜: PERKY
-              ⬜⬜⬜🟩⬜:
-                input: MERRY
-                next:
-                  ⬜🟩🟩🟩🟩: BERRY
-              ⬜🟨⬜🟨⬜: JERKY
-              🟩⬜⬜🟩⬜: FERRY
-          ⬜⬜🟩⬜🟨: DERBY
-          ⬜🟨🟨⬜⬜: FEMUR
-          ⬜🟨🟨⬜🟨: DEMUR
-          ⬜🟩🟨⬜⬜: QUERY
-          🟨⬜🟨⬜⬜: REPLY
-          🟩⬜🟨⬜⬜: LEERY
-          🟩🟨🟨⬜⬜: LEMUR
-      ⬜⬜⬜🟩⬜:
-        input: LUMPY
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: ROVED
-            next:
-              🟨⬜⬜🟩🟨: DEFER
-              🟨⬜🟩🟩⬜: FEVER
-              🟨🟨⬜🟩⬜: OFFER
-              🟨🟨⬜🟩🟨: ODDER
-              🟨🟩⬜🟩⬜:
-                input: JOKER
-                next:
-                  ⬜🟩⬜🟩🟩: BOXER
-              🟨🟩🟩🟩⬜: HOVER
-              🟩⬜⬜🟩⬜: REFER
-              🟩🟩⬜🟩⬜: ROGER
-              🟩🟩⬜🟩🟨: RODEO
-              🟩🟩🟩🟩⬜: ROVER
-          ⬜⬜⬜⬜🟨: FOYER
-          ⬜⬜⬜🟨⬜: POKER
-          ⬜⬜⬜🟨🟨: HYPER
-          ⬜⬜🟨⬜⬜:
-            input: EMBER
-            next:
-              🟨🟨⬜🟩🟩: MOVER
-          ⬜⬜🟩⬜⬜: HOMER
-          ⬜🟨⬜⬜⬜: UDDER
-          ⬜🟨⬜🟨⬜: UPPER
-          ⬜🟩⬜⬜⬜:
-            input: RUDER
-            next:
-              🟨🟩⬜🟩🟩: QUEER
-          ⬜🟩⬜⬜🟨: BUYER
-          ⬜🟩⬜🟨⬜: PURER
-          🟨⬜⬜⬜⬜:
-            input: EVADE
-            next:
-              🟨⬜⬜⬜⬜: REBEL
-              🟨⬜⬜🟨⬜: OLDER
-              🟨🟨⬜⬜⬜: REVEL
-              🟩⬜⬜🟨⬜: ELDER
-          🟨⬜⬜⬜🟨: FLYER
-          🟨⬜⬜🟨⬜: REPEL
-          🟨🟨⬜⬜⬜: BLUER
-          🟨🟩⬜⬜⬜: RULER
-          🟩⬜⬜⬜⬜:
-            input: LOVER
-            next:
-              🟩⬜🟩🟩🟩: LEVER
-          🟩⬜⬜🟨⬜: LEPER
-      ⬜⬜⬜🟩🟨:
-        input: CLOMP
-        next:
-          ⬜⬜⬜⬜⬜: FEWER
-          ⬜⬜🟨⬜⬜: ROWER
-          ⬜⬜🟨⬜🟨: POWER
-          ⬜⬜🟨🟨⬜: MOWER
-          ⬜⬜🟩⬜⬜: WOOER
-          ⬜🟨🟨⬜⬜: LOWER
-      ⬜⬜🟨🟨⬜:
-        input: HERON
-        next:
-          ⬜🟩🟩⬜🟨: NERDY
-          ⬜🟩🟩⬜🟩: RERUN
-      ⬜⬜🟨🟩⬜:
-        input: NEVER
-        next:
-          🟨🟨⬜🟩🟩: UNDER
-      ⬜⬜🟨🟩🟨: NEWER
-      ⬜⬜🟩🟩⬜: GONER
-      ⬜⬜🟩🟩🟨: OWNER
-      ⬜⬜🟩🟩🟩: RENEW
-      ⬜🟨⬜🟨⬜: PERIL
-      ⬜🟨⬜🟨🟨: WEIRD
-      ⬜🟨⬜🟩⬜:
-        input: PLIER
-        next:
-          ⬜🟨🟨🟩🟩: IDLER
-          ⬜🟩🟩🟩🟩: FLIER
-      ⬜🟨🟨🟨⬜: REIGN
-      ⬜🟨🟨🟩⬜: INFER
-      ⬜🟨🟩🟩⬜: INNER
-      ⬜🟩⬜🟨⬜: FIERY
-      ⬜🟩⬜🟩⬜:
-        input: VALID
-        next:
-          ⬜⬜⬜🟨⬜:
-            input: PROXY
-            next:
-              ⬜🟨⬜⬜⬜: FIBER
-              ⬜🟨⬜🟨⬜: FIXER
-              🟨🟨⬜⬜⬜: RIPER
-              🟩🟨⬜⬜⬜: PIPER
-          ⬜⬜⬜🟨🟨: RIDER
-          ⬜⬜🟩🟨⬜: FILER
-          🟨⬜⬜🟨⬜:
-            input: RIVER
-            next:
-              🟨🟩🟩🟩🟩: GIVER
-          🟨⬜⬜🟨🟨: DIVER
-          🟨⬜🟨🟨⬜: LIVER
-          🟩⬜⬜🟨⬜: VIPER
-      ⬜🟩⬜🟩🟨: WIDER
-      ⬜🟩🟨🟩⬜: RIPEN
-      ⬜🟩🟩🟩⬜:
-        input: MODEL
-        next:
-          ⬜⬜⬜🟩⬜: FINER
-          ⬜⬜⬜🟩🟨: LINER
-          ⬜⬜🟨🟩⬜: DINER
-          🟩⬜⬜🟩⬜: MINER
-      🟨⬜⬜🟨⬜:
-        input: REBUS
-        next:
-          🟨🟩⬜⬜🟨: VERSO
-      🟨⬜⬜🟩⬜:
-        input: LOSER
-        next:
-          ⬜⬜🟨🟩🟩: USHER
-          ⬜🟩🟩🟩🟩: POSER
-      🟨🟨🟨🟨⬜: RESIN
-      🟨🟩⬜🟩⬜:
-        input: MISER
-        next:
-          ⬜🟩🟩🟩🟩: RISER
-      🟨🟩⬜🟩🟨: WISER
-      🟨🟩🟨🟩⬜: RISEN
-      🟩⬜⬜🟨⬜:
-        input: SERUM
-        next:
-          🟩🟨🟨⬜🟩: SPERM
-      🟩⬜⬜🟩⬜:
-        input: SHRUB
-        next:
-          🟩⬜🟨⬜⬜: SEVER
-          🟩⬜🟨⬜🟨: SOBER
-          🟩⬜🟨🟨⬜: SUPER
-          🟩⬜🟩🟨⬜: SURER
-          🟩🟩🟨⬜⬜: SHEER
-      🟩⬜⬜🟩🟨:
-        input: SOWER
-        next:
-          🟩⬜🟩🟩🟩: SEWER
-      🟩⬜⬜🟩🟩: SHREW
-      🟩⬜🟨🟩⬜: SNEER
-      🟩🟨⬜🟨⬜: SERIF
-      🟩🟨⬜🟩⬜: SKIER
-      🟩🟩🟨🟩⬜: SIREN
-  ⬜🟨⬜⬜🟩:
-    input: SOUGH
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: FEIGN
-        next:
-          ⬜🟩⬜⬜⬜: VERVE
-          ⬜🟩⬜⬜🟨: NERVE
-          ⬜🟩🟨⬜⬜: EERIE
-          🟨🟨🟨⬜⬜: RIFLE
-          🟩🟨🟨⬜⬜: FIBRE
-      ⬜⬜⬜⬜🟨:
-        input: RHYME
-        next:
-          🟨🟩⬜⬜🟩: WHERE
-      ⬜⬜⬜🟨⬜: GENRE
-      ⬜⬜⬜🟩⬜:
-        input: MERGE
-        next:
-          ⬜🟨🟨🟩🟩: RIDGE
-          ⬜🟨🟩🟩🟩: DIRGE
-          ⬜🟩🟩🟩🟩: VERGE
-      ⬜⬜🟨⬜⬜:
-        input: RUPEE
-        next:
-          🟨🟩🟨🟩🟩: PUREE
-          🟩🟨⬜🟨🟩: REVUE
-      ⬜⬜🟨🟩⬜: PURGE
-      ⬜🟨⬜⬜⬜: OMBRE
-      ⬜🟩⬜⬜⬜: BORNE
-      ⬜🟩⬜⬜🟨: HORDE
-      ⬜🟩⬜🟩⬜:
-        input: FORGE
-        next:
-          ⬜🟩🟩🟩🟩: GORGE
-      ⬜🟩🟨🟨⬜: ROGUE
-      ⬜🟩🟩🟩⬜: ROUGE
-      🟨⬜⬜⬜⬜:
-        input: VERSE
-        next:
-          ⬜🟨🟨🟩🟩: RINSE
-      🟨⬜🟨⬜⬜:
-        input: PURSE
-        next:
-          ⬜🟩🟩🟩🟩: NURSE
-      🟨⬜🟩⬜⬜: REUSE
-      🟨🟩⬜⬜⬜: WORSE
-      🟨🟩⬜⬜🟨: HORSE
-      🟨🟩🟩⬜⬜: ROUSE
-      🟩⬜⬜⬜⬜:
-        input: SERVE
-        next:
-          🟩🟨🟨⬜🟩: SPIRE
-          🟩🟨🟩⬜🟩: SPREE
-      🟩⬜⬜⬜🟨: SHIRE
-      🟩⬜🟨🟩⬜: SURGE
-      🟩🟨⬜⬜⬜:
-        input: WHELP
-        next:
-          ⬜⬜🟨⬜⬜: SNORE
-          ⬜⬜🟨⬜🟨: SPORE
-          🟨⬜🟨⬜⬜: SWORE
-      🟩🟨⬜⬜🟨: SHORE
-  ⬜🟨⬜🟨⬜:
-    input: CHOIR
-    next:
-      🟨⬜⬜⬜🟨:
-        input: SCRUB
-        next:
-          🟩🟩🟩🟩⬜: SCRUM
-      🟨⬜⬜🟨🟩: INCUR
-      🟨⬜⬜🟩🟨: LYRIC
-      🟨⬜🟨⬜🟨: ROCKY
-      🟨⬜🟨⬜🟩: OCCUR
-      🟨⬜🟨🟨🟨: MICRO
-      🟨⬜🟩⬜🟨: SCORN
-      🟨⬜🟩⬜🟩: SCOUR
-      🟩⬜⬜⬜🟨:
-        input: NAVAL
-        next:
-          ⬜⬜⬜⬜⬜: CURRY
-          ⬜⬜⬜⬜🟨: CURLY
-          ⬜⬜🟨⬜⬜: CURVY
-      🟩⬜🟨⬜🟨: CORNY
-      🟩⬜🟨⬜🟩: COLOR
-      🟩⬜🟨🟩🟨: CURIO
-      🟩🟩⬜⬜🟨: CHURN
-      🟩🟩⬜🟨🟨: CHIRP
-      🟩🟩🟩⬜🟨: CHORD
-  ⬜🟨⬜🟨🟨:
-    input: OWLED
-    next:
-      ⬜⬜⬜🟨⬜: RECUR
-      ⬜⬜⬜🟨🟨: DECRY
-      ⬜⬜⬜🟩⬜:
-        input: CYBER
-        next:
-          🟨⬜⬜🟩🟩: NICER
-          🟩⬜⬜🟩🟩: CHEER
-      ⬜⬜⬜🟩🟨: CIDER
-      ⬜⬜🟨🟨⬜: CLERK
-      ⬜⬜🟨🟩⬜: ULCER
-      ⬜⬜🟩🟨⬜: RELIC
-      ⬜🟨⬜🟩⬜: SCREW
-      🟨⬜⬜🟨🟨: DECOR
-      🟨⬜⬜🟩⬜:
-        input: COVER
-        next:
-          🟩🟩⬜🟩🟩: CORER
-      🟨🟨⬜🟩⬜: COWER
-  ⬜🟨⬜🟨🟩:
-    input: SCORE
-    next:
-      ⬜🟨⬜🟨🟩: CURVE
-      ⬜🟨🟩🟩🟩: CHORE
-      🟨🟨⬜🟨🟩: CURSE
-      🟩🟩⬜🟨🟩: SCREE
-  ⬜🟨⬜🟩⬜:
-    input: REBUT
-    next:
-      🟨⬜⬜⬜⬜: PORCH
-      🟨⬜⬜🟨⬜: LURCH
-      🟨⬜🟨⬜⬜: BIRCH
-  ⬜🟨⬜🟩🟨:
-    input: PERCH
-    next:
-      ⬜🟩🟩🟩⬜: MERCY
-  ⬜🟨⬜🟩🟩: FORCE
-  ⬜🟨🟨⬜⬜:
-    input: PYLON
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: HUMID
-        next:
-          ⬜⬜⬜⬜🟨: RADAR
-          ⬜⬜⬜🟨⬜: RABBI
-          ⬜⬜⬜🟩🟨: RADII
-          ⬜⬜⬜🟩🟩: RABID
-          ⬜⬜🟨⬜⬜: KARMA
-          ⬜🟨🟨⬜⬜: UMBRA
-          ⬜🟩⬜⬜⬜:
-            input: SUGAR
-            next:
-              ⬜🟩🟩🟨🟩: AUGUR
-          ⬜🟩🟩⬜⬜: RUMBA
-          🟨⬜⬜⬜⬜: RAJAH
-          🟨⬜🟨⬜⬜: MARSH
-          🟩⬜⬜⬜⬜: HARSH
-      ⬜⬜⬜⬜🟨: NADIR
-      ⬜⬜⬜🟨⬜:
-        input: CIGAR
-        next:
-          ⬜⬜⬜🟩🟨: BORAX
-          ⬜⬜🟨🟨🟨: AGORA
-          ⬜🟨⬜🟨🟨: RADIO
-      ⬜⬜⬜🟨🟨: SONAR
-      ⬜⬜⬜🟨🟩: ADORN
-      ⬜⬜⬜🟩⬜:
-        input: AZYMS
-        next:
-          🟨⬜⬜⬜⬜: FAVOR
-          🟨⬜⬜⬜🟨: SAVOR
-          🟨⬜⬜🟨⬜: MAJOR
-          🟨🟨⬜⬜⬜: RAZOR
-          🟩⬜⬜⬜⬜: ABHOR
-      ⬜⬜⬜🟩🟨: MANOR
-      ⬜⬜⬜🟩🟩: BARON
-      ⬜⬜🟨⬜⬜:
-        input: MURAL
-        next:
-          ⬜⬜🟨🟩🟩: RIVAL
-          ⬜⬜🟩🟨🟨: LARVA
-          ⬜⬜🟩🟩🟩: VIRAL
-          ⬜🟩🟩🟩🟩: RURAL
-      ⬜⬜🟨⬜🟨: LUNAR
-      ⬜⬜🟨🟨⬜:
-        input: FLORA
-        next:
-          ⬜🟨🟨🟨🟨: MORAL
-      ⬜⬜🟨🟩⬜: LABOR
-      ⬜⬜🟩🟨⬜:
-        input: SOLAR
-        next:
-          ⬜🟩🟩🟩🟩: MOLAR
-      ⬜⬜🟩🟩⬜: VALOR
-      ⬜🟨⬜⬜⬜:
-        input: HARDY
-        next:
-          ⬜🟩🟨⬜🟩: FAIRY
-          ⬜🟩🟨🟨🟩: DAIRY
-          ⬜🟩🟩⬜🟩: MARRY
-          🟩🟩🟨⬜🟩: HAIRY
-          🟩🟩🟩⬜🟩: HARRY
-      ⬜🟨⬜⬜🟨:
-        input: RAINY
-        next:
-          🟨🟨⬜🟨🟩: ANGRY
-          🟩🟩⬜🟨🟩: RANDY
-      ⬜🟨⬜🟨⬜: FORAY
-      ⬜🟨⬜🟩⬜: MAYOR
-      ⬜🟨⬜🟩🟩: RAYON
-      ⬜🟨🟨🟨⬜: ROYAL
-      ⬜🟨🟩⬜⬜: RALLY
-      🟨⬜⬜⬜⬜: RAPID
-      🟨⬜⬜🟩⬜: VAPOR
-      🟨⬜⬜🟩🟩: APRON
-      🟨⬜🟩⬜⬜: RALPH
-      🟨🟨⬜⬜⬜:
-        input: SPRAY
-        next:
-          ⬜🟨🟩🟨🟩: HARPY
-          🟨🟨🟨🟨🟩: RASPY
-      🟩⬜⬜⬜⬜: PARKA
-      🟩⬜🟩🟨⬜: POLAR
-      🟩🟨⬜⬜⬜: PARRY
-  ⬜🟨🟨⬜🟨:
-    input: PALSY
-    next:
-      ⬜🟨⬜⬜⬜:
-        input: DEBAR
-        next:
-          ⬜🟨⬜🟨🟩: ANGER
-          ⬜🟨🟩🟨🟩: AMBER
-          ⬜🟩🟨🟩🟨: REHAB
-          ⬜🟩🟩🟨🟨: ZEBRA
-          ⬜🟩🟩🟩🟩: REBAR
-          🟨🟨⬜🟨🟩: AIDER
-      ⬜🟨⬜🟨⬜:
-        input: HUMPH
-        next:
-          ⬜⬜⬜⬜⬜: SWEAR
-          ⬜⬜🟨⬜⬜: SMEAR
-          🟨⬜⬜⬜⬜: SHEAR
-      ⬜🟨🟨⬜⬜:
-        input: REGAL
-        next:
-          🟨🟩⬜🟩🟩: FERAL
-          🟩🟩⬜🟩🟩: RENAL
-      ⬜🟨🟩⬜⬜: RELAX
-      ⬜🟨🟩⬜🟩: RELAY
-      ⬜🟩⬜⬜⬜:
-        input: GAMER
-        next:
-          ⬜🟩⬜🟩🟨: RAVEN
-          ⬜🟩⬜🟩🟩:
-            input: BARFI
-            next:
-              ⬜🟩🟨⬜⬜: WAVER
-              ⬜🟩🟨🟨⬜: WAFER
-              ⬜🟩🟩⬜⬜: RARER
-              🟩🟩🟨⬜⬜: BAKER
-          ⬜🟩🟨🟩🟨: HAREM
-          ⬜🟩🟨🟩🟩: MAKER
-          ⬜🟩🟩🟩🟨: RAMEN
-          🟨🟩⬜🟩🟩:
-            input: WAGER
-            next:
-              ⬜🟩🟩🟩🟩: EAGER
-          🟩🟩⬜🟩🟩: GAZER
-      ⬜🟩⬜⬜🟨: GAYER
-      ⬜🟩⬜🟨⬜:
-        input: SAFER
-        next:
-          🟩🟩⬜🟩🟩: SANER
-      ⬜🟩🟨⬜⬜: LAGER
-      ⬜🟩🟨⬜🟨: LAYER
-      ⬜🟩🟨⬜🟩: EARLY
-      ⬜🟩🟩⬜⬜: BALER
-      🟨🟨⬜⬜⬜: OPERA
-      🟨🟨⬜⬜🟩: REPAY
-      🟨🟨⬜🟨⬜: SPEAR
-      🟩🟩⬜⬜⬜:
-        input: PAPER
-        next:
-          🟩🟩⬜🟩🟩: PARER
-      🟩🟩⬜⬜🟨: PAYER
-      🟩🟩🟩⬜⬜: PALER
-  ⬜🟨🟨⬜🟩:
-    input: ALIGN
-    next:
-      🟨⬜⬜⬜⬜: PARSE
-      🟨⬜⬜🟩⬜: BARGE
-      🟨⬜⬜🟩🟨: RANGE
-      🟨⬜🟩⬜⬜: RAISE
-      🟨🟨⬜🟩⬜: LARGE
-      🟩⬜⬜⬜⬜:
-        input: AZURE
-        next:
-          🟩⬜⬜🟩🟩: ADORE
-      🟩⬜⬜🟨⬜: AGREE
-      🟩⬜🟩⬜⬜: AFIRE
-  ⬜🟨🟨🟨⬜:
-    input: CAROM
-    next:
-      🟨🟨🟨⬜⬜: VICAR
-      🟨🟨🟨🟨⬜: ACORN
-      🟨🟨🟩⬜⬜:
-        input: SCRAP
-        next:
-          ⬜🟩🟩🟨⬜: ACRID
-      🟨🟨🟩⬜🟩: SCRAM
-      🟨🟩🟨🟨🟨: MACRO
-      🟩🟨🟨⬜⬜: CIGAR
-      🟩🟨🟨🟨⬜: COBRA
-      🟩🟨🟩🟨⬜: CORAL
-      🟩🟩🟨⬜⬜: CAIRN
-      🟩🟩🟩⬜⬜: CARRY
-      🟩🟩🟩🟨⬜: CARGO
-      🟩🟩🟩🟩⬜: CAROL
-  ⬜🟨🟨🟨🟨:
-    input: RECAP
-    next:
-      🟨🟨🟨🟨🟨: CAPER
-      🟨🟨🟨🟩⬜: CLEAR
-      🟨🟩🟨🟩⬜: CEDAR
-      🟩🟨🟩🟨⬜: RACER
-  ⬜🟨🟨🟨🟩: CARVE
-  ⬜🟨🟨🟩⬜:
-    input: MARCH
-    next:
-      ⬜🟨🟩🟩⬜: CIRCA
-      ⬜🟩🟨🟩🟩: RANCH
-  ⬜🟨🟨🟩🟩: FARCE
-  ⬜🟨🟩⬜⬜:
-    input: DHOWS
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: FLAIR
-        next:
-          ⬜⬜🟩⬜🟨: QUARK
-          ⬜🟩🟩⬜🟨: ALARM
-      ⬜⬜⬜⬜🟨:
-        input: SNARL
-        next:
-          🟩⬜🟩🟩⬜: SPARK
-      ⬜⬜⬜🟨🟨: SWARM
-      ⬜⬜🟨⬜⬜: OVARY
-      ⬜🟩⬜⬜🟨:
-        input: SHARP
-        next:
-          🟩🟩🟩🟩⬜: SHARK
-      ⬜🟩⬜🟨⬜: WHARF
-      🟨⬜⬜⬜⬜: GUARD
-      🟨⬜⬜🟨⬜: AWARD
-      🟨⬜🟨⬜⬜: BOARD
-      🟨🟨🟨⬜⬜: HOARD
-      🟨🟩⬜⬜🟨: SHARD
-      🟩⬜⬜⬜⬜: DIARY
-      🟩⬜⬜🟨⬜: DWARF
-  ⬜🟨🟩⬜🟨:
-    input: BADLY
-    next:
-      ⬜🟨⬜⬜⬜: REARM
-      ⬜🟨⬜⬜🟨: YEARN
-      ⬜🟨⬜⬜🟩: WEARY
-      ⬜🟨⬜🟨⬜:
-        input: PEARL
-        next:
-          ⬜🟩🟩🟩🟨: LEARN
-      ⬜🟨⬜🟩⬜: REALM
-      ⬜🟨🟨⬜⬜: HEARD
-      ⬜🟨🟨⬜🟩: READY
-      🟩🟨🟨⬜⬜: BEARD
-  ⬜🟨🟩⬜🟩:
-    input: BLUSH
-    next:
-      ⬜⬜⬜⬜⬜: AWARE
-      ⬜⬜⬜🟨⬜:
-        input: SNARE
-        next:
-          🟩⬜🟩🟩🟩: SPARE
-      ⬜⬜⬜🟨🟨: SHARE
-      ⬜🟩⬜⬜⬜:
-        input: GLARE
-        next:
-          ⬜🟩🟩🟩🟩: FLARE
-      🟩🟩⬜⬜⬜: BLARE
-  ⬜🟨🟩🟨⬜:
-    input: HYDRO
-    next:
-      ⬜⬜⬜🟩⬜: SCARF
-      ⬜🟨⬜🟩⬜: SCARY
-      🟨⬜⬜🟨⬜: CHAIR
-      🟨⬜⬜🟩⬜: CHARM
-      🟨⬜🟨🟩⬜: CHARD
-  ⬜🟨🟩🟨🟩: SCARE
-  ⬜🟨🟩🟩⬜: ROACH
-  ⬜🟨🟩🟩🟨: REACH
-  ⬜🟩⬜⬜⬜:
-    input: GUILD
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: BUXOM
-        next:
-          ⬜⬜⬜🟨⬜: FROWN
-          ⬜⬜⬜🟩⬜: PROOF
-          ⬜⬜🟨🟨⬜: PROXY
-          🟩⬜⬜🟨⬜: BROWN
-          🟩⬜⬜🟩⬜: BROOK
-          🟩⬜⬜🟩🟩: BROOM
-      ⬜⬜⬜⬜🟨:
-        input: STINK
-        next:
-          ⬜⬜⬜⬜⬜: DROOP
-          ⬜⬜⬜🟨⬜: DROWN
-          🟨⬜⬜⬜⬜: DROSS
-      ⬜⬜⬜⬜🟩:
-        input: BROOD
-        next:
-          ⬜🟩🟩⬜🟩: FROND
-      ⬜⬜⬜🟨⬜: PROWL
-      ⬜⬜⬜🟨🟨: DROOL
-      ⬜⬜⬜🟩⬜: WRYLY
-      ⬜⬜⬜🟩🟨:
-        input: DROLL
-        next:
-          🟩🟩⬜🟩⬜: DRYLY
-      ⬜⬜🟨⬜⬜: IRONY
-      ⬜⬜🟨🟨⬜: BROIL
-      ⬜⬜🟩⬜⬜:
-        input: ABYSM
-        next:
-          ⬜⬜⬜⬜⬜: PRIOR
-          ⬜⬜⬜⬜🟨: PRIMO
-          ⬜⬜⬜🟩⬜: FRISK
-          ⬜⬜⬜🟩🟩: PRISM
-          ⬜⬜🟨⬜⬜: PRIVY
-          ⬜🟨⬜⬜⬜: BRINK
-          ⬜🟨⬜🟩⬜: BRISK
-          ⬜🟨🟨⬜⬜: BRINY
-      ⬜⬜🟩⬜🟨: DRINK
-      ⬜⬜🟩🟩⬜:
-        input: KRILL
-        next:
-          ⬜🟩🟩🟩🟩: FRILL
-      ⬜⬜🟩🟩🟨: DRILL
-      ⬜🟨⬜⬜⬜: BRUSH
-      ⬜🟨⬜⬜🟨: DRUNK
-      ⬜🟨⬜⬜🟩: PROUD
-      ⬜🟨🟨⬜🟩: DRUID
-      🟨⬜⬜⬜⬜:
-        input: PRONG
-        next:
-          ⬜🟩🟩🟩🟩: WRONG
-      🟨⬜🟩⬜⬜:
-        input: BRING
-        next:
-          ⬜🟩🟩🟩🟩: WRING
-      🟨🟨⬜⬜⬜: WRUNG
-      🟩⬜⬜⬜⬜:
-        input: STINK
-        next:
-          ⬜⬜⬜⬜⬜: GROOM
-          ⬜⬜⬜🟨⬜: GROWN
-          🟨⬜⬜⬜⬜: GROSS
-      🟩⬜⬜🟨⬜: GROWL
-      🟩⬜🟨⬜⬜: GROIN
-      🟩⬜🟩⬜⬜: GRIMY
-      🟩⬜🟩⬜🟩: GRIND
-      🟩⬜🟩🟩⬜: GRILL
-      🟩🟨⬜⬜⬜:
-        input: GROUP
-        next:
-          🟩🟩⬜🟨⬜: GRUFF
-  ⬜🟩⬜⬜🟨:
-    input: DINGS
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: ERROR
-        next:
-          🟨🟩⬜⬜🟩: FREER
-      ⬜⬜⬜⬜🟨: FRESH
-      ⬜⬜⬜⬜🟩: PRESS
-      ⬜⬜⬜🟨⬜: GRUEL
-      ⬜⬜🟨⬜⬜: PREEN
-      ⬜⬜🟨🟨⬜: GREEN
-      ⬜🟨⬜⬜⬜: BRIEF
-      ⬜🟨⬜🟨⬜: GRIEF
-      🟨⬜⬜⬜⬜:
-        input: BREED
-        next:
-          ⬜🟩🟨🟩🟨: ORDER
-          ⬜🟩🟩🟩🟩: FREED
-      🟨⬜⬜🟨⬜: GREED
-      🟨🟨⬜⬜⬜:
-        input: PRIED
-        next:
-          ⬜🟩🟩🟩🟩: FRIED
-      🟩⬜⬜⬜⬜: DRYER
-      🟩⬜⬜⬜🟩: DRESS
-      🟩🟨⬜⬜⬜:
-        input: DRIER
-        next:
-          🟩🟩🟩🟩⬜: DRIED
-  ⬜🟩⬜⬜🟩:
-    input: PONDS
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: BRIBE
-        next:
-          ⬜🟩🟩⬜🟩: GRIME
-      ⬜⬜⬜🟨⬜: DRIVE
-      ⬜⬜⬜🟩⬜: BRIDE
-      ⬜⬜🟨⬜⬜:
-        input: BRINE
-        next:
-          ⬜🟩🟩🟩🟩: URINE
-      ⬜🟨⬜⬜⬜:
-        input: FEIGN
-        next:
-          ⬜🟨⬜⬜⬜: BROKE
-          ⬜🟨⬜🟨⬜: GROVE
-          🟩🟨⬜⬜⬜: FROZE
-      ⬜🟨⬜🟨⬜: DROVE
-      ⬜🟨⬜🟩⬜: ERODE
-      ⬜🟨🟨🟨⬜: DRONE
-      🟨⬜⬜⬜⬜: GRIPE
-      🟨🟨⬜⬜⬜: GROPE
-      🟩⬜⬜⬜⬜:
-        input: PRIZE
-        next:
-          🟩🟩🟩⬜🟩: PRIME
-      🟩⬜⬜🟩⬜:
-        input: PRIDE
-        next:
-          🟩🟩⬜🟩🟩: PRUDE
-      🟩⬜🟨⬜⬜: PRUNE
-      🟩🟨⬜⬜⬜:
-        input: PROVE
-        next:
-          🟩🟩🟩⬜🟩: PROBE
-      🟩🟨⬜⬜🟨: PROSE
-      🟩🟨🟨⬜⬜: PRONE
-  ⬜🟩⬜🟨⬜:
-    input: SPUNK
-    next:
-      ⬜⬜⬜⬜⬜: CROWD
-      ⬜⬜⬜⬜🟩: CROOK
-      ⬜⬜⬜🟨⬜: CROWN
-      ⬜⬜⬜🟩⬜: CRONY
-      ⬜⬜🟩⬜⬜: CRUMB
-      ⬜🟨⬜⬜⬜: CRIMP
-      ⬜🟨🟨⬜⬜: CROUP
-      ⬜🟨🟩⬜⬜: CRUMP
-      🟨⬜⬜⬜⬜: CROSS
-      🟨⬜🟩⬜⬜: CRUSH
-      🟨🟨⬜⬜⬜: CRISP
-  ⬜🟩⬜🟨🟨:
-    input: PLIED
-    next:
-      ⬜⬜⬜🟨⬜: CRESS
-      ⬜⬜⬜🟨🟨: CREDO
-      ⬜⬜⬜🟩⬜: CREEK
-      ⬜⬜⬜🟩🟩: CREED
-      ⬜⬜🟩🟩⬜: CRIER
-      ⬜⬜🟩🟩🟩: CRIED
-      ⬜🟨⬜🟩⬜: CRUEL
-      🟨⬜⬜🟩⬜: CREEP
-  ⬜🟩⬜🟨🟩:
-    input: SPEND
-    next:
-      ⬜⬜🟨⬜⬜: CRIME
-      ⬜⬜🟨⬜🟨: CRUDE
-      ⬜⬜🟨🟩⬜: CRONE
-      ⬜⬜🟩⬜⬜: CREME
-      ⬜🟨🟩⬜⬜: CREPE
-  ⬜🟩⬜🟩⬜:
-    input: CRIMP
-    next:
-      🟨🟩⬜⬜⬜: FROCK
-      🟨🟩🟩⬜⬜: BRICK
-      🟨🟩🟩⬜🟨: PRICK
-      🟩🟩⬜⬜⬜: CROCK
-      🟩🟩🟩⬜⬜: CRICK
-  ⬜🟩⬜🟩🟨: WRECK
-  ⬜🟩⬜🟩🟩: PRICE
-  ⬜🟩🟨⬜⬜:
-    input: BARON
-    next:
-      ⬜🟨🟨⬜⬜: FRIAR
-      ⬜🟨🟨🟨⬜: AROMA
-      ⬜🟨🟨🟨🟩:
-        input: GROAN
-        next:
-          🟨🟩🟨🟩🟩: ORGAN
-      ⬜🟨🟨🟩⬜:
-        input: ARDOR
-        next:
-          🟩🟩⬜🟩🟩: ARMOR
-      ⬜🟨🟨🟩🟩: ARSON
-      ⬜🟨🟩⬜⬜: ARRAY
-      ⬜🟨🟩🟩⬜: ARROW
-      🟨🟨🟨⬜🟩: URBAN
-      🟨🟨🟨🟩⬜: ARBOR
-      🟩🟨🟨⬜⬜: BRIAR
-      🟩🟨🟨🟨⬜: BROAD
-  ⬜🟩🟨⬜🟨:
-    input: BREAD
-    next:
-      ⬜🟩🟩🟨⬜: ARENA
-      ⬜🟩🟩🟩⬜:
-        input: FREAK
-        next:
-          ⬜🟩🟩🟩🟩: WREAK
-      ⬜🟩🟩🟩🟨: DREAM
-      ⬜🟩🟩🟩🟩: DREAD
-      🟩🟩🟩🟩⬜: BREAK
-  ⬜🟩🟨⬜🟩:
-    input: ARISE
-    next:
-      🟩🟩⬜⬜🟩: ARGUE
-      🟩🟩⬜🟩🟩: AROSE
-  ⬜🟩🟨🟨⬜: CROAK
-  ⬜🟩🟨🟨🟨:
-    input: CREAK
-    next:
-      🟩🟩🟩🟩⬜: CREAM
-  ⬜🟩🟩⬜⬜:
-    input: BLIND
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: GRASP
-        next:
-          🟩🟩🟩⬜⬜: GRAVY
-          🟩🟩🟩⬜🟨: GRAPH
-          🟩🟩🟩🟩⬜: GRASS
-      ⬜⬜⬜⬜🟨: DRAMA
-      ⬜⬜⬜⬜🟩: FRAUD
-      ⬜⬜⬜🟨⬜: PRAWN
-      ⬜⬜⬜🟨🟨: DRAWN
-      ⬜⬜⬜🟩⬜:
-        input: PRANK
-        next:
-          ⬜🟩🟩🟩🟩: FRANK
-      ⬜⬜⬜🟩🟨: DRANK
-      ⬜⬜⬜🟩🟩: GRAND
-      ⬜⬜🟨🟨⬜: GRAIN
-      ⬜⬜🟨🟨🟨: DRAIN
-      ⬜🟨⬜⬜🟨: DRAWL
-      ⬜🟨🟨⬜⬜:
-        input: FRAIL
-        next:
-          ⬜🟩🟩🟩🟩: GRAIL
-      🟩⬜⬜⬜⬜:
-        input: BRASS
-        next:
-          🟩🟩🟩⬜⬜: BRAVO
-          🟩🟩🟩🟩⬜: BRASH
-      🟩⬜⬜🟨⬜: BRAWN
-      🟩⬜⬜🟩🟩: BRAND
-      🟩⬜🟨⬜🟩: BRAID
-      🟩⬜🟨🟨⬜: BRAIN
-      🟩🟨⬜⬜⬜: BRAWL
-  ⬜🟩🟩⬜🟩:
-    input: DAMPS
-    next:
-      ⬜🟨⬜⬜⬜:
-        input: GRAVE
-        next:
-          ⬜🟩🟩⬜🟩: BRAKE
-          ⬜🟩🟩🟩🟩: BRAVE
-          🟩🟩🟩⬜🟩: GRAZE
-      ⬜🟨⬜⬜🟨: ERASE
-      ⬜🟨⬜🟩⬜: GRAPE
-      ⬜🟨🟨⬜⬜: FRAME
-      🟨🟨⬜⬜⬜: GRADE
-      🟩🟨⬜⬜⬜: DRAKE
-      🟩🟨⬜🟩⬜: DRAPE
-  ⬜🟩🟩🟨⬜:
-    input: AMYLS
-    next:
-      🟨⬜⬜⬜⬜: CRANK
-      🟨⬜⬜⬜🟨: CRASH
-      🟨⬜⬜⬜🟩: CRASS
-      🟨⬜⬜🟨⬜: CRAWL
-      🟨⬜🟨⬜⬜: CRAZY
-      🟨🟨⬜⬜⬜: CRAMP
-  ⬜🟩🟩🟨🟩:
-    input: NAVAL
-    next:
-      ⬜🟨⬜⬜⬜: CRAZE
-      ⬜🟨🟨⬜⬜: CRAVE
-      🟨🟨⬜⬜⬜: CRANE
-  ⬜🟩🟩🟩⬜:
-    input: WRACK
-    next:
-      ⬜🟩🟩🟩🟩: CRACK
-  ⬜🟩🟩🟩🟩:
-    input: GRACE
-    next:
-      ⬜🟩🟩🟩🟩: BRACE
-  🟨⬜⬜⬜⬜:
-    input: POINT
-    next:
-      ⬜⬜⬜⬜🟨:
-        input: GUILD
-        next:
-          ⬜🟨⬜⬜⬜: STUFF
-          ⬜🟨⬜⬜🟨: STUDY
-          ⬜🟩⬜⬜⬜: MUSTY
-          ⬜🟩⬜⬜🟨: DUSTY
-          ⬜🟩⬜🟨⬜: LUSTY
-          🟩🟩⬜⬜⬜: GUSTY
-      ⬜⬜⬜🟨🟨: NUTTY
-      ⬜⬜⬜🟩🟨:
-        input: STUNG
-        next:
-          🟩🟩🟩🟩⬜: STUNK
-      ⬜⬜⬜🟩🟩:
-        input: SHUNT
-        next:
-          ⬜⬜🟩🟩🟩: BLUNT
-          🟩⬜🟩🟩🟩: STUNT
-      ⬜⬜🟨⬜🟨:
-        input: FLESH
-        next:
-          ⬜⬜⬜⬜⬜:
-            input: BAWDY
-            next:
-              ⬜⬜⬜⬜🟩: KITTY
-              ⬜⬜⬜🟨🟩: DITTY
-              ⬜⬜🟨⬜🟩: WITTY
-              🟩⬜⬜⬜🟩: BITTY
-          ⬜⬜⬜⬜🟩: WIDTH
-          ⬜⬜⬜🟨⬜: SIXTY
-          ⬜⬜⬜🟨🟩: SIXTH
-          🟩⬜⬜⬜⬜: FIFTY
-          🟩⬜⬜⬜🟩: FIFTH
-          🟩🟨⬜⬜🟩: FILTH
-      ⬜⬜🟨⬜🟩:
-        input: FLESH
-        next:
-          ⬜⬜⬜⬜⬜: DIGIT
-          ⬜⬜⬜⬜🟨:
-            input: MIGHT
-            next:
-              ⬜🟩🟩🟩🟩: WIGHT
-          ⬜⬜⬜🟨⬜: VISIT
-          ⬜⬜⬜🟨🟨: SIGHT
-          ⬜⬜⬜🟩⬜: MIDST
-          ⬜🟨⬜⬜⬜: LIMIT
-          ⬜🟨⬜⬜🟨: LIGHT
-          🟩⬜⬜⬜🟨: FIGHT
-      ⬜⬜🟨🟨🟨:
-        input: MINTY
-        next:
-          ⬜🟨🟨🟨⬜: UNTIL
-          ⬜🟩🟩🟩⬜: NINTH
-      ⬜⬜🟨🟨🟩:
-        input: UNFIT
-        next:
-          ⬜🟨⬜🟨🟩: NIGHT
-          🟩🟩⬜🟩🟩: UNLIT
-      ⬜⬜🟩⬜🟨:
-        input: STILL
-        next:
-          ⬜🟨🟩🟨⬜: BLITZ
-          🟩🟨🟩⬜⬜: SMITH
-          🟩🟩🟩⬜⬜: STIFF
-      ⬜⬜🟩⬜🟩:
-        input: BLUSH
-        next:
-          ⬜⬜⬜🟨⬜: SWIFT
-          ⬜⬜⬜🟨🟨: SHIFT
-          ⬜🟨⬜🟨⬜: STILT
-          ⬜🟨🟨⬜⬜:
-            input: QUILT
-            next:
-              ⬜🟩🟩🟩🟩: GUILT
-          🟩🟨🟨⬜⬜: BUILT
-      ⬜⬜🟩🟨🟨: UNITY
-      ⬜⬜🟩🟩🟨:
-        input: STINK
-        next:
-          🟩🟩🟩🟩⬜: STING
-      ⬜⬜🟩🟩🟩:
-        input: FLINT
-        next:
-          ⬜⬜🟩🟩🟩: STINT
-          ⬜🟩🟩🟩🟩: GLINT
-      ⬜🟨⬜⬜🟨:
-        input: STOOD
-        next:
-          ⬜🟨🟨⬜⬜: OUTGO
-          ⬜🟨🟨⬜🟨: OUTDO
-          ⬜🟨🟩⬜⬜: QUOTH
-          🟨🟨🟨⬜⬜: GUSTO
-          🟩🟨🟩⬜⬜: SLOTH
-          🟩🟩🟩🟩⬜: STOOL
-      ⬜🟨⬜⬜🟩:
-        input: STOUT
-        next:
-          ⬜🟨🟨🟨🟩: OUGHT
-          ⬜🟨🟩🟩🟩: FLOUT
-          🟨🟨🟩⬜🟩: GHOST
-          🟩🟨🟩⬜🟩: SHOOT
-          🟩🟨🟩🟩🟩: SHOUT
-      ⬜🟨⬜🟨🟨: JUNTO
-      ⬜🟨⬜🟨🟩: SNOUT
-      ⬜🟨⬜🟩🟨: STONY
-      ⬜🟨🟨⬜🟨: DITTO
-      ⬜🟨🟨⬜🟩: BIGOT
-      ⬜🟨🟨🟨🟩: INGOT
-      ⬜🟨🟩⬜🟩: IDIOT
-      ⬜🟩⬜⬜🟨:
-        input: SHOWY
-        next:
-          ⬜⬜🟨⬜⬜: MOTTO
-          ⬜⬜🟨⬜🟩: LOFTY
-          ⬜⬜🟩⬜🟩: BOOTY
-          ⬜🟨🟨⬜⬜: MOUTH
-          ⬜🟨🟨⬜🟨: YOUTH
-          ⬜🟨🟨⬜🟩: HOTLY
-          ⬜🟨🟩⬜⬜: BOOTH
-          🟩⬜🟩⬜🟩: SOOTY
-          🟩🟨🟨⬜⬜: SOUTH
-          🟩🟨🟩⬜⬜: SOOTH
-      ⬜🟩⬜⬜🟩:
-        input: BOOST
-        next:
-          ⬜🟩⬜⬜🟩: MOULT
-          ⬜🟩⬜🟩🟩: JOUST
-          🟨🟩⬜⬜🟩: DOUBT
-      ⬜🟩⬜🟨🟨: MONTH
-      ⬜🟩⬜🟨🟩: DONUT
-      ⬜🟩⬜🟩🟩: MOUNT
-      ⬜🟩🟨⬜🟨: MOTIF
-      ⬜🟩🟨⬜🟩: VOMIT
-      ⬜🟩🟩⬜🟩:
-        input: FEHME
-        next:
-          ⬜⬜⬜⬜⬜: JOIST
-          ⬜⬜⬜🟨⬜: MOIST
-          ⬜⬜🟨⬜⬜: HOIST
-          🟩⬜⬜⬜⬜: FOIST
-      ⬜🟩🟩🟩🟩: JOINT
-      🟨⬜⬜⬜🟨: STUMP
-      🟨⬜🟨⬜🟩: SPLIT
-      🟨⬜🟨🟨🟩: INPUT
-      🟨⬜🟩⬜🟩: SPILT
-      🟨🟨⬜⬜🟨:
-        input: STOMP
-        next:
-          🟩🟩🟩⬜🟩: STOOP
-      🟨🟨⬜⬜🟩: SPOUT
-      🟩⬜⬜⬜🟨: PUTTY
-      🟩⬜🟨⬜🟨: PITHY
-      🟩🟨⬜⬜🟨: PHOTO
-      🟩🟨🟨⬜🟩:
-        input: PILOT
-        next:
-          🟩🟩⬜🟩🟩: PIVOT
-      🟩🟨🟨🟨🟨: PINTO
-      🟩🟩⬜⬜🟨: POUTY
-      🟩🟩🟨⬜🟩: POSIT
-  🟨⬜⬜⬜🟨:
-    input: SPILT
-    next:
-      ⬜⬜⬜⬜🟨:
-        input: JETTY
-        next:
-          ⬜🟨🟩⬜⬜: OFTEN
-          ⬜🟩🟨🟩🟩: HEFTY
-          ⬜🟩🟩⬜⬜: DETOX
-      ⬜⬜⬜⬜🟩:
-        input: UNMET
-        next:
-          ⬜⬜⬜🟩🟩: BEGET
-          ⬜🟨⬜🟨🟩: EVENT
-          🟨⬜⬜🟨🟩: DEBUT
-          🟨⬜⬜🟩🟩: DUVET
-      ⬜⬜⬜🟨🟨:
-        input: HOTEL
-        next:
-          ⬜⬜🟨🟨🟨: LEFTY
-          ⬜⬜🟩🟩🟩: BETEL
-          ⬜🟨🟩🟨🟩: EXTOL
-          ⬜🟩🟩🟩🟩: MOTEL
-      ⬜⬜⬜🟨🟩: FLEET
-      ⬜⬜⬜🟩🟩:
-        input: DWELT
-        next:
-          ⬜⬜🟨🟩🟩: EXULT
-          ⬜⬜🟩🟩🟩: KNELT
-      ⬜⬜🟨⬜🟨: FETID
-      ⬜⬜🟨⬜🟩:
-        input: DEBIT
-        next:
-          ⬜🟨⬜🟨🟩: EIGHT
-          ⬜🟩🟨🟩🟩: BEFIT
-      ⬜⬜🟨🟨🟩:
-        input: FILET
-        next:
-          ⬜🟨🟩🟩🟩: INLET
-      ⬜⬜🟩⬜🟨: DEITY
-      ⬜⬜🟩⬜🟩: QUIET
-      ⬜🟨⬜⬜🟨:
-        input: DEPTH
-        next:
-          ⬜🟨🟩🟩⬜: EMPTY
-          ⬜🟩🟨🟩⬜: PETTY
-      ⬜🟨⬜⬜🟩: DEPOT
-      ⬜🟨🟨⬜🟨: PIETY
-      ⬜🟨🟨⬜🟩: INEPT
-      🟨⬜⬜⬜🟨:
-        input: ZESTY
-        next:
-          ⬜🟨🟨🟨⬜: ETHOS
-          ⬜🟩🟨🟨⬜: FETUS
-      🟨⬜⬜⬜🟩:
-        input: GONER
-        next:
-          ⬜⬜⬜🟨⬜: QUEST
-          ⬜⬜⬜🟩⬜: BESET
-          ⬜⬜🟨🟩⬜: UNSET
-          ⬜🟨🟨🟩⬜: ONSET
-          🟩⬜⬜🟨⬜: GUEST
-      🟨⬜🟨🟨🟩: ISLET
-      🟨⬜🟩⬜🟩:
-        input: HEIST
-        next:
-          ⬜🟨🟩🟩🟩: EXIST
-      🟨🟨⬜⬜🟨: PESTO
-      🟨🟩⬜⬜🟩: UPSET
-      🟩⬜⬜⬜🟨: STEED
-      🟩⬜⬜⬜🟩:
-        input: SWEET
-        next:
-          🟩⬜🟩🟩🟩: SHEET
-      🟩⬜⬜🟨🟨: STEEL
-      🟩⬜⬜🟨🟩: SLEET
-      🟩⬜⬜🟩🟩: SMELT
-      🟩⬜🟨⬜🟨: STEIN
-      🟩🟨⬜⬜🟨:
-        input: STEEP
-        next:
-          🟩🟨🟨⬜🟩: SETUP
-      🟩🟨⬜⬜🟩: SWEPT
-      🟩🟨⬜🟨🟩: SLEPT
-      🟩🟩⬜⬜🟩: SPENT
-      🟩🟩⬜🟩🟩: SPELT
-  🟨⬜⬜⬜🟩:
-    input: MUILS
-    next:
-      ⬜⬜⬜⬜🟨:
-        input: NAVAL
-        next:
-          ⬜⬜⬜⬜⬜: STOKE
-          ⬜⬜🟨⬜⬜: STOVE
-          🟨⬜⬜⬜⬜: STONE
-      ⬜⬜⬜🟩🟨:
-        input: STOLE
-        next:
-          🟩🟩⬜🟩🟩: STYLE
-      ⬜⬜🟨🟨⬜: LITHE
-      ⬜⬜🟩⬜⬜: WHITE
-      ⬜⬜🟩⬜🟨: SPITE
-      ⬜⬜🟩🟨⬜: ELITE
-      ⬜🟨⬜⬜⬜: ETUDE
-      ⬜🟨⬜🟨⬜: FLUTE
-      ⬜🟨🟨⬜⬜: UNTIE
-      ⬜🟨🟩⬜⬜: UNITE
-      ⬜🟨🟩🟩⬜: UTILE
-      ⬜🟩⬜⬜⬜:
-        input: BUTTE
-        next:
-          ⬜🟩🟨🟩🟩: QUOTE
-      ⬜🟩🟩⬜⬜: QUITE
-      ⬜🟩🟩⬜🟨: SUITE
-      🟨⬜⬜⬜🟨: SMOTE
-      🟨⬜🟩⬜🟨: SMITE
-  🟨⬜⬜🟨⬜:
-    input: CLOUT
-    next:
-      🟨⬜⬜⬜🟨: ITCHY
-      🟨⬜⬜🟩🟩: UNCUT
-      🟨⬜🟨⬜🟨: OPTIC
-      🟨⬜🟩⬜🟨: STOIC
-      🟨⬜🟩🟩🟩: SCOUT
-      🟩⬜🟨🟨🟩: COUNT
-      🟩🟩🟩⬜🟨: CLOTH
-  🟨⬜⬜🟨🟨:
-    input: SOLVE
-    next:
-      ⬜⬜⬜⬜🟨: ETHIC
-      ⬜⬜🟨⬜🟨: CLEFT
-      ⬜🟨⬜⬜🟨: OCTET
-      ⬜🟩⬜⬜🟨: COMET
-      ⬜🟩⬜🟨🟨: COVET
-      🟨⬜⬜⬜🟨: CHEST
-      🟩⬜⬜⬜🟨: SCENT
-  🟨⬜⬜🟨🟩:
-    input: CHUTE
-    next:
-      🟩⬜🟨🟨🟩: CUTIE
-  🟨⬜⬜🟩⬜:
-    input: HOUND
-    next:
-      ⬜⬜⬜⬜⬜: STICK
-      ⬜⬜🟩⬜⬜: STUCK
-      ⬜🟨⬜⬜⬜: STOCK
-      🟨⬜⬜⬜⬜:
-        input: PITCH
-        next:
-          ⬜🟩🟩🟩🟩: WITCH
-      🟨⬜⬜⬜🟨: DITCH
-      🟨⬜🟨⬜⬜: BUTCH
-      🟨⬜🟨⬜🟨: DUTCH
-      🟨🟩⬜⬜⬜: BOTCH
-      🟨🟩⬜🟨⬜: NOTCH
-      🟩⬜⬜⬜⬜: HITCH
-      🟩⬜🟨⬜⬜: HUTCH
-  🟨⬜⬜🟩🟨:
-    input: VITAL
-    next:
-      ⬜⬜🟨⬜⬜: EJECT
-      ⬜⬜🟨⬜🟨: ELECT
-      ⬜⬜🟩⬜⬜: FETCH
-      ⬜🟨🟨⬜⬜: EDICT
-      🟨🟨🟨⬜⬜: EVICT
-  🟨⬜🟨⬜⬜:
-    input: SPINY
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: ALOFT
-        next:
-          🟨⬜⬜⬜🟨: DATUM
-          🟨⬜⬜⬜🟩: GAMUT
-          🟨⬜🟩⬜🟨: QUOTA
-          🟨🟨⬜⬜🟨: WALTZ
-          🟨🟨⬜⬜🟩: VAULT
-          🟨🟨⬜🟨🟨: FATAL
-          🟨🟨⬜🟨🟩: FAULT
-          🟨🟩🟩⬜🟩:
-            input: GLOAT
-            next:
-              ⬜🟩🟩🟩🟩: BLOAT
-          🟨🟩🟩🟨🟩: FLOAT
-          🟩⬜🟨⬜🟩: ABBOT
-          🟩⬜🟩⬜🟩: ABOUT
-          🟩⬜🟩🟨🟩: AFOOT
-          🟩🟨⬜⬜🟩: ADULT
-          🟩🟨🟩⬜🟨: ATOLL
-          🟩🟩🟨⬜🟩: ALLOT
-      ⬜⬜⬜⬜🟩:
-        input: BATTY
-        next:
-          ⬜🟩🟩🟩🟩: FATTY
-      ⬜⬜⬜🟨⬜:
-        input: BATON
-        next:
-          ⬜🟨🟨⬜🟨: JUNTA
-          ⬜🟩🟩⬜🟨: NATAL
-      ⬜⬜⬜🟨🟩: AUNTY
-      ⬜⬜⬜🟩⬜:
-        input: DOUGH
-        next:
-          ⬜⬜🟩⬜⬜:
-            input: JAUNT
-            next:
-              ⬜🟩🟩🟩🟩: VAUNT
-          ⬜⬜🟩⬜🟨: HAUNT
-          ⬜⬜🟩🟨⬜: GAUNT
-          🟩⬜🟩⬜⬜: DAUNT
-      ⬜⬜🟨⬜⬜:
-        input: AUDIT
-        next:
-          🟨⬜⬜🟨🟨: VITAL
-          🟨⬜⬜🟩🟩: HABIT
-          🟩⬜🟨🟩🟩: ADMIT
-      ⬜⬜🟩⬜⬜: FAITH
-      ⬜⬜🟩⬜🟩: AMITY
-      ⬜⬜🟩🟩⬜: FAINT
-      ⬜🟨⬜⬜⬜: ADOPT
-      ⬜🟨⬜⬜🟩: PATTY
-      ⬜🟨🟨⬜⬜: PATIO
-      ⬜🟨🟩🟩⬜: PAINT
-      ⬜🟩⬜⬜🟩: APTLY
-      🟨⬜⬜⬜🟩: HASTY
-      🟨⬜⬜🟨⬜: ANGST
-      🟨⬜⬜🟨🟩: NASTY
-      🟨⬜🟨⬜⬜: VISTA
-      🟨⬜🟩⬜⬜: WAIST
-      🟨🟨⬜⬜⬜: PASTA
-      🟨🟨⬜⬜🟩:
-        input: PATSY
-        next:
-          🟩🟩🟨🟨🟩: PASTY
-      🟩⬜⬜⬜⬜: SQUAT
-      🟩⬜⬜⬜🟩: SALTY
-      🟩⬜🟨🟨⬜: SATIN
-      🟩⬜🟩🟩⬜: SAINT
-      🟩🟩⬜⬜⬜: SPLAT
-  🟨⬜🟨⬜🟨:
-    input: PLEAT
-    next:
-      ⬜⬜🟨🟨🟨:
-        input: EATEN
-        next:
-          🟨🟩🟩🟩⬜: MATEY
-      ⬜⬜🟨🟨🟩: ASSET
-      ⬜⬜🟨🟩🟩: BEGAT
-      ⬜⬜🟩🟨🟩: AGENT
-      ⬜⬜🟩🟩🟨:
-        input: MODEL
-        next:
-          ⬜⬜⬜🟨⬜: STEAK
-          ⬜⬜🟨🟨⬜: STEAD
-          🟨⬜⬜🟨⬜: STEAM
-      ⬜⬜🟩🟩🟩:
-        input: SWEAT
-        next:
-          ⬜🟨🟩🟩🟩: WHEAT
-      ⬜🟨🟨🟨🟨: DELTA
-      ⬜🟨🟨🟨🟩: VALET
-      ⬜🟨🟨🟩🟨:
-        input: METAL
-        next:
-          ⬜🟩🟩🟩🟩: FETAL
-      ⬜🟨🟩🟩🟨: STEAL
-      ⬜🟩🟩🟩🟩: BLEAT
-      🟨⬜🟩🟨🟩: ADEPT
-      🟩🟨🟨🟩🟨: PETAL
-  🟨⬜🟨⬜🟩:
-    input: BLUSH
-    next:
-      ⬜⬜⬜⬜⬜: ATONE
-      ⬜⬜⬜🟨⬜:
-        input: WASTE
-        next:
-          ⬜🟩🟩🟩🟩: PASTE
-      ⬜⬜⬜🟨🟨: HASTE
-      ⬜⬜🟩⬜🟨: HAUTE
-      ⬜⬜🟩🟨⬜: SAUTE
-      ⬜🟨⬜⬜⬜: LATTE
-      ⬜🟨⬜⬜🟨: LATHE
-      🟩⬜⬜⬜🟨: BATHE
-      🟩⬜⬜🟨⬜: BASTE
-  🟨⬜🟨🟨⬜:
-    input: PAINT
-    next:
-      ⬜🟨⬜⬜🟨: OCTAL
-      ⬜🟨⬜⬜🟩: ASCOT
-      ⬜🟨🟨⬜🟨: ATTIC
-      ⬜🟨🟨🟨🟨: ANTIC
-      ⬜🟩⬜⬜🟨: CATTY
-      ⬜🟩⬜⬜🟩: YACHT
-      ⬜🟩🟨⬜🟨: CACTI
-      🟨🟩⬜⬜🟩: CAPUT
-  🟨⬜🟨🟨🟨:
-    input: CHEAT
-    next:
-      🟨⬜🟨🟨🟩: FACET
-      🟨⬜🟨🟩🟩: ECLAT
-      🟩⬜🟨🟨🟩: CADET
-      🟩⬜🟩🟩🟩: CLEAT
-  🟨⬜🟨🟨🟩:
-    input: ACUTE
-    next:
-      🟨🟨⬜🟩🟩: CASTE
-  🟨⬜🟨🟩⬜:
-    input: BLIMP
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: CLOWN
-        next:
-          🟨⬜⬜⬜⬜: HATCH
-          🟨⬜⬜🟨⬜: WATCH
-          🟩⬜⬜⬜⬜: CATCH
-      ⬜⬜⬜⬜🟨: PATCH
-      ⬜⬜⬜🟨⬜: MATCH
-      ⬜🟨⬜⬜⬜: LATCH
-      🟩⬜⬜⬜⬜: BATCH
-  🟨⬜🟩⬜⬜:
-    input: SLINK
-    next:
-      ⬜⬜⬜⬜⬜: ADAPT
-      ⬜⬜🟨⬜⬜: AWAIT
-      ⬜⬜🟨🟩⬜: GIANT
-      ⬜🟨⬜⬜⬜: LOATH
-      ⬜🟩⬜🟩⬜: PLANT
-      ⬜🟩🟨⬜⬜: PLAIT
-      🟨⬜⬜⬜⬜: BOAST
-      🟨🟩⬜⬜⬜: BLAST
-      🟩⬜⬜⬜⬜:
-        input: FRESH
-        next:
-          ⬜⬜⬜🟨⬜: STAMP
-          ⬜⬜⬜🟨🟩: SWATH
-          ⬜⬜⬜🟩🟩: STASH
-          🟨⬜⬜🟨⬜: STAFF
-          🟨⬜⬜🟨🟨: SHAFT
-      🟩⬜⬜🟩⬜: STAND
-      🟩⬜⬜🟩🟩: STANK
-      🟩⬜🟨⬜⬜: STAID
-      🟩⬜🟨🟨⬜: STAIN
-      🟩🟨⬜⬜⬜:
-        input: SHALT
-        next:
-          🟩⬜🟩🟩🟨: STALL
-      🟩🟨⬜⬜🟩: STALK
-      🟩🟩⬜🟩⬜: SLANT
-  🟨⬜🟩⬜🟨:
-    input: SADLY
-    next:
-      ⬜🟨⬜⬜⬜:
-        input: HEATH
-        next:
-          ⬜🟩🟩🟨⬜: MEANT
-      ⬜🟨⬜⬜🟩: MEATY
-      ⬜🟨⬜🟨⬜:
-        input: LEANT
-        next:
-          🟩🟩🟩⬜🟩: LEAPT
-      ⬜🟨⬜🟩⬜: EXALT
-      ⬜🟨🟨⬜⬜: DEATH
-      ⬜🟨🟨🟩⬜: DEALT
-      🟨🟨⬜⬜⬜:
-        input: FEAST
-        next:
-          ⬜🟩🟩🟩🟩: BEAST
-      🟨🟨⬜⬜🟨: YEAST
-      🟨🟨⬜🟨⬜: LEAST
-  🟨⬜🟩⬜🟩:
-    input: GLOPS
-    next:
-      ⬜⬜⬜⬜⬜: ABATE
-      ⬜⬜⬜⬜🟨:
-        input: SKATE
-        next:
-          🟩⬜🟩🟨🟩: STAVE
-          🟩⬜🟩🟩🟩: STATE
-          🟩🟨🟩🟨🟩: STAKE
-      ⬜⬜🟨⬜⬜: OVATE
-      ⬜🟨⬜⬜🟨: STALE
-      ⬜🟩⬜⬜⬜: ELATE
-      ⬜🟩⬜⬜🟨: SLATE
-      ⬜🟩⬜🟨⬜: PLATE
-      🟨⬜⬜⬜⬜: AGATE
-      🟨⬜⬜⬜🟨: STAGE
-  🟨⬜🟩🟨⬜:
-    input: COAST
-    next:
-      🟨⬜🟩🟨🟩: SCANT
-      🟩⬜🟩⬜🟩: CHANT
-  🟨⬜🟩🟩⬜: STACK
-  🟨⬜🟩🟩🟨:
-    input: ENACT
-    next:
-      🟩⬜🟩🟩🟩: EXACT
-  🟨🟨⬜⬜⬜:
-    input: SHOUT
-    next:
-      ⬜⬜⬜⬜🟨: DIRTY
-      ⬜⬜⬜⬜🟩: FLIRT
-      ⬜⬜⬜🟨🟩:
-        input: BLURT
-        next:
-          🟩⬜🟨🟨🟩: BURNT
-      ⬜⬜🟨⬜🟨:
-        input: MOTOR
-        next:
-          ⬜🟨🟩⬜🟨: INTRO
-          ⬜🟩🟨⬜🟨: FORTY
-          ⬜🟩🟩🟩🟩: ROTOR
-      ⬜⬜🟨⬜🟩: ROBOT
-      ⬜🟨⬜⬜🟨:
-        input: BIOME
-        next:
-          ⬜🟩⬜⬜⬜: GIRTH
-          ⬜🟩⬜🟨⬜: MIRTH
-          🟩🟩⬜⬜⬜: BIRTH
-      ⬜🟨⬜⬜🟩: RIGHT
-      ⬜🟨🟨⬜🟨:
-        input: DWARF
-        next:
-          ⬜⬜⬜🟨⬜: NORTH
-          ⬜⬜⬜🟨🟨: FORTH
-          ⬜🟨⬜🟨⬜: WORTH
-      🟨⬜⬜⬜🟩: FIRST
-      🟨⬜⬜🟨🟨: RUSTY
-      🟨⬜⬜🟨🟩: BURST
-      🟨⬜🟨⬜🟩: WORST
-      🟨⬜🟩⬜🟩: ROOST
-      🟩⬜⬜⬜🟨: STRIP
-      🟩⬜⬜⬜🟩: SKIRT
-      🟩⬜⬜🟨🟩: SPURT
-      🟩⬜⬜🟩🟩: STRUT
-      🟩⬜🟩⬜🟨:
-        input: KARMA
-        next:
-          ⬜⬜🟨⬜⬜: STORY
-          ⬜⬜🟨🟨⬜: STORM
-          🟨⬜🟨⬜⬜: STORK
-      🟩⬜🟩⬜🟩:
-        input: SPORT
-        next:
-          🟩⬜🟩🟩🟩: SNORT
-      🟩🟩⬜⬜🟩: SHIRT
-      🟩🟩🟩⬜🟩: SHORT
-  🟨🟨⬜⬜🟨:
-    input: MOTEN
-    next:
-      ⬜⬜🟨🟨⬜:
-        input: REBUT
-        next:
-          🟨🟨⬜⬜🟩: EXERT
-          🟨🟩🟨⬜🟨: BERTH
-          🟩🟩⬜⬜🟩: REFIT
-      ⬜⬜🟨🟨🟨: INERT
-      ⬜⬜🟨🟨🟩: STERN
-      ⬜⬜🟨🟩⬜:
-        input: RESET
-        next:
-          🟨🟨⬜🟩🟨: ETHER
-          🟨🟨⬜🟩🟩: EGRET
-          🟨🟨🟨🟩🟨: STEER
-          🟨🟩⬜🟩🟩: BERET
-          🟩🟨⬜🟩🟩: RIVET
-      ⬜⬜🟩🟨⬜: RETRY
-      ⬜⬜🟩🟨🟨: ENTRY
-      ⬜⬜🟩🟩⬜:
-        input: REBUT
-        next:
-          🟨🟨⬜⬜🟨: ESTER
-          🟨🟨⬜🟨🟨: UTTER
-          🟨🟩⬜⬜🟨: DETER
-      ⬜⬜🟩🟩🟨:
-        input: INTER
-        next:
-          ⬜🟩🟩🟩🟩: ENTER
-      ⬜🟨🟨🟨⬜: OVERT
-      ⬜🟨🟨🟩⬜: OTHER
-      ⬜🟨🟩🟨⬜: RETRO
-      ⬜🟨🟩🟩⬜:
-        input: OUTER
-        next:
-          🟩⬜🟩🟩🟩: OTTER
-      ⬜🟩🟩🟩⬜: VOTER
-      🟨⬜🟨🟨⬜: REMIT
-      🟩⬜🟨🟨⬜: MERIT
-      🟩⬜🟩🟩⬜: METER
-      🟩🟨🟩🟨⬜: METRO
-  🟨🟨⬜⬜🟩:
-    input: ROUTE
-    next:
-      🟨🟨⬜🟨🟩: STORE
-      🟨🟩⬜🟩🟩: FORTE
-  🟨🟨⬜🟨⬜: COURT
-  🟨🟨⬜🟨🟨: RECUT
-  🟨🟨⬜🟩🟨: RETCH
-  🟨🟨🟨⬜⬜:
-    input: WORRY
-    next:
-      ⬜⬜🟨⬜⬜: ALTAR
-      ⬜⬜🟨⬜🟨: SATYR
-      ⬜⬜🟨⬜🟩: RATTY
-      ⬜⬜🟨🟩⬜: ULTRA
-      ⬜⬜🟩⬜⬜: STRAP
-      ⬜⬜🟩⬜🟩:
-        input: STRAY
-        next:
-          ⬜🟨🟩🟨🟩: PARTY
-      ⬜🟨🟨⬜⬜: RATIO
-      ⬜🟨🟨🟩⬜: ABORT
-      ⬜🟩🟩⬜⬜: AORTA
-      🟨⬜🟩⬜⬜: STRAW
-      🟩⬜🟩⬜🟩: WARTY
-  🟨🟨🟨⬜🟨:
-    input: EASEL
-    next:
-      🟨🟨⬜⬜⬜: AVERT
-      🟨🟨⬜⬜🟨: ALERT
-      🟨🟨⬜🟩⬜: AFTER
-      🟨🟨⬜🟩🟨: ALTER
-      🟨🟩⬜🟩⬜:
-        input: HATER
-        next:
-          ⬜🟩🟩🟩🟩: WATER
-      🟨🟩⬜🟩🟨: LATER
-      🟩🟨⬜⬜⬜: EXTRA
-      🟩🟩⬜⬜⬜: EARTH
-      🟩🟩⬜🟩⬜: EATER
-  🟨🟨🟨🟨⬜:
-    input: ACTOR
-    next:
-      🟨🟨🟨⬜🟨: CARAT
-  🟨🟨🟨🟨🟨: CATER
-  🟨🟨🟩⬜⬜:
-    input: SKIMP
-    next:
-      ⬜⬜⬜⬜⬜: QUART
-      ⬜⬜⬜⬜🟨: APART
-      🟨⬜⬜⬜⬜: ROAST
-      🟩⬜⬜⬜⬜: START
-      🟩⬜⬜🟨⬜: SMART
-      🟩⬜🟨⬜⬜: STAIR
-      🟩🟨⬜⬜⬜: STARK
-  🟨🟨🟩⬜🟨: HEART
-  🟨🟨🟩⬜🟩: STARE
-  🟨🟨🟩🟨⬜: CHART
-  🟨🟨🟩🟩🟨: REACT
-  🟨🟩⬜⬜⬜:
-    input: FEIGN
-    next:
-      ⬜⬜⬜⬜⬜: BROTH
-      ⬜⬜⬜⬜🟨: BRUNT
-      ⬜⬜⬜🟨⬜: GROUT
-      ⬜⬜⬜🟨🟨: GRUNT
-      ⬜⬜🟨⬜⬜:
-        input: ORBIT
-        next:
-          🟨🟩⬜🟩🟩: DROIT
-      ⬜⬜🟩⬜⬜: WRIST
-      ⬜⬜🟩⬜🟨: PRINT
-      🟨⬜🟩⬜⬜: DRIFT
-      🟩⬜⬜⬜⬜:
-        input: FROTH
-        next:
-          🟩🟩🟩🟨⬜: FROST
-      🟩⬜⬜⬜🟨: FRONT
-      🟩⬜🟨⬜⬜: FRUIT
-      🟩⬜🟩⬜⬜: FRITZ
-  🟨🟩⬜⬜🟨:
-    input: GREET
-    next:
-      ⬜🟩🟨⬜🟩: ERUPT
-      ⬜🟩🟩⬜🟩: WREST
-  🟨🟩⬜⬜🟩:
-    input: WROTE
-    next:
-      ⬜🟩⬜🟩🟩: BRUTE
-      🟩🟩⬜🟩🟩: WRITE
-  🟨🟩⬜🟨⬜:
-    input: CRUST
-    next:
-      🟩🟩⬜⬜🟩: CRYPT
-  🟨🟩⬜🟨🟨:
-    input: CREPT
-    next:
-      🟩🟩🟩⬜🟩: CREST
-  🟨🟩⬜🟩🟨: ERECT
-  🟨🟩🟨⬜⬜: ARTSY
-  🟨🟩🟨⬜🟨: GREAT
-  🟨🟩🟩⬜⬜:
-    input: DRAFT
-    next:
-      ⬜🟩🟩⬜🟨: WRATH
-      ⬜🟩🟩⬜🟩: GRANT
-      ⬜🟩🟩🟩🟩: GRAFT
-  🟨🟩🟩⬜🟩:
-    input: GRATE
-    next:
-      ⬜🟩🟩🟩🟩: IRATE
-  🟨🟩🟩🟨⬜: CRAFT
-  🟨🟩🟩🟨🟩: CRATE
-  🟩⬜⬜⬜⬜:
-    input: LYING
-    next:
-      ⬜⬜⬜⬜⬜:
-        input: THUMB
-        next:
-          🟩🟨⬜⬜⬜: TOOTH
-          🟩🟩🟩🟩⬜: THUMP
-      ⬜⬜⬜⬜🟨: TOUGH
-      ⬜⬜⬜🟩🟩: THONG
-      ⬜⬜🟨⬜⬜: TIMID
-      ⬜⬜🟨⬜🟨: TIGHT
-      ⬜⬜🟨🟨⬜: TOXIN
-      ⬜⬜🟩⬜⬜:
-        input: TWIST
-        next:
-          🟩🟩🟩⬜🟩: TWIXT
-      ⬜⬜🟩⬜🟨: THIGH
-      ⬜⬜🟩🟩⬜: THINK
-      ⬜⬜🟩🟩🟩: THING
-      ⬜🟨⬜⬜⬜: TODDY
-      ⬜🟨🟨⬜⬜: TIPSY
-      ⬜🟩🟩🟩🟩: TYING
-      🟨⬜🟨⬜⬜: TULIP
-  🟩⬜⬜⬜🟨:
-    input: HONED
-    next:
-      ⬜⬜⬜🟨⬜: TESTY
-      ⬜⬜⬜🟨🟨: TEDDY
-      ⬜⬜⬜🟨🟩: TEPID
-      ⬜⬜⬜🟩⬜: TWEET
-      ⬜⬜⬜🟩🟩: TWEED
-      ⬜⬜🟩🟩⬜: TENET
-      ⬜🟨⬜🟨⬜: TEMPO
-      ⬜🟩⬜🟩⬜:
-        input: TOTEM
-        next:
-          🟩🟩⬜🟩⬜: TOWEL
-      ⬜🟩🟨🟩⬜: TOKEN
-      🟨⬜⬜🟨⬜:
-        input: TEETH
-        next:
-          🟩🟨🟩⬜🟨: THEFT
-      🟨⬜⬜🟩⬜: THIEF
-      🟨⬜🟩🟨⬜: TENTH
-  🟩⬜⬜⬜🟩:
-    input: SHILY
-    next:
-      ⬜⬜⬜⬜⬜: TEPEE
-      ⬜⬜⬜🟩⬜: TULLE
-      ⬜⬜🟨🟨⬜: TILDE
-      ⬜⬜🟨🟩⬜: TITLE
-      ⬜⬜🟩⬜⬜: TWINE
-      ⬜🟨🟨⬜⬜: TITHE
-      ⬜🟩⬜⬜⬜: THEME
-      ⬜🟩⬜⬜🟨: THYME
-      🟨⬜⬜⬜⬜: TENSE
-      🟨🟩⬜⬜⬜:
-        input: THOSE
-        next:
-          🟩🟩⬜🟩🟩: THESE
-  🟩⬜⬜🟨⬜:
-    input: POUND
-    next:
-      ⬜⬜🟨🟨⬜: TUNIC
-      ⬜🟩⬜⬜⬜: TOXIC
-      ⬜🟩⬜🟨⬜: TONIC
-      🟨🟩⬜⬜⬜: TOPIC
-  🟩⬜⬜🟩⬜:
-    input: TOUCH
-    next:
-      🟩⬜⬜🟩🟨: THICK
-  🟩⬜⬜🟩🟩: TWICE
-  🟩⬜🟨⬜⬜:
-    input: NOILY
-    next:
-      ⬜⬜⬜⬜🟩:
-        input: BATTY
-        next:
-          ⬜🟩🟨⬜🟩: TAFFY
-          ⬜🟩🟨🟩🟩: TASTY
-          ⬜🟩🟩🟩🟩: TATTY
-          🟨🟩🟨⬜🟩: TABBY
-      ⬜⬜⬜🟨⬜: TUBAL
-      ⬜⬜⬜🟩🟩: TALLY
-      ⬜⬜🟨⬜⬜: TIBIA
-      ⬜⬜🟨🟨⬜: TIDAL
-      ⬜🟨⬜⬜⬜: TABOO
-      ⬜🟩⬜⬜⬜: TOPAZ
-      ⬜🟩⬜⬜🟩: TODAY
-      ⬜🟩⬜🟨⬜: TOTAL
-      🟨⬜⬜⬜⬜: TAUNT
-      🟨⬜⬜⬜🟩:
-        input: TANGY
-        next:
-          🟩🟩🟨⬜🟩: TAWNY
-      🟨⬜🟨⬜⬜: TITAN
-      🟨⬜🟩⬜⬜: TAINT
-      🟨🟨⬜⬜⬜: TANGO
-      🟨🟨⬜🟨⬜: TALON
-      🟨🟩⬜⬜⬜: TONGA
-      🟨🟩⬜🟨⬜: TONAL
-  🟩⬜🟨⬜🟨:
-    input: THETA
-    next:
-      🟩⬜🟨⬜🟨: TAKEN
-      🟩⬜🟩⬜🟨: TWEAK
-  🟩⬜🟨⬜🟩:
-    input: TABLE
-    next:
-      🟩🟩⬜⬜🟩: TASTE
-  🟩⬜🟨🟨⬜:
-    input: TACIT
-    next:
-      🟩🟩🟩⬜⬜: TACKY
-  🟩⬜🟩⬜⬜:
-    input: TWANG
-    next:
-      🟩⬜🟩⬜⬜: TOAST
-      🟩⬜🟩🟩⬜: THANK
-  🟩⬜🟩⬜🟩: TEASE
-  🟩⬜🟩🟩🟨: TEACH
-  🟩🟨⬜⬜⬜:
-    input: BUTOH
-    next:
-      ⬜⬜🟨⬜⬜: TWIRL
-      ⬜⬜🟨⬜🟨: THIRD
-      ⬜⬜🟨🟨⬜: TORSO
-      ⬜⬜🟨🟨🟨: THORN
-      ⬜⬜🟨🟩🟨: THROW
-      ⬜🟨🟨⬜🟨: THRUM
-      ⬜🟨🟨🟨⬜: TORUS
-      ⬜🟩🟨🟩⬜: TUMOR
-      ⬜🟩🟩🟩⬜: TUTOR
-      🟨⬜🟨🟩🟨: THROB
-      🟨🟩🟨🟨⬜: TURBO
-  🟩🟨⬜⬜🟨:
-    input: HUMOR
-    next:
-      ⬜⬜⬜⬜🟩: TIGER
-      ⬜⬜⬜🟨🟩: TOWER
-      ⬜⬜⬜🟩🟩: TENOR
-      ⬜⬜🟩⬜🟩: TIMER
-      ⬜🟩⬜⬜🟩: TUBER
-      🟨⬜⬜⬜🟨: THREW
-      🟨⬜⬜⬜🟩: THEIR
-  🟩🟨⬜⬜🟩:
-    input: THERE
-    next:
-      🟩⬜🟨🟨🟩: TERSE
-      🟩🟩🟨🟨🟩: THREE
-  🟩🟨⬜🟩⬜: TORCH
-  🟩🟨🟨⬜⬜:
-    input: TARDY
-    next:
-      🟩🟩🟨⬜⬜: TAPIR
-      🟩🟩🟩⬜⬜: TAROT
-  🟩🟨🟨⬜🟨:
-    input: KARMA
-    next:
-      ⬜🟨🟩⬜🟩: TERRA
-      ⬜🟩🟨⬜⬜: TAPER
-      ⬜🟩🟨🟨⬜: TAMER
-      🟨🟩🟨⬜⬜: TAKER
-  🟩🟨🟩⬜⬜: TIARA
-  🟩🟨🟩⬜🟨: TEARY
-  🟩🟩⬜⬜⬜:
-    input: PLUSH
-    next:
-      ⬜⬜⬜🟩⬜: TRYST
-      ⬜⬜🟨⬜⬜: TROUT
-      ⬜⬜🟩⬜⬜: TRUNK
-      ⬜⬜🟩⬜🟩: TRUTH
-      ⬜⬜🟩🟩⬜:
-        input: TRUSS
-        next:
-          🟩🟩🟩🟩⬜: TRUST
-      ⬜🟨⬜⬜⬜: TROLL
-      ⬜🟨🟩⬜⬜: TRULY
-      🟨⬜⬜⬜⬜: TROOP
-      🟨⬜🟩⬜⬜: TRUMP
-  🟩🟩⬜⬜🟨:
-    input: TRIED
-    next:
-      🟩🟩⬜🟨🟩: TREND
-      🟩🟩⬜🟩⬜: TRUER
-  🟩🟩⬜⬜🟩:
-    input: PIETY
-    next:
-      ⬜⬜🟨🟨⬜: TROVE
-      ⬜🟨🟨🟨⬜: TRIBE
-      ⬜🟨🟨🟩⬜: TRITE
-      🟨⬜🟨🟨⬜: TROPE
-      🟨🟨🟨🟨⬜: TRIPE
-  🟩🟩⬜🟩⬜:
-    input: TRICK
-    next:
-      🟩🟩⬜🟩🟩: TRUCK
-  🟩🟩⬜🟩🟩:
-    input: TRICE
-    next:
-      🟩🟩⬜🟩🟩: TRUCE
-  🟩🟩🟨⬜⬜:
-    input: TRIAD
-    next:
-      🟩🟩🟩🟩⬜: TRIAL
-  🟩🟩🟨⬜🟨:
-    input: TREAT
-    next:
-      🟩🟩🟩🟩⬜: TREAD
-  🟩🟩🟩⬜⬜:
-    input: ISLET
-    next:
-      ⬜⬜⬜⬜🟨: TRAMP
-      ⬜⬜🟨⬜🟨: TRAWL
-      ⬜🟨⬜⬜🟨: TRASH
-      🟨⬜⬜⬜🟨: TRAIN
-      🟨⬜⬜⬜🟩: TRAIT
-      🟨⬜🟨⬜🟨: TRAIL
-  🟩🟩🟩⬜🟩: TRADE
-  🟩🟩🟩🟩⬜:
-    input: TRACK
-    next:
-      🟩🟩🟩🟩⬜: TRACT
+statics:
+  maxDepth: 5
+  averageDepth: 2.4393088552915776
+flow:
+  input: TRACE
+  next:
+    ⬜⬜⬜⬜⬜:
+      input: SOILY
+      next:
+        ⬜⬜⬜⬜⬜: HUMPH
+        ⬜⬜⬜⬜🟨: NYMPH
+        ⬜⬜⬜⬜🟩:
+          input: DOGMA
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: FUNNY
+              next:
+                ⬜🟩⬜⬜🟩: PUPPY
+                ⬜🟩🟩⬜🟩: HUNKY
+                ⬜🟩🟩🟩🟩: BUNNY
+                🟨🟩⬜⬜🟩: PUFFY
+                🟩🟩⬜⬜🟩: FUZZY
+                🟩🟩🟩⬜🟩: FUNKY
+            ⬜⬜⬜🟨⬜: JUMPY
+            ⬜⬜⬜🟩⬜: MUMMY
+            ⬜⬜🟨⬜⬜: GUPPY
+            ⬜⬜🟨🟩⬜: GUMMY
+            ⬜⬜🟩⬜⬜: BUGGY
+            ⬜⬜🟩🟩⬜: PYGMY
+            🟨⬜⬜⬜⬜: BUDDY
+            🟨⬜⬜🟨⬜: MUDDY
+            🟨⬜🟨⬜⬜: PUDGY
+            🟩⬜⬜🟨⬜: DUMPY
+            🟩⬜⬜🟩⬜: DUMMY
+        ⬜⬜⬜🟨⬜:
+          input: FLUNK
+          next:
+            ⬜🟩🟩⬜⬜:
+              input: PLUMB
+              next:
+                🟩🟩🟩🟩⬜: PLUMP
+            ⬜🟩🟩🟩🟩: PLUNK
+            🟨🟩🟩⬜⬜: BLUFF
+            🟩🟩🟩⬜⬜: FLUFF
+            🟩🟩🟩🟩⬜: FLUNG
+        ⬜⬜⬜🟨🟨:
+          input: GLYPH
+          next:
+            ⬜🟨🟨🟩🟩: LYMPH
+        ⬜⬜⬜🟨🟩:
+          input: PULPY
+          next:
+            ⬜🟩🟩⬜🟩: BULKY
+            🟨🟩🟨🟩🟩: LUMPY
+        ⬜⬜⬜🟩🟩:
+          input: BADGE
+          next:
+            ⬜⬜⬜⬜⬜: FULLY
+            ⬜⬜⬜🟨⬜: GULLY
+            ⬜⬜🟨⬜⬜: DULLY
+            🟩⬜⬜⬜⬜: BULLY
+        ⬜⬜🟨⬜⬜:
+          input: HUMID
+          next:
+            ⬜⬜⬜🟩🟩: VIVID
+            ⬜⬜🟨🟩⬜: MINIM
+            ⬜🟨⬜🟩⬜: UNZIP
+            ⬜🟨⬜🟩🟩: UNDID
+            ⬜🟩⬜🟨⬜: FUNGI
+        ⬜⬜🟨⬜🟩:
+          input: DWANG
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: JIFFY
+              next:
+                ⬜🟩⬜⬜🟩: HIPPY
+                ⬜🟩🟨⬜🟩: FIZZY
+            ⬜⬜⬜⬜🟨: PIGGY
+            ⬜⬜⬜🟨⬜:
+              input: PINKY
+              next:
+                ⬜🟩🟩🟩🟩: KINKY
+            ⬜⬜⬜🟩⬜: NINNY
+            ⬜🟨⬜⬜⬜: WIMPY
+            🟨⬜⬜⬜⬜: BIDDY
+            🟨⬜⬜⬜🟨: GIDDY
+            🟨🟨⬜🟨⬜: WINDY
+            🟩⬜⬜⬜⬜: DIZZY
+            🟩⬜⬜🟨🟨: DINGY
+        ⬜⬜🟨🟨⬜:
+          input: VIGIL
+          next:
+            ⬜🟨⬜🟩🟨: FLUID
+            ⬜🟨⬜🟩🟩: PUPIL
+            ⬜🟩⬜🟩🟨: LIPID
+            🟨🟩⬜🟩🟨: LIVID
+        ⬜⬜🟨🟨🟨: VINYL
+        ⬜⬜🟨🟨🟩:
+          input: FILMY
+          next:
+            ⬜🟩🟩🟨🟩: MILKY
+        ⬜⬜🟨🟩🟨: IDYLL
+        ⬜⬜🟨🟩🟩:
+          input: EMBED
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: DWARF
+              next:
+                ⬜⬜⬜⬜⬜: HILLY
+                ⬜⬜⬜⬜🟨: FILLY
+                ⬜🟨⬜⬜⬜: WILLY
+            ⬜⬜⬜⬜🟨: DILLY
+            ⬜⬜🟨⬜⬜: BILLY
+            ⬜🟨⬜⬜🟨: DIMLY
+            ⬜🟩⬜⬜⬜: IMPLY
+        ⬜⬜🟩⬜⬜: WHIFF
+        ⬜⬜🟩⬜🟨:
+          input: DYING
+          next:
+            ⬜🟩🟩🟩🟩: VYING
+        ⬜⬜🟩⬜🟩:
+          input: UNIFY
+          next:
+            ⬜🟨🟩⬜🟩: WHINY
+        ⬜⬜🟩🟨⬜:
+          input: BLINK
+          next:
+            ⬜🟩🟩🟩⬜: FLING
+            🟩🟩🟩⬜⬜: BLIMP
+            🟩🟩🟩🟩⬜: BLIND
+        ⬜⬜🟩🟨🟨: LYING
+        ⬜⬜🟩🟩⬜:
+          input: GUILD
+          next:
+            ⬜🟩🟩🟩⬜: QUILL
+            ⬜🟩🟩🟩🟩: BUILD
+        ⬜🟨⬜⬜⬜:
+          input: MAJOR
+          next:
+            ⬜⬜⬜🟨⬜: KNOWN
+            ⬜⬜⬜🟩⬜: WHOOP
+            🟨⬜⬜🟨⬜: GUMBO
+            🟨⬜⬜🟩⬜: BUXOM
+            🟨⬜🟨🟨⬜: JUMBO
+        ⬜🟨⬜⬜🟩: PHONY
+        ⬜🟨⬜🟨⬜:
+          input: BLOND
+          next:
+            ⬜🟨🟩⬜⬜: GHOUL
+            ⬜🟩🟩⬜⬜: GLOOM
+            ⬜🟩🟩⬜🟩: FLOOD
+            ⬜🟩🟩🟨⬜: FLOWN
+            🟩🟩🟩⬜⬜: BLOOM
+            🟩🟩🟩⬜🟩: BLOOD
+            🟩🟩🟩🟨⬜: BLOWN
+        ⬜🟨⬜🟨🟨: NYLON
+        ⬜🟨⬜🟩⬜: KNOLL
+        ⬜🟨⬜🟩🟩: ODDLY
+        ⬜🟨🟨⬜⬜:
+          input: DINGO
+          next:
+            ⬜🟨🟨⬜🟨: INBOX
+            ⬜🟩⬜⬜🟩: HIPPO
+            ⬜🟩🟩🟩🟩: BINGO
+            🟨🟨⬜⬜🟨: OVOID
+            🟨🟩⬜⬜🟨: WIDOW
+        ⬜🟨🟨🟨⬜:
+          input: LINGO
+          next:
+            🟨🟨⬜🟨🟩: IGLOO
+            🟩🟩⬜⬜🟩: LIMBO
+        ⬜🟨🟩⬜⬜:
+          input: ONION
+          next:
+            🟨⬜🟩🟩⬜: IDIOM
+            🟨🟩🟩🟩🟩: UNION
+            🟩⬜🟩⬜⬜: OPIUM
+            🟩🟨🟩⬜⬜: OWING
+        ⬜🟩⬜⬜⬜:
+          input: BUMPH
+          next:
+            ⬜🟨⬜⬜⬜:
+              input: FOUND
+              next:
+                ⬜🟩🟩🟩🟩: WOUND
+            ⬜🟨⬜⬜🟨: HOUND
+            ⬜🟨⬜⬜🟩: DOUGH
+            ⬜🟨⬜🟨⬜: POUND
+            ⬜🟨🟨⬜⬜: MOUND
+            🟩⬜⬜⬜⬜: BONGO
+            🟩🟨⬜⬜⬜: BOUND
+            🟩🟨⬜⬜🟩: BOUGH
+        ⬜🟩⬜⬜🟨: YOUNG
+        ⬜🟩⬜⬜🟩:
+          input: GAWDS
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: BOOBY
+              next:
+                ⬜🟩⬜⬜🟩: POPPY
+                🟨🟩⬜🟩🟩: HOBBY
+                🟩🟩⬜🟩🟩: BOBBY
+                🟩🟩🟩⬜🟩: BOOZY
+            ⬜⬜⬜🟩⬜: MOODY
+            ⬜⬜🟨⬜⬜: WOOZY
+            ⬜⬜🟨🟩⬜: WOODY
+            ⬜⬜🟩🟨⬜: DOWNY
+            ⬜⬜🟩🟩⬜:
+              input: HOWDY
+              next:
+                ⬜🟩🟩🟩🟩: DOWDY
+            🟨⬜⬜⬜⬜: FOGGY
+            🟨⬜⬜🟨⬜: DODGY
+            🟩⬜⬜⬜⬜: GOOFY
+            🟩⬜⬜🟩⬜: GOODY
+        ⬜🟩⬜🟨⬜: MOGUL
+        ⬜🟩⬜🟨🟨: POLYP
+        ⬜🟩⬜🟨🟩:
+          input: LOOPY
+          next:
+            🟨🟩⬜⬜🟩: MOLDY
+            🟩🟩⬜⬜🟩: LOBBY
+        ⬜🟩⬜🟩⬜: WOULD
+        ⬜🟩⬜🟩🟩:
+          input: WEDGE
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: FINCH
+              next:
+                ⬜⬜⬜⬜⬜: JOLLY
+                ⬜⬜⬜⬜🟨: HOLLY
+                ⬜⬜🟨⬜⬜: NOBLY
+                🟩⬜⬜⬜⬜: FOLLY
+            ⬜⬜⬜🟨⬜: GOLLY
+            ⬜⬜🟨⬜⬜: DOLLY
+            ⬜⬜🟩🟨⬜: GODLY
+            🟨⬜⬜⬜⬜: LOWLY
+            🟩⬜⬜⬜⬜: WOOLY
+        ⬜🟩🟨🟨⬜:
+          input: FOLIO
+          next:
+            ⬜🟩🟨🟩⬜: LOGIN
+        ⬜🟩🟩⬜⬜:
+          input: DOING
+          next:
+            ⬜🟩🟩🟩🟩: GOING
+        🟨⬜⬜⬜⬜: HUMUS
+        🟨⬜⬜⬜🟩:
+          input: HOKUM
+          next:
+            ⬜⬜⬜⬜⬜: GYPSY
+            ⬜⬜⬜🟨⬜: FUSSY
+            ⬜⬜🟨🟨⬜: DUSKY
+            ⬜⬜🟨🟨🟨: MUSKY
+            🟨⬜⬜🟨⬜:
+              input: PUSHY
+              next:
+                ⬜🟩🟩🟩🟩: BUSHY
+            🟨⬜⬜🟨🟨: MUSHY
+            🟩⬜⬜🟨⬜: HUSSY
+            🟩⬜🟨🟨⬜: HUSKY
+        🟨⬜⬜🟨⬜:
+          input: BLUFF
+          next:
+            ⬜🟨🟨⬜⬜: LUPUS
+            ⬜🟩🟩⬜⬜: PLUSH
+            ⬜🟩🟩🟨⬜: FLUSH
+            🟩🟩🟩⬜⬜: BLUSH
+        🟨⬜🟨⬜⬜: MINUS
+        🟨⬜🟨⬜🟩:
+          input: GIPSY
+          next:
+            ⬜🟩⬜🟨🟩: FISHY
+            ⬜🟩⬜🟩🟩: MISSY
+            ⬜🟩🟨🟨🟩: WISPY
+        🟨⬜🟩⬜⬜:
+          input: USING
+          next:
+            ⬜🟨🟩⬜⬜: WHISK
+        🟨⬜🟩🟨⬜: BLISS
+        🟨🟨⬜🟨⬜:
+          input: FLOSS
+          next:
+            ⬜🟩🟩🟩🟩: GLOSS
+        🟨🟨🟨⬜⬜:
+          input: KIOSK
+          next:
+            ⬜🟩🟨🟨⬜: BISON
+        🟨🟩⬜⬜⬜:
+          input: BOSOM
+          next:
+            🟩🟩🟨⬜⬜: BONUS
+        🟨🟩⬜⬜🟩:
+          input: BOSSY
+          next:
+            ⬜🟩🟩🟩🟩: MOSSY
+        🟨🟩⬜🟨🟩: LOUSY
+        🟨🟩🟩⬜🟩: NOISY
+        🟩⬜⬜⬜⬜:
+          input: SKUNK
+          next:
+            🟩⬜🟩⬜⬜: SHUSH
+            🟩⬜🟩🟨⬜: SNUFF
+            🟩⬜🟩🟩⬜: SWUNG
+            🟩🟨🟩🟩🟩: SPUNK
+        🟩⬜⬜⬜🟩: SUNNY
+        🟩⬜⬜🟨⬜:
+          input: CHUNK
+          next:
+            ⬜⬜🟩⬜⬜: SLUMP
+            ⬜⬜🟩🟩⬜: SLUNG
+            ⬜⬜🟩🟩🟩: SLUNK
+            ⬜🟨🟩⬜⬜: SLUSH
+        🟩⬜⬜🟨🟩: SULKY
+        🟩⬜⬜🟩⬜:
+          input: SKULK
+          next:
+            🟩🟩🟩🟩⬜: SKULL
+        🟩⬜⬜🟩🟩:
+          input: SHYLY
+          next:
+            🟩⬜🟨🟩🟩: SULLY
+            🟩⬜🟩🟩🟩: SLYLY
+        🟩⬜🟨⬜⬜:
+          input: SUSHI
+          next:
+            🟩🟨⬜⬜🟨: SQUIB
+        🟩⬜🟨⬜🟩: SISSY
+        🟩⬜🟨🟨🟩: SILKY
+        🟩⬜🟨🟩🟩: SILLY
+        🟩⬜🟩⬜⬜:
+          input: FROWN
+          next:
+            ⬜⬜⬜⬜⬜: SKIMP
+            ⬜⬜⬜⬜🟨: SUING
+            ⬜⬜⬜🟨⬜: SWISH
+            ⬜⬜⬜🟨🟨: SWING
+            🟨⬜⬜⬜⬜: SKIFF
+            🟨⬜⬜⬜🟨: SNIFF
+        🟩⬜🟩⬜🟩:
+          input: SPINY
+          next:
+            🟩⬜🟩🟩🟩: SHINY
+            🟩🟩🟩⬜🟩: SPIKY
+        🟩⬜🟩🟨⬜:
+          input: SLING
+          next:
+            🟩🟩🟩🟩⬜: SLINK
+        🟩⬜🟩🟨🟩: SLIMY
+        🟩⬜🟩🟩⬜:
+          input: AWAKE
+          next:
+            ⬜⬜⬜⬜⬜: SPILL
+            ⬜⬜⬜🟨⬜: SKILL
+            ⬜🟩⬜⬜⬜: SWILL
+        🟩🟨⬜⬜⬜:
+          input: SHOWN
+          next:
+            🟩⬜🟩⬜⬜:
+              input: SPOOF
+              next:
+                🟩🟩🟩🟩⬜: SPOOK
+            🟩⬜🟩⬜🟨: SNOOP
+            🟩⬜🟩⬜🟩: SPOON
+            🟩⬜🟩🟨⬜: SWOOP
+            🟩⬜🟩🟨🟩: SWOON
+            🟩🟩🟩⬜⬜: SHOOK
+        🟩🟨⬜⬜🟨: SYNOD
+        🟩🟨⬜⬜🟩:
+          input: SHOWY
+          next:
+            🟩⬜🟩⬜🟩: SMOKY
+            🟩⬜🟩🟩🟩: SNOWY
+        🟩🟨⬜🟨⬜:
+          input: SLOSH
+          next:
+            🟩🟨🟩⬜⬜: SPOOL
+            🟩🟩🟩⬜⬜: SLOOP
+        🟩🟨🟨🟨⬜: SPOIL
+        🟩🟩⬜⬜⬜: SOUND
+        🟩🟩⬜⬜🟩: SOGGY
+        🟩🟩🟨🟨⬜: SOLID
+    ⬜⬜⬜⬜🟨:
+      input: LINED
+      next:
+        ⬜⬜⬜🟨⬜:
+          input: GEEKY
+          next:
+            ⬜🟨⬜⬜🟩: EPOXY
+            ⬜🟨🟩⬜🟩: POESY
+            ⬜🟩⬜🟩🟩: PESKY
+            ⬜🟩🟩⬜🟩: BEEFY
+            🟩🟨🟩⬜⬜: GUESS
+        ⬜⬜⬜🟨🟨:
+          input: SEEDY
+          next:
+            ⬜🟩⬜🟨⬜: DEBUG
+            ⬜🟩🟩🟩🟩: WEEDY
+        ⬜⬜⬜🟩⬜:
+          input: SWEEP
+          next:
+            ⬜⬜🟨🟩⬜: GOOEY
+            🟩⬜🟩🟩🟩: SHEEP
+        ⬜⬜⬜🟩🟨:
+          input: MODEM
+          next:
+            ⬜🟩🟨🟩⬜: DOPEY
+        ⬜⬜⬜🟩🟩:
+          input: EMBED
+          next:
+            🟨⬜⬜🟩🟩: SPEED
+            🟨⬜🟨🟩🟩: BUSED
+        ⬜⬜🟨🟨⬜:
+          input: ENJOY
+          next:
+            🟨🟨⬜⬜⬜: BEGUN
+            🟩🟨⬜🟨🟩: EBONY
+            🟩🟩⬜⬜🟩: ENEMY
+            🟩🟩⬜🟩🟩: ENVOY
+        ⬜⬜🟨🟨🟨:
+          input: NEEDY
+          next:
+            🟨🟨⬜🟨⬜: ENDOW
+            🟨🟩⬜🟨⬜: DEMON
+        ⬜⬜🟨🟨🟩: SPEND
+        ⬜⬜🟨🟩⬜:
+          input: MOVES
+          next:
+            ⬜⬜⬜🟩⬜: QUEEN
+            ⬜⬜⬜🟩🟨: SHEEN
+            ⬜⬜🟩🟩🟨: SEVEN
+            ⬜🟩⬜🟩⬜: WOKEN
+            ⬜🟩⬜🟩🟨: NOSEY
+            ⬜🟩🟩🟩⬜: WOVEN
+            🟨⬜⬜🟩⬜: HYMEN
+            🟨⬜⬜🟩🟨: SEMEN
+            🟨🟩⬜🟩⬜: WOMEN
+        ⬜⬜🟨🟩🟨: DOZEN
+        ⬜⬜🟨🟩🟩:
+          input: UNFED
+          next:
+            ⬜🟩⬜🟩🟩: KNEED
+            🟩🟩⬜🟩🟩: UNWED
+        ⬜⬜🟩🟨⬜:
+          input: VENOM
+          next:
+            ⬜🟩🟩⬜⬜: PENNY
+        ⬜⬜🟩🟩⬜:
+          input: HUMPH
+          next:
+            ⬜⬜⬜⬜⬜: BONEY
+            ⬜⬜🟨⬜⬜: MONEY
+            🟩⬜⬜⬜⬜: HONEY
+        ⬜🟨⬜🟨⬜:
+          input: EQUIP
+          next:
+            🟨⬜⬜🟨⬜: WEIGH
+            🟨⬜⬜🟩⬜: SHEIK
+        ⬜🟨⬜🟨🟨: EDIFY
+        ⬜🟨⬜🟩🟩:
+          input: SHIED
+          next:
+            🟩⬜🟩🟩🟩: SPIED
+        ⬜🟨🟨🟨⬜:
+          input: FEIGN
+          next:
+            ⬜🟨🟩🟨🟨:
+              input: EKING
+              next:
+                🟩⬜🟩🟩🟩: EYING
+            ⬜🟩🟨🟨🟩: BEGIN
+            ⬜🟩🟩🟨🟨: BEING
+            ⬜🟩🟩🟩🟨: NEIGH
+        ⬜🟨🟨🟨🟨: DEIGN
+        ⬜🟨🟨🟩🟨: INDEX
+        ⬜🟨🟩🟨⬜: ENNUI
+        ⬜🟨🟩🟨🟨: DENIM
+        ⬜🟩⬜🟩🟨: VIDEO
+        ⬜🟩🟨🟨🟩: FIEND
+        ⬜🟩🟨🟩⬜:
+          input: GIVEN
+          next:
+            ⬜🟩🟨🟩🟩: VIXEN
+        ⬜🟩🟨🟩🟨: WIDEN
+        ⬜🟩🟩🟩⬜:
+          input: PINEY
+          next:
+            ⬜🟩🟩🟩⬜: SINEW
+        🟨⬜⬜🟨⬜:
+          input: BHELS
+          next:
+            ⬜⬜🟨🟩⬜: JELLY
+            ⬜⬜🟩🟨⬜: ELEGY
+            ⬜⬜🟩🟩⬜: QUELL
+            ⬜⬜🟩🟩🟨:
+              input: HUMPH
+              next:
+                ⬜⬜⬜⬜⬜: SWELL
+                ⬜⬜⬜🟨⬜: SPELL
+                ⬜⬜🟨⬜⬜: SMELL
+            ⬜🟨🟨🟨🟨: WELSH
+            ⬜🟨🟨🟩⬜: HELLO
+            ⬜🟨🟩🟨🟨: FLESH
+            ⬜🟩🟩🟩⬜: WHELP
+            ⬜🟩🟩🟩🟨:
+              input: SHELL
+              next:
+                🟩🟩🟩🟩⬜: SHELF
+            🟨⬜🟨🟨⬜: ELBOW
+            🟩⬜🟨🟨⬜: BELOW
+            🟩⬜🟨🟩⬜: BELLY
+            🟩⬜🟩🟨🟩: BLESS
+        🟨⬜⬜🟨🟨: DWELL
+        🟨⬜⬜🟩⬜:
+          input: BOWEL
+          next:
+            ⬜⬜⬜🟩🟨:
+              input: SLEEP
+              next:
+                🟩🟩🟩🟩⬜: SLEEK
+            ⬜⬜⬜🟩🟩: EXPEL
+            ⬜⬜🟨🟩🟩: WHEEL
+            ⬜⬜🟩🟩🟩: JEWEL
+            ⬜🟩⬜🟩🟨: GOLEM
+            ⬜🟩⬜🟩🟩: HOVEL
+            ⬜🟩🟩🟩🟩: VOWEL
+            🟩⬜⬜🟩🟨: BLEEP
+            🟩⬜⬜🟩🟩:
+              input: BEVEL
+              next:
+                🟩🟩⬜🟩🟩: BEZEL
+        🟨⬜⬜🟩🟨:
+          input: MODEL
+          next:
+            ⬜🟩🟨🟩🟩: DOWEL
+        🟨⬜⬜🟩🟩: BLEED
+        🟨⬜🟨🟨⬜:
+          input: MELON
+          next:
+            ⬜🟩🟨⬜🟨: NEWLY
+            ⬜🟩🟩🟩🟩: FELON
+        🟨⬜🟨🟨🟩: BLEND
+        🟨⬜🟨🟩⬜:
+          input: KNEEL
+          next:
+            ⬜🟨🟨🟩🟩: NOVEL
+        🟨⬜🟨🟩🟨: OLDEN
+        🟨🟨⬜🟨⬜: HELIX
+        🟨🟨⬜🟨🟨: DEVIL
+        🟨🟨⬜🟩⬜:
+          input: SPIEL
+          next:
+            ⬜🟨🟨🟩🟩: IMPEL
+        🟨🟨⬜🟩🟩: PLIED
+        🟨🟨🟨🟨⬜: ELFIN
+        🟨🟩⬜🟨🟩:
+          input: DWARF
+          next:
+            🟨⬜⬜⬜⬜: YIELD
+            🟨⬜⬜⬜🟨: FIELD
+            🟨🟨⬜⬜⬜: WIELD
+        🟨🟩⬜🟩⬜: PIXEL
+        🟩⬜⬜🟨⬜: LEGGY
+        🟩⬜⬜🟩⬜: LEVEL
+        🟩⬜🟨🟨⬜: LEMON
+        🟩⬜🟨🟩⬜: LUMEN
+        🟩🟩⬜🟩⬜: LIBEL
+        🟩🟩🟨🟩⬜: LIKEN
+        🟩🟩🟩🟩⬜: LINEN
+    ⬜⬜⬜⬜🟩:
+      input: SLING
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: REBUT
+          next:
+            ⬜🟨⬜⬜⬜: EVOKE
+            ⬜🟨⬜🟩⬜: QUEUE
+            ⬜🟨🟨⬜⬜: BOOZE
+            ⬜🟩⬜⬜⬜: FEMME
+        ⬜⬜⬜⬜🟨:
+          input: BOUGH
+          next:
+            ⬜⬜⬜🟩⬜: WEDGE
+            ⬜⬜⬜🟩🟨: HEDGE
+            ⬜⬜🟨🟨⬜: FUGUE
+            ⬜⬜🟨🟩⬜:
+              input: FUDGE
+              next:
+                ⬜🟩🟩🟩🟩: JUDGE
+            ⬜🟩⬜🟩⬜: DODGE
+            ⬜🟩🟨🟨⬜: VOGUE
+            ⬜🟩🟩🟩⬜: GOUGE
+            🟩⬜🟨🟩⬜: BUDGE
+        ⬜⬜⬜🟨⬜:
+          input: UNDUE
+          next:
+            🟨🟨⬜🟩🟩: VENUE
+        ⬜⬜⬜🟨🟨:
+          input: GNOME
+          next:
+            🟨🟨⬜⬜🟩: NUDGE
+        ⬜⬜⬜🟩⬜:
+          input: OZONE
+          next:
+            ⬜⬜⬜🟩🟩: PENNE
+            🟨⬜🟩🟩🟩: PHONE
+        ⬜⬜🟨⬜⬜:
+          input: MOVIE
+          next:
+            ⬜⬜⬜🟨🟩: PIQUE
+            ⬜⬜⬜🟩🟩: PIXIE
+            ⬜🟨⬜🟨🟩: DIODE
+            🟨⬜⬜🟨🟩: IMBUE
+            🟨🟨⬜🟨🟩: BIOME
+        ⬜⬜🟨⬜🟨: MIDGE
+        ⬜⬜🟨🟨🟨:
+          input: HINGE
+          next:
+            ⬜🟨🟩🟨🟩: GENIE
+            ⬜🟩🟩🟩🟩: BINGE
+        ⬜⬜🟩⬜⬜: OXIDE
+        ⬜⬜🟩⬜🟨: GUIDE
+        ⬜⬜🟩🟨⬜: KNIFE
+        ⬜⬜🟩🟩⬜:
+          input: OPINE
+          next:
+            ⬜⬜🟩🟩🟩: WHINE
+            🟩⬜🟩🟩🟩: OVINE
+        ⬜🟨⬜⬜⬜:
+          input: MODEL
+          next:
+            ⬜⬜⬜🟨🟨: BELLE
+            ⬜⬜🟨🟨🟨: DELVE
+            ⬜🟨⬜🟨🟨: WHOLE
+            ⬜🟩⬜🟨🟨: BOULE
+            🟩⬜⬜🟩🟨: MELEE
+        ⬜🟨⬜⬜🟨:
+          input: LODGE
+          next:
+            🟨⬜⬜🟨🟩: BUGLE
+            🟨⬜⬜🟩🟩: BULGE
+            🟩⬜🟩🟩🟩: LEDGE
+        ⬜🟨⬜🟨⬜: NOBLE
+        ⬜🟨⬜🟨🟨: LUNGE
+        ⬜🟨🟨⬜⬜:
+          input: BIBLE
+          next:
+            🟩🟨⬜🟨🟩: BELIE
+        ⬜🟨🟨⬜🟨:
+          input: LIEGE
+          next:
+            🟨🟩🟨🟩🟩: BILGE
+        ⬜🟨🟩⬜⬜:
+          input: EXILE
+          next:
+            🟨⬜🟩🟩🟩: WHILE
+        ⬜🟨🟩⬜🟨: GUILE
+        ⬜🟩⬜⬜⬜:
+          input: DUMPY
+          next:
+            ⬜⬜⬜⬜⬜: BLOKE
+            ⬜⬜⬜🟩⬜: ELOPE
+            ⬜🟨⬜⬜⬜: FLUKE
+            ⬜🟨🟨⬜⬜: FLUME
+            ⬜🟨🟨🟨⬜: PLUME
+            🟨🟨⬜⬜⬜: ELUDE
+        ⬜🟩⬜⬜🟨:
+          input: GLOVE
+          next:
+            🟩🟩🟩⬜🟩: GLOBE
+        ⬜🟩🟩⬜⬜:
+          input: OLIVE
+          next:
+            ⬜🟩🟩⬜🟩: ELIDE
+        ⬜🟩🟩⬜🟨: GLIDE
+        🟨⬜⬜⬜⬜:
+          input: HUMPH
+          next:
+            ⬜⬜⬜⬜⬜: OBESE
+            ⬜⬜⬜🟨⬜: POSSE
+            ⬜⬜🟨⬜⬜: MOOSE
+            ⬜🟨🟨⬜⬜: MOUSE
+            🟨⬜⬜⬜⬜: WHOSE
+            🟩🟨⬜⬜⬜: HOUSE
+        🟨⬜⬜⬜🟨:
+          input: GOOSE
+          next:
+            🟩⬜⬜🟩🟩: GEESE
+        🟨⬜⬜🟨⬜:
+          input: NOOSE
+          next:
+            🟨⬜⬜🟨🟩: ENSUE
+            🟨⬜⬜🟩🟩: DENSE
+        🟨⬜🟨⬜⬜: ISSUE
+        🟨⬜🟩⬜⬜: POISE
+        🟨⬜🟩⬜🟨: GUISE
+        🟨⬜🟩🟨⬜: NOISE
+        🟨🟨⬜⬜⬜:
+          input: LOUSE
+          next:
+            🟨⬜🟨🟩🟩: PULSE
+            🟩🟩⬜🟩🟩: LOOSE
+        🟩⬜⬜⬜⬜:
+          input: SMOKE
+          next:
+            🟩⬜🟩⬜🟩: SHOVE
+            🟩⬜🟩🟩🟩: SPOKE
+        🟩⬜⬜⬜🟨: SEGUE
+        🟩⬜⬜🟨⬜: SENSE
+        🟩⬜⬜🟩⬜: SHONE
+        🟩⬜🟨⬜⬜: SIEVE
+        🟩⬜🟨⬜🟨: SIEGE
+        🟩⬜🟨🟨🟨: SINGE
+        🟩⬜🟩⬜⬜:
+          input: SPIKE
+          next:
+            🟩⬜🟩⬜🟩: SEIZE
+        🟩⬜🟩🟨⬜:
+          input: SNIDE
+          next:
+            🟩🟩🟩⬜🟩: SNIPE
+        🟩⬜🟩🟩⬜:
+          input: HUMPH
+          next:
+            ⬜⬜⬜⬜⬜: SWINE
+            ⬜⬜⬜🟨⬜: SPINE
+            🟨⬜⬜⬜⬜: SHINE
+        🟩🟨⬜⬜⬜: SOLVE
+        🟩🟨🟩⬜⬜: SMILE
+        🟩🟩⬜⬜⬜: SLOPE
+        🟩🟩🟩⬜⬜:
+          input: SLIDE
+          next:
+            🟩🟩🟩⬜🟩: SLIME
+    ⬜⬜⬜🟨⬜:
+      input: MUILS
+      next:
+        ⬜⬜⬜⬜⬜: CONDO
+        ⬜⬜⬜⬜🟨:
+          input: SCOOP
+          next:
+            🟩🟩🟩⬜⬜: SCOFF
+        ⬜⬜⬜🟨⬜:
+          input: COLON
+          next:
+            🟩🟨🟨⬜🟩: CLOWN
+        ⬜⬜⬜🟨🟨: SCOWL
+        ⬜⬜⬜🟩⬜: COYLY
+        ⬜⬜⬜🟩🟨: SCOLD
+        ⬜⬜🟨⬜⬜:
+          input: CONIC
+          next:
+            🟨⬜⬜🟨⬜: PICKY
+            🟨🟩🟩🟩🟩: IONIC
+            🟩⬜⬜🟩🟩: CIVIC
+            🟩⬜🟩🟩🟩: CYNIC
+        ⬜⬜🟨⬜🟨: SONIC
+        ⬜⬜🟨🟨⬜:
+          input: CIVIL
+          next:
+            🟨🟨⬜🟩🟨: LOGIC
+        ⬜⬜🟩⬜⬜: ICING
+        ⬜⬜🟩⬜🟨: SCION
+        ⬜⬜🟩🟨⬜:
+          input: CLING
+          next:
+            🟩🟩🟩⬜⬜: CLIFF
+            🟩🟩🟩🟩⬜: CLINK
+        ⬜⬜🟩🟩⬜:
+          input: IDEAL
+          next:
+            🟨⬜⬜⬜🟨: CHILI
+            🟨⬜⬜⬜🟩: CHILL
+            🟨🟨⬜⬜🟨: CHILD
+            🟩⬜⬜⬜🟨: ICILY
+        ⬜🟨⬜⬜⬜:
+          input: CHUNK
+          next:
+            🟩🟨🟩⬜⬜: COUGH
+        ⬜🟨⬜⬜🟩: FOCUS
+        ⬜🟨⬜🟨⬜:
+          input: CLUNG
+          next:
+            🟩🟩🟨⬜⬜: CLOUD
+        ⬜🟨⬜🟨🟩: LOCUS
+        ⬜🟨⬜🟩⬜: COULD
+        ⬜🟨🟨⬜🟩: FICUS
+        ⬜🟩⬜⬜⬜: DUCHY
+        ⬜🟩⬜🟨⬜: LUCKY
+        ⬜🟩🟨⬜⬜:
+          input: CUBIC
+          next:
+            🟨🟩🟩🟩🟩: PUBIC
+        ⬜🟩🟨🟨⬜: LUCID
+        🟨⬜⬜⬜⬜: COMFY
+        🟨⬜🟨⬜⬜: COMIC
+        🟨⬜🟩🟨⬜: CLIMB
+        🟨🟨⬜⬜⬜: CHUMP
+        🟨🟨⬜🟨⬜: CLUMP
+        🟨🟩🟨⬜⬜: CUMIN
+        🟩⬜🟨⬜⬜: MIMIC
+        🟩🟩⬜⬜⬜: MUCKY
+        🟩🟩⬜⬜🟩: MUCUS
+        🟩🟩🟨⬜🟨: MUSIC
+    ⬜⬜⬜🟨🟨:
+      input: COLEY
+      next:
+        🟨⬜⬜🟨⬜: MEDIC
+        🟨⬜⬜🟩⬜: BICEP
+        🟨⬜⬜🟩🟩: DICEY
+        🟨⬜🟨🟩⬜: EXCEL
+        🟨🟨⬜🟨⬜: GECKO
+        🟨🟨⬜🟨🟩: DECOY
+        🟩⬜⬜🟨⬜: CHESS
+        🟩⬜⬜🟩⬜:
+          input: CHEEK
+          next:
+            🟩🟩🟨🟩⬜: CHIEF
+        🟩⬜🟨🟩⬜: CLUED
+        🟩🟨🟩🟨⬜: CELLO
+        🟩🟩⬜🟩⬜: COVEN
+        🟩🟩⬜🟩🟩: COVEY
+    ⬜⬜⬜🟨🟩:
+      input: CHONS
+      next:
+        🟨⬜⬜⬜⬜: EMCEE
+        🟨⬜⬜🟨⬜: UNCLE
+        🟨⬜⬜🟩🟨: SCENE
+        🟨⬜🟩⬜🟨: SCOPE
+        🟨⬜🟩🟩🟨: SCONE
+        🟨🟨⬜🟨⬜: NICHE
+        🟩⬜⬜⬜⬜: CYCLE
+        🟩⬜🟨⬜⬜: COUPE
+        🟩⬜🟨⬜🟨: COPSE
+        🟩⬜🟩⬜⬜: CLOVE
+        🟩⬜🟩⬜🟨: CLOSE
+        🟩⬜🟩🟩⬜: CLONE
+        🟩🟩⬜⬜⬜:
+          input: CHIDE
+          next:
+            🟩🟩🟩⬜🟩: CHIME
+        🟩🟩🟩⬜⬜: CHOKE
+        🟩🟩🟩⬜🟨: CHOSE
+    ⬜⬜⬜🟩⬜:
+      input: CUISH
+      next:
+        🟨⬜⬜⬜⬜:
+          input: FLOCK
+          next:
+            ⬜⬜🟩🟩🟩: KNOCK
+            ⬜🟩🟩🟩🟩: BLOCK
+        🟨⬜⬜⬜🟩:
+          input: LYNCH
+          next:
+            ⬜⬜⬜🟩🟩: POOCH
+        🟨⬜⬜🟨⬜: SMOCK
+        🟨⬜⬜🟨🟨: SHOCK
+        🟨⬜🟨⬜🟩:
+          input: DWARF
+          next:
+            ⬜⬜⬜⬜⬜: PINCH
+            ⬜⬜⬜⬜🟨: FINCH
+            ⬜🟨⬜⬜⬜: WINCH
+        🟨⬜🟨🟨⬜: DISCO
+        🟨⬜🟩⬜⬜: FLICK
+        🟨⬜🟩⬜🟩: WHICH
+        🟨⬜🟩🟨⬜:
+          input: SPICY
+          next:
+            🟩⬜🟩🟩⬜: SLICK
+        🟨🟨⬜⬜⬜: PLUCK
+        🟨🟨⬜⬜🟩:
+          input: VOUCH
+          next:
+            ⬜🟩🟩🟩🟩: POUCH
+        🟨🟨⬜🟨⬜: SNUCK
+        🟨🟨⬜🟨🟨: SHUCK
+        🟨🟩⬜⬜🟩:
+          input: LYMPH
+          next:
+            ⬜⬜⬜⬜🟩:
+              input: HUNCH
+              next:
+                🟨🟩🟩🟩🟩: BUNCH
+            ⬜⬜⬜🟨🟩: PUNCH
+            ⬜⬜🟨⬜🟩: MUNCH
+            🟨⬜⬜⬜🟩: GULCH
+            🟨⬜🟨⬜🟩: MULCH
+            🟩⬜⬜⬜🟩: LUNCH
+        🟨🟩🟩⬜⬜:
+          input: QUICK
+          next:
+            ⬜🟩🟩🟩⬜: JUICY
+        🟩⬜⬜⬜⬜: CLOCK
+        🟩⬜⬜⬜🟨: CHOCK
+        🟩⬜⬜⬜🟩: CONCH
+        🟩⬜🟨⬜🟩: CINCH
+        🟩⬜🟩⬜⬜: CLICK
+        🟩⬜🟩⬜🟨: CHICK
+        🟩🟨⬜⬜⬜: CLUCK
+        🟩🟨⬜⬜🟨: CHUCK
+        🟩🟨⬜⬜🟩: COUCH
+    ⬜⬜⬜🟩🟨:
+      input: WHELP
+      next:
+        ⬜⬜🟩⬜🟨: SPECK
+        ⬜⬜🟩🟨⬜: FLECK
+        ⬜🟨🟨⬜⬜: BENCH
+        ⬜🟨🟨⬜🟨: EPOCH
+        ⬜🟨🟨🟨⬜: BELCH
+        ⬜🟨🟩⬜⬜: BEECH
+        ⬜🟨🟩🟨⬜: LEECH
+        ⬜🟩🟩⬜⬜: CHECK
+        🟩🟨🟨⬜⬜: WENCH
+        🟩🟨🟨🟨⬜: WELCH
+    ⬜⬜⬜🟩🟩:
+      input: NOUPS
+      next:
+        ⬜⬜⬜⬜🟨: SLICE
+        ⬜⬜⬜🟨⬜: PIECE
+        ⬜⬜⬜🟨🟨: SPICE
+        ⬜⬜🟨⬜⬜: JUICE
+        ⬜⬜🟩⬜⬜: DEUCE
+        ⬜🟩⬜⬜⬜: VOICE
+        🟨⬜⬜⬜⬜:
+          input: FEWER
+          next:
+            ⬜🟨⬜⬜⬜: MINCE
+            ⬜🟨🟨⬜⬜: WINCE
+            ⬜🟩⬜⬜⬜: HENCE
+            🟩🟩⬜⬜⬜: FENCE
+        🟨⬜⬜⬜🟨: SINCE
+        🟨⬜⬜🟨⬜: PENCE
+        🟨⬜🟨⬜⬜: DUNCE
+        🟨🟨🟨⬜⬜: OUNCE
+        🟩⬜⬜⬜⬜: NIECE
+    ⬜⬜🟨⬜⬜:
+      input: SONLY
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: MAXIM
+          next:
+            ⬜🟨⬜🟨⬜: PIZZA
+            ⬜🟨⬜🟩⬜: APHID
+            ⬜🟨🟨🟩⬜: AFFIX
+            ⬜🟩⬜⬜⬜: KAPPA
+            ⬜🟩⬜🟩⬜: VAPID
+            🟨🟩⬜⬜⬜: GAMMA
+            🟩🟩⬜⬜⬜:
+              input: MAMMA
+              next:
+                🟩🟩⬜🟩🟩: MAGMA
+            🟩🟩⬜⬜🟩: MADAM
+            🟩🟩⬜🟩⬜: MAFIA
+        ⬜⬜⬜⬜🟨: KAYAK
+        ⬜⬜⬜⬜🟩:
+          input: PUDGY
+          next:
+            ⬜⬜⬜⬜🟩:
+              input: MAMMY
+              next:
+                ⬜🟩⬜⬜🟩: JAZZY
+            ⬜⬜⬜🟨🟩: GAWKY
+            ⬜⬜⬜🟩🟩: BAGGY
+            ⬜⬜🟨⬜🟩: BAWDY
+            ⬜⬜🟩⬜🟩: DADDY
+            ⬜🟨🟨🟨🟩: GAUDY
+            🟨⬜⬜⬜🟩: HAPPY
+            🟩⬜🟩⬜🟩: PADDY
+        ⬜⬜⬜🟨⬜:
+          input: FLUID
+          next:
+            ⬜🟨⬜⬜⬜: PAPAL
+            ⬜🟨⬜🟨⬜: AXIAL
+            ⬜🟨⬜🟩🟩: VALID
+            ⬜🟨🟨⬜⬜: PUPAL
+            ⬜🟨🟩⬜⬜: LAUGH
+            ⬜🟩⬜⬜⬜: ALPHA
+            ⬜🟩⬜🟨⬜: ALIBI
+            ⬜🟩🟨⬜⬜: ALBUM
+            🟨🟨🟨⬜⬜: AWFUL
+        ⬜⬜⬜🟨🟨: BYLAW
+        ⬜⬜⬜🟨🟩:
+          input: BALMY
+          next:
+            ⬜🟨🟩⬜🟩: ALLAY
+        ⬜⬜⬜🟩⬜: VILLA
+        ⬜⬜⬜🟩🟩:
+          input: MIDGE
+          next:
+            ⬜⬜⬜⬜⬜: APPLY
+            ⬜⬜⬜🟨⬜: GAYLY
+            ⬜⬜🟨⬜⬜: DALLY
+            ⬜⬜🟩⬜⬜: BADLY
+            ⬜🟨⬜🟨⬜: GAILY
+            ⬜🟨🟨⬜⬜: DAILY
+            🟨⬜⬜⬜⬜: AMPLY
+            🟩⬜🟩⬜⬜: MADLY
+        ⬜⬜🟨⬜⬜:
+          input: AGING
+          next:
+            🟨⬜⬜🟨⬜: HUMAN
+            🟨⬜⬜🟩⬜: FAUNA
+            🟨🟨⬜🟨⬜: PAGAN
+            🟩⬜🟨🟨⬜: ADMIN
+            🟩⬜🟩🟨⬜: AVIAN
+            🟩🟨🟩🟩🟩: APING
+        ⬜⬜🟨🟨⬜:
+          input: NAVAL
+          next:
+            🟨🟨⬜⬜🟨: ALIGN
+            🟨🟨🟩⬜🟩: ANVIL
+        ⬜⬜🟨🟨🟩: INLAY
+        ⬜⬜🟩⬜⬜:
+          input: MANGA
+          next:
+            ⬜🟨🟩⬜🟩: NINJA
+            🟩🟩🟩⬜🟩: MANIA
+        ⬜⬜🟩⬜🟩:
+          input: DEFOG
+          next:
+            ⬜⬜⬜⬜⬜: NANNY
+            ⬜⬜⬜⬜🟨: MANGY
+            ⬜⬜🟨⬜⬜: FANNY
+            🟨⬜⬜⬜⬜: HANDY
+            🟩⬜⬜⬜⬜: DANDY
+        ⬜⬜🟩🟨⬜:
+          input: BANAL
+          next:
+            ⬜🟨🟩⬜🟩: ANNUL
+            ⬜🟨🟩🟩🟩: FINAL
+        ⬜⬜🟩🟨🟩: LANKY
+        ⬜⬜🟩🟩🟩: MANLY
+        ⬜🟨⬜⬜⬜:
+          input: AUDIO
+          next:
+            🟨⬜⬜⬜🟩: MAMBO
+            🟩⬜⬜🟨🟨: AXIOM
+            🟩⬜🟨🟩🟨: AVOID
+        ⬜🟨⬜⬜🟨: BAYOU
+        ⬜🟨⬜🟨⬜:
+          input: ALLOW
+          next:
+            🟨🟨⬜🟨⬜: OFFAL
+            🟩🟨⬜🟨⬜: AFOUL
+            🟩🟨🟩🟩🟩: AGLOW
+            🟩🟩⬜🟨⬜: ALOUD
+            🟩🟩⬜🟩⬜: ALOOF
+        ⬜🟨⬜🟨🟩: ALLOY
+        ⬜🟨⬜🟩⬜: VIOLA
+        ⬜🟨🟨⬜⬜:
+          input: WAGON
+          next:
+            ⬜🟨⬜🟩🟩: AXION
+            ⬜🟨🟨🟨🟨: AMONG
+        ⬜🟨🟨⬜🟩: AGONY
+        ⬜🟨🟨🟨⬜: ALONG
+        ⬜🟨🟩⬜⬜:
+          input: MANGO
+          next:
+            ⬜🟩🟩⬜🟩: BANJO
+        ⬜🟨🟩⬜🟩: ANNOY
+        ⬜🟩⬜⬜⬜:
+          input: VODKA
+          next:
+            ⬜🟩🟨⬜🟩: DOGMA
+        ⬜🟩⬜🟨⬜:
+          input: MODAL
+          next:
+            ⬜🟩⬜🟨🟨: POLKA
+        ⬜🟩⬜🟨🟨: LOYAL
+        ⬜🟩⬜🟩⬜: VOILA
+        ⬜🟩🟨⬜⬜:
+          input: NOMAD
+          next:
+            🟨🟩🟩🟩⬜: WOMAN
+        ⬜🟩🟩⬜⬜: GONAD
+        ⬜🟩🟩🟨⬜: ZONAL
+        🟨⬜⬜⬜⬜:
+          input: BASIS
+          next:
+            ⬜🟨🟨🟨🟩: AMISS
+        🟨⬜⬜⬜🟨: ABYSS
+        🟨⬜⬜⬜🟩:
+          input: ASSAY
+          next:
+            🟨🟨⬜⬜🟩: DAISY
+            🟨🟨🟩⬜🟩: GASSY
+        🟨⬜⬜🟨⬜:
+          input: USUAL
+          next:
+            ⬜🟨⬜🟨🟩: BASIL
+            ⬜🟨⬜🟩🟩: BASAL
+        🟨⬜⬜🟨🟩: PALSY
+        🟨⬜🟨⬜⬜: BASIN
+        🟨⬜🟨🟨⬜: NASAL
+        🟨⬜🟩⬜🟩: PANSY
+        🟨🟨⬜🟨⬜: LASSO
+        🟨🟨🟨⬜⬜: MASON
+        🟩⬜⬜⬜⬜:
+          input: SQUAD
+          next:
+            🟩⬜⬜🟨⬜: SIGMA
+        🟩⬜⬜⬜🟩:
+          input: PROVE
+          next:
+            ⬜⬜⬜⬜⬜: SASSY
+            ⬜⬜⬜🟩⬜: SAVVY
+            🟨⬜⬜⬜⬜: SAPPY
+        🟩⬜⬜🟨⬜:
+          input: SALAD
+          next:
+            🟩🟩🟩⬜⬜: SALSA
+        🟩⬜⬜🟩🟩:
+          input: SADLY
+          next:
+            🟩🟩⬜🟩🟩: SALLY
+        🟩⬜🟨⬜⬜: SAUNA
+        🟩⬜🟩⬜🟩: SANDY
+        🟩🟨⬜⬜🟩: SAVOY
+        🟩🟨⬜🟨⬜:
+          input: SHOAL
+          next:
+            🟩⬜🟨🟨🟨: SALVO
+        🟩🟨🟨🟨⬜: SALON
+    ⬜⬜🟨⬜🟨:
+      input: GENAL
+      next:
+        ⬜🟨⬜🟨⬜:
+          input: ABBEY
+          next:
+            🟩⬜⬜🟩⬜: ASKEW
+        ⬜🟨⬜🟨🟨:
+          input: ALLEY
+          next:
+            🟩🟨🟩🟩⬜: ABLED
+        ⬜🟨⬜🟨🟩:
+          input: BLUSH
+          next:
+            ⬜🟨⬜⬜⬜: LAPEL
+            ⬜🟨⬜⬜🟨: HAZEL
+            ⬜🟨⬜🟨⬜: EASEL
+            🟨🟨⬜⬜⬜: LABEL
+        ⬜🟨⬜🟩⬜:
+          input: ESSAY
+          next:
+            🟨⬜⬜🟩⬜: AHEAD
+            🟨🟨⬜🟩⬜: SPEAK
+        ⬜🟨⬜🟩🟨:
+          input: BLEAK
+          next:
+            ⬜🟩🟩🟩⬜: PLEAD
+        ⬜🟨⬜🟩🟩:
+          input: EQUAL
+          next:
+            🟨⬜⬜🟩🟩: IDEAL
+        ⬜🟨🟨🟨⬜:
+          input: HOWDY
+          next:
+            ⬜⬜⬜⬜⬜: ENEMA
+            ⬜⬜⬜🟨⬜: AMEND
+            ⬜⬜🟨⬜⬜: WAXEN
+            ⬜🟨⬜⬜⬜: OAKEN
+            🟨⬜⬜⬜⬜: ASHEN
+            🟩⬜⬜⬜⬜: HAVEN
+            🟩⬜⬜⬜🟨: HYENA
+        ⬜🟨🟨🟨🟨:
+          input: ALIEN
+          next:
+            🟨🟨⬜🟩🟩: LADEN
+        ⬜🟨🟨🟨🟩: NAVEL
+        ⬜🟨🟨🟩⬜:
+          input: SNEAK
+          next:
+            ⬜🟩🟩🟩🟨: KNEAD
+        ⬜🟨🟩🟨⬜:
+          input: ANNEX
+          next:
+            🟩🟨🟩🟩⬜: APNEA
+        ⬜🟨🟩🟨🟩: PANEL
+        ⬜🟩⬜🟨⬜:
+          input: SEPIA
+          next:
+            ⬜🟩⬜🟩🟩: MEDIA
+        ⬜🟩⬜🟨🟨: FELLA
+        ⬜🟩⬜🟩⬜: KEBAB
+        ⬜🟩⬜🟩🟨: DELAY
+        ⬜🟩⬜🟩🟩:
+          input: MEDAL
+          next:
+            ⬜🟩🟩🟩🟩: PEDAL
+        ⬜🟩🟨🟩⬜: SEDAN
+        ⬜🟩🟩🟩🟩: PENAL
+        🟨🟨⬜🟨⬜: OMEGA
+        🟨🟨⬜🟨🟩: BAGEL
+        🟨🟨🟨🟨🟩: ANGEL
+        🟨🟩⬜🟩🟩: LEGAL
+        🟨🟩🟨🟩⬜:
+          input: BEGAN
+          next:
+            ⬜🟩🟩🟩🟩: VEGAN
+        🟩🟨⬜🟨🟩: GAVEL
+        🟩🟨⬜🟩🟨: GLEAM
+        🟩🟨🟨🟩🟨: GLEAN
+    ⬜⬜🟨⬜🟩:
+      input: LAMBS
+      next:
+        ⬜🟨⬜⬜⬜:
+          input: AWOKE
+          next:
+            🟩⬜🟩⬜🟩: ANODE
+        ⬜🟨⬜⬜🟨: ASIDE
+        ⬜🟨⬜🟨⬜:
+          input: ABIDE
+          next:
+            🟩🟩⬜⬜🟩: ABOVE
+            🟩🟩⬜🟩🟩: ABODE
+        ⬜🟨⬜🟨🟨: ABUSE
+        ⬜🟨⬜🟩⬜: ADOBE
+        ⬜🟨🟨⬜⬜: ANIME
+        ⬜🟨🟨⬜🟨: AMUSE
+        ⬜🟩⬜⬜⬜:
+          input: GUNGY
+          next:
+            ⬜⬜⬜⬜⬜: WAIVE
+            ⬜⬜⬜⬜🟨: PAYEE
+            ⬜⬜🟨⬜⬜: NAIVE
+            🟨🟨⬜⬜⬜: VAGUE
+            🟩⬜⬜⬜⬜: GAFFE
+            🟩🟨⬜⬜⬜: GAUZE
+            🟩🟨⬜🟩⬜: GAUGE
+        ⬜🟩⬜⬜🟨: PAUSE
+        ⬜🟩⬜🟨⬜: BADGE
+        ⬜🟩🟨⬜⬜:
+          input: CIGAR
+          next:
+            ⬜⬜⬜🟨⬜: MAUVE
+            ⬜⬜🟨🟨⬜: MANGE
+            ⬜🟨⬜🟨⬜: MAIZE
+        ⬜🟩🟨⬜🟨: MASSE
+        ⬜🟩🟨🟩⬜: MAYBE
+        🟨🟨⬜⬜⬜:
+          input: BLINK
+          next:
+            ⬜🟨⬜⬜⬜: APPLE
+            ⬜🟨⬜🟨⬜: ANGLE
+            ⬜🟨⬜🟨🟨: ANKLE
+            ⬜🟨🟩⬜⬜: AGILE
+            ⬜🟩⬜⬜⬜: ALGAE
+            ⬜🟩⬜🟩⬜: ALONE
+            ⬜🟩🟩⬜⬜: ALIVE
+            ⬜🟩🟩⬜🟨: ALIKE
+        🟨🟨⬜⬜🟨: AISLE
+        🟨🟨🟨⬜⬜: AMPLE
+        🟨🟨🟨🟨⬜: AMBLE
+        🟨🟩⬜⬜⬜:
+          input: VALVE
+          next:
+            ⬜🟩🟨⬜🟩: EAGLE
+            🟨🟩🟩🟩🟩: HALVE
+            🟩🟩🟩⬜🟩: VALUE
+        🟨🟩⬜⬜🟨:
+          input: 'FALSE'
+          next:
+            ⬜🟩🟩🟨🟩: SALVE
+        🟨🟩⬜🟨⬜: FABLE
+        🟨🟩🟨⬜⬜: MAPLE
+        🟩🟩⬜⬜⬜: LADLE
+        🟩🟩⬜⬜🟨: LAPSE
+    ⬜⬜🟨🟨⬜:
+      input: MONAL
+      next:
+        ⬜⬜⬜🟨⬜:
+          input: CADDY
+          next:
+            🟨🟨⬜⬜⬜: SCUBA
+            🟨🟩⬜⬜⬜: BASIC
+            🟨🟩⬜⬜🟩: WACKY
+            🟩🟩⬜⬜🟩: CABBY
+        ⬜⬜⬜🟨🟨: CAULK
+        ⬜⬜⬜🟨🟩: CAVIL
+        ⬜⬜⬜🟩🟨:
+          input: LILAC
+          next:
+            🟨🟨⬜🟩🟩: ILIAC
+        ⬜⬜⬜🟩🟩: CABAL
+        ⬜⬜🟨🟨⬜:
+          input: CHINA
+          next:
+            🟩⬜🟨🟨🟨: CABIN
+        ⬜⬜🟩🟨⬜:
+          input: CANNY
+          next:
+            🟨🟩🟩⬜⬜: PANIC
+            🟩🟩🟩⬜🟩: CANDY
+        ⬜⬜🟩🟩🟩: CANAL
+        ⬜🟨⬜🟨⬜: HAVOC
+        ⬜🟨⬜🟩⬜: CACAO
+        ⬜🟨⬜🟩🟨: CLOAK
+        ⬜🟨🟨🟨⬜: BACON
+        ⬜🟨🟩🟨⬜: CANON
+        ⬜🟩⬜🟨⬜: COCOA
+        ⬜🟩⬜🟩🟩:
+          input: FAVOR
+          next:
+            ⬜🟨⬜🟨⬜: LOCAL
+            ⬜🟨🟨🟨⬜: VOCAL
+            🟩🟨⬜🟨⬜: FOCAL
+        🟨⬜⬜🟩⬜: SUMAC
+        🟨🟩⬜🟨⬜: COMMA
+        🟩⬜⬜🟨⬜: MAGIC
+        🟩⬜⬜🟩⬜: MACAW
+        🟩⬜🟩🟨⬜: MANIC
+        🟩🟨⬜🟨⬜: MACHO
+        🟩🟩⬜🟨⬜: MOCHA
+    ⬜⬜🟨🟨🟨:
+      input: OLDEN
+      next:
+        ⬜⬜⬜🟨⬜: CHEAP
+        ⬜⬜⬜🟨🟩: PECAN
+        ⬜⬜⬜🟩⬜: CAGEY
+        ⬜⬜🟨🟨⬜: DECAY
+        ⬜🟨⬜🟨⬜: FECAL
+        ⬜🟨⬜🟩⬜: CAMEL
+        ⬜🟨🟨🟨⬜: DECAL
+        ⬜🟩⬜🟨🟩: CLEAN
+        🟨⬜⬜🟩⬜: CAMEO
+        🟩⬜⬜🟨🟩: OCEAN
+    ⬜⬜🟨🟨🟩:
+      input: BLUSH
+      next:
+        ⬜⬜⬜⬜⬜: CANOE
+        ⬜⬜⬜⬜🟨: CACHE
+        ⬜⬜🟩🟩⬜: CAUSE
+        🟨🟨⬜⬜⬜: CABLE
+    ⬜⬜🟨🟩⬜:
+      input: FANCY
+      next:
+        ⬜🟩⬜🟩🟩: SAUCY
+    ⬜⬜🟨🟩🟨: MECCA
+    ⬜⬜🟨🟩🟩:
+      input: LANCE
+      next:
+        ⬜🟩⬜🟩🟩: SAUCE
+        ⬜🟩🟩🟩🟩: DANCE
+    ⬜⬜🟩⬜⬜:
+      input: SHULN
+      next:
+        ⬜⬜⬜⬜⬜: FOAMY
+        ⬜⬜⬜⬜🟨: PIANO
+        ⬜⬜⬜⬜🟩: AGAIN
+        ⬜⬜⬜🟨⬜:
+          input: BLIMP
+          next:
+            ⬜🟨⬜🟩⬜: LOAMY
+            ⬜🟨🟨⬜⬜: AVAIL
+            ⬜🟩⬜⬜⬜: FLAKY
+            ⬜🟩⬜⬜🟨: PLAZA
+            ⬜🟩⬜🟩⬜: LLAMA
+            ⬜🟩🟨⬜⬜: FLAIL
+            ⬜🟩🟨⬜🟨: PLAID
+        ⬜⬜⬜🟨🟨:
+          input: BIFID
+          next:
+            ⬜⬜⬜⬜⬜: PLANK
+            ⬜⬜⬜⬜🟩: GLAND
+            ⬜⬜🟨⬜⬜: FLANK
+            🟩⬜⬜⬜⬜: BLANK
+            🟩⬜⬜⬜🟩: BLAND
+        ⬜⬜⬜🟨🟩: PLAIN
+        ⬜⬜⬜🟩⬜: KOALA
+        ⬜⬜🟨⬜⬜: GUAVA
+        ⬜⬜🟨🟨⬜: QUAIL
+        ⬜⬜🟨🟩⬜: QUALM
+        ⬜🟩⬜⬜⬜: KHAKI
+        🟨⬜⬜⬜⬜: AMASS
+        🟨⬜⬜🟨⬜:
+          input: GLASS
+          next:
+            ⬜🟩🟩🟩⬜: FLASK
+        🟨⬜⬜🟩⬜: PSALM
+        🟨⬜🟨⬜⬜: QUASI
+        🟨🟨⬜⬜⬜: AWASH
+        🟨🟨⬜⬜🟨: GNASH
+        🟨🟨⬜🟨⬜: FLASH
+        🟨🟨🟨⬜⬜: QUASH
+        🟩⬜⬜⬜⬜:
+          input: SWAMI
+          next:
+            🟩⬜🟩⬜⬜: SOAPY
+            🟩⬜🟩🟨⬜: SPASM
+            🟩🟩🟩🟩⬜: SWAMP
+        🟩⬜⬜⬜🟨:
+          input: SNAKY
+          next:
+            🟩🟨🟩🟨⬜: SPANK
+        🟩⬜⬜⬜🟩: SPAWN
+        🟩⬜⬜🟨🟨:
+          input: SNAIL
+          next:
+            🟩🟨🟩⬜🟨: SLANG
+        🟩⬜⬜🟨🟩: SLAIN
+        🟩⬜⬜🟩⬜: SMALL
+        🟩🟨⬜⬜⬜:
+          input: SMASH
+          next:
+            🟩⬜🟩🟩🟩: SWASH
+        🟩🟨⬜🟨⬜: SLASH
+        🟩🟩⬜⬜⬜:
+          input: SHADY
+          next:
+            🟩🟩🟩⬜🟩: SHAKY
+        🟩🟩⬜⬜🟨: SHANK
+        🟩🟩⬜🟨⬜: SHAWL
+        🟩🟩⬜🟩⬜: SHALL
+    ⬜⬜🟩⬜🟨:
+      input: HUMID
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: LEAKY
+          next:
+            🟩🟩🟩⬜🟩: LEAFY
+        ⬜⬜⬜⬜🟨: BEADY
+        ⬜⬜🟨⬜⬜: MEALY
+        ⬜⬜🟨🟩⬜: EMAIL
+        🟨⬜⬜⬜⬜: LEASH
+        🟩⬜⬜⬜⬜: HEAVY
+        🟩⬜⬜⬜🟨: HEADY
+    ⬜⬜🟩⬜🟩:
+      input: SLUMP
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: WINDY
+          next:
+            ⬜⬜⬜⬜⬜: HEAVE
+            ⬜⬜⬜🟨⬜: ADAGE
+            ⬜⬜⬜🟩⬜: EVADE
+            ⬜⬜🟨⬜⬜: KNAVE
+            ⬜🟨🟨⬜⬜: INANE
+            🟨⬜⬜⬜⬜: AWAKE
+            🟩⬜⬜⬜⬜: WEAVE
+        ⬜⬜⬜⬜🟨: AGAPE
+        ⬜⬜⬜🟨⬜:
+          input: AMAZE
+          next:
+            🟨🟩🟩⬜🟩: IMAGE
+        ⬜⬜🟨⬜⬜: QUAKE
+        ⬜🟨⬜⬜⬜:
+          input: LEAVE
+          next:
+            🟨🟨🟩⬜🟩: WHALE
+        ⬜🟩⬜⬜⬜:
+          input: BADGE
+          next:
+            ⬜🟨⬜⬜🟩: FLAKE
+            ⬜🟨⬜🟨🟩: GLAZE
+            ⬜🟨🟨🟨🟩: GLADE
+            🟩🟨⬜⬜🟩: BLAZE
+            🟩🟨🟨⬜🟩: BLADE
+        ⬜🟩⬜⬜🟨: PLANE
+        ⬜🟩⬜🟩⬜:
+          input: FLAME
+          next:
+            ⬜🟩🟩🟩🟩: BLAME
+        🟨⬜⬜⬜⬜: ABASE
+        🟨⬜⬜⬜🟨: PHASE
+        🟨⬜🟨⬜⬜: USAGE
+        🟨🟨⬜⬜⬜: LEASE
+        🟩⬜⬜⬜⬜:
+          input: DRINK
+          next:
+            ⬜⬜⬜⬜⬜: SHAVE
+            ⬜⬜⬜⬜🟨: SHAKE
+            ⬜⬜⬜🟨🟨: SNAKE
+            🟨⬜⬜⬜⬜: SHADE
+        🟩⬜⬜⬜🟨:
+          input: SPADE
+          next:
+            🟩🟨🟩⬜🟩: SHAPE
+        🟩⬜⬜🟩⬜: SHAME
+        🟩⬜🟨⬜⬜: SUAVE
+        🟩🟨⬜⬜⬜: SHALE
+        🟩🟩⬜⬜⬜: SLAVE
+    ⬜⬜🟩🟨⬜:
+      input: BLIPS
+      next:
+        ⬜⬜⬜⬜⬜: CHAFF
+        ⬜⬜⬜⬜🟨: CHASM
+        ⬜⬜⬜⬜🟩: CHAOS
+        ⬜⬜⬜🟨⬜: CHAMP
+        ⬜⬜⬜🟨🟨: SCAMP
+        ⬜⬜🟨⬜⬜: CHAIN
+        ⬜🟨⬜⬜⬜: CHALK
+        ⬜🟨⬜⬜🟨:
+          input: SCALD
+          next:
+            🟩🟩🟩🟩⬜: SCALY
+        ⬜🟨⬜🟨🟨: SCALP
+        ⬜🟩⬜⬜⬜:
+          input: CLANK
+          next:
+            🟩🟩🟩🟩⬜: CLANG
+        ⬜🟩⬜⬜🟨: CLASH
+        ⬜🟩⬜⬜🟩: CLASS
+        ⬜🟩⬜🟨⬜: CLAMP
+        ⬜🟩⬜🟨🟨: CLASP
+        ⬜🟩🟨⬜⬜: CLAIM
+    ⬜⬜🟩🟨🟩:
+      input: CHASE
+      next:
+        🟨⬜🟩🟨🟩: SCALE
+        🟩⬜🟩🟩🟩: CEASE
+        🟩🟩🟩⬜🟩: CHAFE
+    ⬜⬜🟩🟩⬜:
+      input: BLUSH
+      next:
+        ⬜⬜⬜⬜⬜: KNACK
+        ⬜⬜⬜⬜🟨: WHACK
+        ⬜⬜⬜⬜🟩: COACH
+        ⬜⬜⬜🟨⬜:
+          input: SMACK
+          next:
+            🟩⬜🟩🟩🟩: SNACK
+        ⬜⬜⬜🟨🟨: SHACK
+        ⬜⬜🟨⬜⬜: QUACK
+        ⬜🟩⬜⬜⬜:
+          input: FLACK
+          next:
+            ⬜🟩🟩🟩🟩: CLACK
+        ⬜🟩⬜🟨⬜: SLACK
+        🟨⬜⬜⬜⬜: ABACK
+        🟩🟩⬜⬜⬜: BLACK
+    ⬜⬜🟩🟩🟨:
+      input: BLUSH
+      next:
+        ⬜⬜⬜⬜🟩: PEACH
+        ⬜🟨⬜⬜🟩: LEACH
+        🟩⬜⬜⬜🟩: BEACH
+    ⬜⬜🟩🟩🟩:
+      input: PLACE
+      next:
+        🟨⬜🟩🟩🟩: SPACE
+        🟩⬜🟩🟩🟩: PEACE
+    ⬜🟨⬜⬜⬜:
+      input: SOUND
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: MYRRH
+          next:
+            ⬜⬜🟨🟩🟨: WHIRL
+            ⬜🟨🟩⬜⬜: GIRLY
+        ⬜⬜⬜⬜🟩: RIGID
+        ⬜⬜🟨⬜⬜:
+          input: MYRRH
+          next:
+            ⬜⬜🟨🟩⬜: QUIRK
+            ⬜🟨🟨⬜⬜: RUGBY
+            ⬜🟨🟩⬜⬜: BURLY
+            ⬜🟨🟩🟩⬜: FURRY
+            ⬜🟨🟩🟩🟨: HURRY
+            🟩🟨🟩⬜⬜: MURKY
+        ⬜⬜🟨⬜🟨: RUDDY
+        ⬜⬜🟨⬜🟩: LURID
+        ⬜⬜🟩⬜⬜: BLURB
+        ⬜🟨⬜⬜⬜:
+          input: IVORY
+          next:
+            ⬜⬜🟩🟨⬜: FLOOR
+            ⬜⬜🟩🟩🟩: GLORY
+            🟨⬜🟨🟨⬜: RIGOR
+            🟨🟨🟨🟨⬜: VIGOR
+        ⬜🟨⬜⬜🟨: HYDRO
+        ⬜🟨⬜⬜🟩: FJORD
+        ⬜🟨⬜🟨⬜: MINOR
+        ⬜🟨⬜🟩⬜: RHINO
+        ⬜🟨🟨⬜⬜:
+          input: FORTH
+          next:
+            ⬜🟨🟨⬜⬜: RUMOR
+            ⬜🟨🟨⬜🟨: HUMOR
+            ⬜🟨🟩⬜⬜: JUROR
+            🟩🟨🟨⬜⬜: FLOUR
+            🟩🟨🟩⬜⬜: FUROR
+        ⬜🟩⬜⬜⬜:
+          input: FLUME
+          next:
+            ⬜⬜⬜⬜⬜: WORRY
+            ⬜⬜⬜🟨⬜: MORPH
+            ⬜⬜⬜🟩⬜: ROOMY
+            ⬜🟨⬜⬜⬜: LORRY
+            🟩⬜⬜⬜⬜: FORGO
+        ⬜🟩⬜⬜🟨:
+          input: DOWRY
+          next:
+            🟨🟩🟨🟨🟩: WORDY
+            🟨🟩🟩🟨🟩: ROWDY
+        ⬜🟩⬜⬜🟩: WORLD
+        ⬜🟩⬜🟨⬜:
+          input: ROBIN
+          next:
+            🟨🟩⬜⬜🟨: HONOR
+            🟨🟩⬜⬜🟩: MORON
+        ⬜🟩⬜🟨🟨: DONOR
+        ⬜🟩⬜🟩⬜: HORNY
+        ⬜🟩🟨⬜⬜: FORUM
+        ⬜🟩🟩⬜⬜: ROUGH
+        ⬜🟩🟩⬜🟩: GOURD
+        ⬜🟩🟩🟨⬜: MOURN
+        ⬜🟩🟩🟩🟩: ROUND
+        🟨⬜⬜⬜⬜: RISKY
+        🟨⬜🟨⬜⬜: VIRUS
+        🟨⬜🟩⬜⬜: USURP
+        🟨🟨⬜⬜⬜: VISOR
+        🟩⬜⬜⬜⬜:
+          input: SHIRK
+          next:
+            🟩⬜🟨🟨⬜: SPRIG
+            🟩⬜🟩🟩⬜: SWIRL
+            🟩⬜🟩🟩🟩: SMIRK
+        🟩⬜🟨⬜⬜:
+          input: SHRUB
+          next:
+            🟩⬜🟩🟨⬜: SURLY
+            🟩⬜🟩🟩⬜: SYRUP
+            🟩🟩🟩🟩⬜: SHRUG
+        🟩⬜🟩⬜⬜: SLURP
+        🟩⬜🟩🟨⬜: SPURN
+        🟩🟨⬜⬜🟩: SWORD
+        🟩🟨⬜🟨⬜:
+          input: SWORN
+          next:
+            🟩⬜🟩🟩🟩: SHORN
+        🟩🟩⬜⬜⬜: SORRY
+    ⬜🟨⬜⬜🟨:
+      input: SINEW
+      next:
+        ⬜⬜⬜🟨⬜:
+          input: LURID
+          next:
+            ⬜⬜🟨⬜⬜: EVERY
+            ⬜⬜🟨⬜🟨: REEDY
+            ⬜⬜🟩⬜⬜:
+              input: FJORD
+              next:
+                ⬜⬜⬜🟨⬜: PERKY
+                ⬜⬜⬜🟩⬜:
+                  input: MERRY
+                  next:
+                    ⬜🟩🟩🟩🟩: BERRY
+                ⬜🟨⬜🟨⬜: JERKY
+                🟩⬜⬜🟩⬜: FERRY
+            ⬜⬜🟩⬜🟨: DERBY
+            ⬜🟨🟨⬜⬜: FEMUR
+            ⬜🟨🟨⬜🟨: DEMUR
+            ⬜🟩🟨⬜⬜: QUERY
+            🟨⬜🟨⬜⬜: REPLY
+            🟩⬜🟨⬜⬜: LEERY
+            🟩🟨🟨⬜⬜: LEMUR
+        ⬜⬜⬜🟩⬜:
+          input: LUMPY
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: ROVED
+              next:
+                🟨⬜⬜🟩🟨: DEFER
+                🟨⬜🟩🟩⬜: FEVER
+                🟨🟨⬜🟩⬜: OFFER
+                🟨🟨⬜🟩🟨: ODDER
+                🟨🟩⬜🟩⬜:
+                  input: JOKER
+                  next:
+                    ⬜🟩⬜🟩🟩: BOXER
+                🟨🟩🟩🟩⬜: HOVER
+                🟩⬜⬜🟩⬜: REFER
+                🟩🟩⬜🟩⬜: ROGER
+                🟩🟩⬜🟩🟨: RODEO
+                🟩🟩🟩🟩⬜: ROVER
+            ⬜⬜⬜⬜🟨: FOYER
+            ⬜⬜⬜🟨⬜: POKER
+            ⬜⬜⬜🟨🟨: HYPER
+            ⬜⬜🟨⬜⬜:
+              input: EMBER
+              next:
+                🟨🟨⬜🟩🟩: MOVER
+            ⬜⬜🟩⬜⬜: HOMER
+            ⬜🟨⬜⬜⬜: UDDER
+            ⬜🟨⬜🟨⬜: UPPER
+            ⬜🟩⬜⬜⬜:
+              input: RUDER
+              next:
+                🟨🟩⬜🟩🟩: QUEER
+            ⬜🟩⬜⬜🟨: BUYER
+            ⬜🟩⬜🟨⬜: PURER
+            🟨⬜⬜⬜⬜:
+              input: EVADE
+              next:
+                🟨⬜⬜⬜⬜: REBEL
+                🟨⬜⬜🟨⬜: OLDER
+                🟨🟨⬜⬜⬜: REVEL
+                🟩⬜⬜🟨⬜: ELDER
+            🟨⬜⬜⬜🟨: FLYER
+            🟨⬜⬜🟨⬜: REPEL
+            🟨🟨⬜⬜⬜: BLUER
+            🟨🟩⬜⬜⬜: RULER
+            🟩⬜⬜⬜⬜:
+              input: LOVER
+              next:
+                🟩⬜🟩🟩🟩: LEVER
+            🟩⬜⬜🟨⬜: LEPER
+        ⬜⬜⬜🟩🟨:
+          input: CLOMP
+          next:
+            ⬜⬜⬜⬜⬜: FEWER
+            ⬜⬜🟨⬜⬜: ROWER
+            ⬜⬜🟨⬜🟨: POWER
+            ⬜⬜🟨🟨⬜: MOWER
+            ⬜⬜🟩⬜⬜: WOOER
+            ⬜🟨🟨⬜⬜: LOWER
+        ⬜⬜🟨🟨⬜:
+          input: HERON
+          next:
+            ⬜🟩🟩⬜🟨: NERDY
+            ⬜🟩🟩⬜🟩: RERUN
+        ⬜⬜🟨🟩⬜:
+          input: NEVER
+          next:
+            🟨🟨⬜🟩🟩: UNDER
+        ⬜⬜🟨🟩🟨: NEWER
+        ⬜⬜🟩🟩⬜: GONER
+        ⬜⬜🟩🟩🟨: OWNER
+        ⬜⬜🟩🟩🟩: RENEW
+        ⬜🟨⬜🟨⬜: PERIL
+        ⬜🟨⬜🟨🟨: WEIRD
+        ⬜🟨⬜🟩⬜:
+          input: PLIER
+          next:
+            ⬜🟨🟨🟩🟩: IDLER
+            ⬜🟩🟩🟩🟩: FLIER
+        ⬜🟨🟨🟨⬜: REIGN
+        ⬜🟨🟨🟩⬜: INFER
+        ⬜🟨🟩🟩⬜: INNER
+        ⬜🟩⬜🟨⬜: FIERY
+        ⬜🟩⬜🟩⬜:
+          input: VALID
+          next:
+            ⬜⬜⬜🟨⬜:
+              input: PROXY
+              next:
+                ⬜🟨⬜⬜⬜: FIBER
+                ⬜🟨⬜🟨⬜: FIXER
+                🟨🟨⬜⬜⬜: RIPER
+                🟩🟨⬜⬜⬜: PIPER
+            ⬜⬜⬜🟨🟨: RIDER
+            ⬜⬜🟩🟨⬜: FILER
+            🟨⬜⬜🟨⬜:
+              input: RIVER
+              next:
+                🟨🟩🟩🟩🟩: GIVER
+            🟨⬜⬜🟨🟨: DIVER
+            🟨⬜🟨🟨⬜: LIVER
+            🟩⬜⬜🟨⬜: VIPER
+        ⬜🟩⬜🟩🟨: WIDER
+        ⬜🟩🟨🟩⬜: RIPEN
+        ⬜🟩🟩🟩⬜:
+          input: MODEL
+          next:
+            ⬜⬜⬜🟩⬜: FINER
+            ⬜⬜⬜🟩🟨: LINER
+            ⬜⬜🟨🟩⬜: DINER
+            🟩⬜⬜🟩⬜: MINER
+        🟨⬜⬜🟨⬜:
+          input: REBUS
+          next:
+            🟨🟩⬜⬜🟨: VERSO
+        🟨⬜⬜🟩⬜:
+          input: LOSER
+          next:
+            ⬜⬜🟨🟩🟩: USHER
+            ⬜🟩🟩🟩🟩: POSER
+        🟨🟨🟨🟨⬜: RESIN
+        🟨🟩⬜🟩⬜:
+          input: MISER
+          next:
+            ⬜🟩🟩🟩🟩: RISER
+        🟨🟩⬜🟩🟨: WISER
+        🟨🟩🟨🟩⬜: RISEN
+        🟩⬜⬜🟨⬜:
+          input: SERUM
+          next:
+            🟩🟨🟨⬜🟩: SPERM
+        🟩⬜⬜🟩⬜:
+          input: SHRUB
+          next:
+            🟩⬜🟨⬜⬜: SEVER
+            🟩⬜🟨⬜🟨: SOBER
+            🟩⬜🟨🟨⬜: SUPER
+            🟩⬜🟩🟨⬜: SURER
+            🟩🟩🟨⬜⬜: SHEER
+        🟩⬜⬜🟩🟨:
+          input: SOWER
+          next:
+            🟩⬜🟩🟩🟩: SEWER
+        🟩⬜⬜🟩🟩: SHREW
+        🟩⬜🟨🟩⬜: SNEER
+        🟩🟨⬜🟨⬜: SERIF
+        🟩🟨⬜🟩⬜: SKIER
+        🟩🟩🟨🟩⬜: SIREN
+    ⬜🟨⬜⬜🟩:
+      input: SOUGH
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: FEIGN
+          next:
+            ⬜🟩⬜⬜⬜: VERVE
+            ⬜🟩⬜⬜🟨: NERVE
+            ⬜🟩🟨⬜⬜: EERIE
+            🟨🟨🟨⬜⬜: RIFLE
+            🟩🟨🟨⬜⬜: FIBRE
+        ⬜⬜⬜⬜🟨:
+          input: RHYME
+          next:
+            🟨🟩⬜⬜🟩: WHERE
+        ⬜⬜⬜🟨⬜: GENRE
+        ⬜⬜⬜🟩⬜:
+          input: MERGE
+          next:
+            ⬜🟨🟨🟩🟩: RIDGE
+            ⬜🟨🟩🟩🟩: DIRGE
+            ⬜🟩🟩🟩🟩: VERGE
+        ⬜⬜🟨⬜⬜:
+          input: RUPEE
+          next:
+            🟨🟩🟨🟩🟩: PUREE
+            🟩🟨⬜🟨🟩: REVUE
+        ⬜⬜🟨🟩⬜: PURGE
+        ⬜🟨⬜⬜⬜: OMBRE
+        ⬜🟩⬜⬜⬜: BORNE
+        ⬜🟩⬜⬜🟨: HORDE
+        ⬜🟩⬜🟩⬜:
+          input: FORGE
+          next:
+            ⬜🟩🟩🟩🟩: GORGE
+        ⬜🟩🟨🟨⬜: ROGUE
+        ⬜🟩🟩🟩⬜: ROUGE
+        🟨⬜⬜⬜⬜:
+          input: VERSE
+          next:
+            ⬜🟨🟨🟩🟩: RINSE
+        🟨⬜🟨⬜⬜:
+          input: PURSE
+          next:
+            ⬜🟩🟩🟩🟩: NURSE
+        🟨⬜🟩⬜⬜: REUSE
+        🟨🟩⬜⬜⬜: WORSE
+        🟨🟩⬜⬜🟨: HORSE
+        🟨🟩🟩⬜⬜: ROUSE
+        🟩⬜⬜⬜⬜:
+          input: SERVE
+          next:
+            🟩🟨🟨⬜🟩: SPIRE
+            🟩🟨🟩⬜🟩: SPREE
+        🟩⬜⬜⬜🟨: SHIRE
+        🟩⬜🟨🟩⬜: SURGE
+        🟩🟨⬜⬜⬜:
+          input: WHELP
+          next:
+            ⬜⬜🟨⬜⬜: SNORE
+            ⬜⬜🟨⬜🟨: SPORE
+            🟨⬜🟨⬜⬜: SWORE
+        🟩🟨⬜⬜🟨: SHORE
+    ⬜🟨⬜🟨⬜:
+      input: CHOIR
+      next:
+        🟨⬜⬜⬜🟨:
+          input: SCRUB
+          next:
+            🟩🟩🟩🟩⬜: SCRUM
+        🟨⬜⬜🟨🟩: INCUR
+        🟨⬜⬜🟩🟨: LYRIC
+        🟨⬜🟨⬜🟨: ROCKY
+        🟨⬜🟨⬜🟩: OCCUR
+        🟨⬜🟨🟨🟨: MICRO
+        🟨⬜🟩⬜🟨: SCORN
+        🟨⬜🟩⬜🟩: SCOUR
+        🟩⬜⬜⬜🟨:
+          input: NAVAL
+          next:
+            ⬜⬜⬜⬜⬜: CURRY
+            ⬜⬜⬜⬜🟨: CURLY
+            ⬜⬜🟨⬜⬜: CURVY
+        🟩⬜🟨⬜🟨: CORNY
+        🟩⬜🟨⬜🟩: COLOR
+        🟩⬜🟨🟩🟨: CURIO
+        🟩🟩⬜⬜🟨: CHURN
+        🟩🟩⬜🟨🟨: CHIRP
+        🟩🟩🟩⬜🟨: CHORD
+    ⬜🟨⬜🟨🟨:
+      input: OWLED
+      next:
+        ⬜⬜⬜🟨⬜: RECUR
+        ⬜⬜⬜🟨🟨: DECRY
+        ⬜⬜⬜🟩⬜:
+          input: CYBER
+          next:
+            🟨⬜⬜🟩🟩: NICER
+            🟩⬜⬜🟩🟩: CHEER
+        ⬜⬜⬜🟩🟨: CIDER
+        ⬜⬜🟨🟨⬜: CLERK
+        ⬜⬜🟨🟩⬜: ULCER
+        ⬜⬜🟩🟨⬜: RELIC
+        ⬜🟨⬜🟩⬜: SCREW
+        🟨⬜⬜🟨🟨: DECOR
+        🟨⬜⬜🟩⬜:
+          input: COVER
+          next:
+            🟩🟩⬜🟩🟩: CORER
+        🟨🟨⬜🟩⬜: COWER
+    ⬜🟨⬜🟨🟩:
+      input: SCORE
+      next:
+        ⬜🟨⬜🟨🟩: CURVE
+        ⬜🟨🟩🟩🟩: CHORE
+        🟨🟨⬜🟨🟩: CURSE
+        🟩🟩⬜🟨🟩: SCREE
+    ⬜🟨⬜🟩⬜:
+      input: REBUT
+      next:
+        🟨⬜⬜⬜⬜: PORCH
+        🟨⬜⬜🟨⬜: LURCH
+        🟨⬜🟨⬜⬜: BIRCH
+    ⬜🟨⬜🟩🟨:
+      input: PERCH
+      next:
+        ⬜🟩🟩🟩⬜: MERCY
+    ⬜🟨⬜🟩🟩: FORCE
+    ⬜🟨🟨⬜⬜:
+      input: PYLON
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: HUMID
+          next:
+            ⬜⬜⬜⬜🟨: RADAR
+            ⬜⬜⬜🟨⬜: RABBI
+            ⬜⬜⬜🟩🟨: RADII
+            ⬜⬜⬜🟩🟩: RABID
+            ⬜⬜🟨⬜⬜: KARMA
+            ⬜🟨🟨⬜⬜: UMBRA
+            ⬜🟩⬜⬜⬜:
+              input: SUGAR
+              next:
+                ⬜🟩🟩🟨🟩: AUGUR
+            ⬜🟩🟩⬜⬜: RUMBA
+            🟨⬜⬜⬜⬜: RAJAH
+            🟨⬜🟨⬜⬜: MARSH
+            🟩⬜⬜⬜⬜: HARSH
+        ⬜⬜⬜⬜🟨: NADIR
+        ⬜⬜⬜🟨⬜:
+          input: CIGAR
+          next:
+            ⬜⬜⬜🟩🟨: BORAX
+            ⬜⬜🟨🟨🟨: AGORA
+            ⬜🟨⬜🟨🟨: RADIO
+        ⬜⬜⬜🟨🟨: SONAR
+        ⬜⬜⬜🟨🟩: ADORN
+        ⬜⬜⬜🟩⬜:
+          input: AZYMS
+          next:
+            🟨⬜⬜⬜⬜: FAVOR
+            🟨⬜⬜⬜🟨: SAVOR
+            🟨⬜⬜🟨⬜: MAJOR
+            🟨🟨⬜⬜⬜: RAZOR
+            🟩⬜⬜⬜⬜: ABHOR
+        ⬜⬜⬜🟩🟨: MANOR
+        ⬜⬜⬜🟩🟩: BARON
+        ⬜⬜🟨⬜⬜:
+          input: MURAL
+          next:
+            ⬜⬜🟨🟩🟩: RIVAL
+            ⬜⬜🟩🟨🟨: LARVA
+            ⬜⬜🟩🟩🟩: VIRAL
+            ⬜🟩🟩🟩🟩: RURAL
+        ⬜⬜🟨⬜🟨: LUNAR
+        ⬜⬜🟨🟨⬜:
+          input: FLORA
+          next:
+            ⬜🟨🟨🟨🟨: MORAL
+        ⬜⬜🟨🟩⬜: LABOR
+        ⬜⬜🟩🟨⬜:
+          input: SOLAR
+          next:
+            ⬜🟩🟩🟩🟩: MOLAR
+        ⬜⬜🟩🟩⬜: VALOR
+        ⬜🟨⬜⬜⬜:
+          input: HARDY
+          next:
+            ⬜🟩🟨⬜🟩: FAIRY
+            ⬜🟩🟨🟨🟩: DAIRY
+            ⬜🟩🟩⬜🟩: MARRY
+            🟩🟩🟨⬜🟩: HAIRY
+            🟩🟩🟩⬜🟩: HARRY
+        ⬜🟨⬜⬜🟨:
+          input: RAINY
+          next:
+            🟨🟨⬜🟨🟩: ANGRY
+            🟩🟩⬜🟨🟩: RANDY
+        ⬜🟨⬜🟨⬜: FORAY
+        ⬜🟨⬜🟩⬜: MAYOR
+        ⬜🟨⬜🟩🟩: RAYON
+        ⬜🟨🟨🟨⬜: ROYAL
+        ⬜🟨🟩⬜⬜: RALLY
+        🟨⬜⬜⬜⬜: RAPID
+        🟨⬜⬜🟩⬜: VAPOR
+        🟨⬜⬜🟩🟩: APRON
+        🟨⬜🟩⬜⬜: RALPH
+        🟨🟨⬜⬜⬜:
+          input: SPRAY
+          next:
+            ⬜🟨🟩🟨🟩: HARPY
+            🟨🟨🟨🟨🟩: RASPY
+        🟩⬜⬜⬜⬜: PARKA
+        🟩⬜🟩🟨⬜: POLAR
+        🟩🟨⬜⬜⬜: PARRY
+    ⬜🟨🟨⬜🟨:
+      input: PALSY
+      next:
+        ⬜🟨⬜⬜⬜:
+          input: DEBAR
+          next:
+            ⬜🟨⬜🟨🟩: ANGER
+            ⬜🟨🟩🟨🟩: AMBER
+            ⬜🟩🟨🟩🟨: REHAB
+            ⬜🟩🟩🟨🟨: ZEBRA
+            ⬜🟩🟩🟩🟩: REBAR
+            🟨🟨⬜🟨🟩: AIDER
+        ⬜🟨⬜🟨⬜:
+          input: HUMPH
+          next:
+            ⬜⬜⬜⬜⬜: SWEAR
+            ⬜⬜🟨⬜⬜: SMEAR
+            🟨⬜⬜⬜⬜: SHEAR
+        ⬜🟨🟨⬜⬜:
+          input: REGAL
+          next:
+            🟨🟩⬜🟩🟩: FERAL
+            🟩🟩⬜🟩🟩: RENAL
+        ⬜🟨🟩⬜⬜: RELAX
+        ⬜🟨🟩⬜🟩: RELAY
+        ⬜🟩⬜⬜⬜:
+          input: GAMER
+          next:
+            ⬜🟩⬜🟩🟨: RAVEN
+            ⬜🟩⬜🟩🟩:
+              input: BARFI
+              next:
+                ⬜🟩🟨⬜⬜: WAVER
+                ⬜🟩🟨🟨⬜: WAFER
+                ⬜🟩🟩⬜⬜: RARER
+                🟩🟩🟨⬜⬜: BAKER
+            ⬜🟩🟨🟩🟨: HAREM
+            ⬜🟩🟨🟩🟩: MAKER
+            ⬜🟩🟩🟩🟨: RAMEN
+            🟨🟩⬜🟩🟩:
+              input: WAGER
+              next:
+                ⬜🟩🟩🟩🟩: EAGER
+            🟩🟩⬜🟩🟩: GAZER
+        ⬜🟩⬜⬜🟨: GAYER
+        ⬜🟩⬜🟨⬜:
+          input: SAFER
+          next:
+            🟩🟩⬜🟩🟩: SANER
+        ⬜🟩🟨⬜⬜: LAGER
+        ⬜🟩🟨⬜🟨: LAYER
+        ⬜🟩🟨⬜🟩: EARLY
+        ⬜🟩🟩⬜⬜: BALER
+        🟨🟨⬜⬜⬜: OPERA
+        🟨🟨⬜⬜🟩: REPAY
+        🟨🟨⬜🟨⬜: SPEAR
+        🟩🟩⬜⬜⬜:
+          input: PAPER
+          next:
+            🟩🟩⬜🟩🟩: PARER
+        🟩🟩⬜⬜🟨: PAYER
+        🟩🟩🟩⬜⬜: PALER
+    ⬜🟨🟨⬜🟩:
+      input: ALIGN
+      next:
+        🟨⬜⬜⬜⬜: PARSE
+        🟨⬜⬜🟩⬜: BARGE
+        🟨⬜⬜🟩🟨: RANGE
+        🟨⬜🟩⬜⬜: RAISE
+        🟨🟨⬜🟩⬜: LARGE
+        🟩⬜⬜⬜⬜:
+          input: AZURE
+          next:
+            🟩⬜⬜🟩🟩: ADORE
+        🟩⬜⬜🟨⬜: AGREE
+        🟩⬜🟩⬜⬜: AFIRE
+    ⬜🟨🟨🟨⬜:
+      input: CAROM
+      next:
+        🟨🟨🟨⬜⬜: VICAR
+        🟨🟨🟨🟨⬜: ACORN
+        🟨🟨🟩⬜⬜:
+          input: SCRAP
+          next:
+            ⬜🟩🟩🟨⬜: ACRID
+        🟨🟨🟩⬜🟩: SCRAM
+        🟨🟩🟨🟨🟨: MACRO
+        🟩🟨🟨⬜⬜: CIGAR
+        🟩🟨🟨🟨⬜: COBRA
+        🟩🟨🟩🟨⬜: CORAL
+        🟩🟩🟨⬜⬜: CAIRN
+        🟩🟩🟩⬜⬜: CARRY
+        🟩🟩🟩🟨⬜: CARGO
+        🟩🟩🟩🟩⬜: CAROL
+    ⬜🟨🟨🟨🟨:
+      input: RECAP
+      next:
+        🟨🟨🟨🟨🟨: CAPER
+        🟨🟨🟨🟩⬜: CLEAR
+        🟨🟩🟨🟩⬜: CEDAR
+        🟩🟨🟩🟨⬜: RACER
+    ⬜🟨🟨🟨🟩: CARVE
+    ⬜🟨🟨🟩⬜:
+      input: MARCH
+      next:
+        ⬜🟨🟩🟩⬜: CIRCA
+        ⬜🟩🟨🟩🟩: RANCH
+    ⬜🟨🟨🟩🟩: FARCE
+    ⬜🟨🟩⬜⬜:
+      input: DHOWS
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: FLAIR
+          next:
+            ⬜⬜🟩⬜🟨: QUARK
+            ⬜🟩🟩⬜🟨: ALARM
+        ⬜⬜⬜⬜🟨:
+          input: SNARL
+          next:
+            🟩⬜🟩🟩⬜: SPARK
+        ⬜⬜⬜🟨🟨: SWARM
+        ⬜⬜🟨⬜⬜: OVARY
+        ⬜🟩⬜⬜🟨:
+          input: SHARP
+          next:
+            🟩🟩🟩🟩⬜: SHARK
+        ⬜🟩⬜🟨⬜: WHARF
+        🟨⬜⬜⬜⬜: GUARD
+        🟨⬜⬜🟨⬜: AWARD
+        🟨⬜🟨⬜⬜: BOARD
+        🟨🟨🟨⬜⬜: HOARD
+        🟨🟩⬜⬜🟨: SHARD
+        🟩⬜⬜⬜⬜: DIARY
+        🟩⬜⬜🟨⬜: DWARF
+    ⬜🟨🟩⬜🟨:
+      input: BADLY
+      next:
+        ⬜🟨⬜⬜⬜: REARM
+        ⬜🟨⬜⬜🟨: YEARN
+        ⬜🟨⬜⬜🟩: WEARY
+        ⬜🟨⬜🟨⬜:
+          input: PEARL
+          next:
+            ⬜🟩🟩🟩🟨: LEARN
+        ⬜🟨⬜🟩⬜: REALM
+        ⬜🟨🟨⬜⬜: HEARD
+        ⬜🟨🟨⬜🟩: READY
+        🟩🟨🟨⬜⬜: BEARD
+    ⬜🟨🟩⬜🟩:
+      input: BLUSH
+      next:
+        ⬜⬜⬜⬜⬜: AWARE
+        ⬜⬜⬜🟨⬜:
+          input: SNARE
+          next:
+            🟩⬜🟩🟩🟩: SPARE
+        ⬜⬜⬜🟨🟨: SHARE
+        ⬜🟩⬜⬜⬜:
+          input: GLARE
+          next:
+            ⬜🟩🟩🟩🟩: FLARE
+        🟩🟩⬜⬜⬜: BLARE
+    ⬜🟨🟩🟨⬜:
+      input: HYDRO
+      next:
+        ⬜⬜⬜🟩⬜: SCARF
+        ⬜🟨⬜🟩⬜: SCARY
+        🟨⬜⬜🟨⬜: CHAIR
+        🟨⬜⬜🟩⬜: CHARM
+        🟨⬜🟨🟩⬜: CHARD
+    ⬜🟨🟩🟨🟩: SCARE
+    ⬜🟨🟩🟩⬜: ROACH
+    ⬜🟨🟩🟩🟨: REACH
+    ⬜🟩⬜⬜⬜:
+      input: GUILD
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: BUXOM
+          next:
+            ⬜⬜⬜🟨⬜: FROWN
+            ⬜⬜⬜🟩⬜: PROOF
+            ⬜⬜🟨🟨⬜: PROXY
+            🟩⬜⬜🟨⬜: BROWN
+            🟩⬜⬜🟩⬜: BROOK
+            🟩⬜⬜🟩🟩: BROOM
+        ⬜⬜⬜⬜🟨:
+          input: STINK
+          next:
+            ⬜⬜⬜⬜⬜: DROOP
+            ⬜⬜⬜🟨⬜: DROWN
+            🟨⬜⬜⬜⬜: DROSS
+        ⬜⬜⬜⬜🟩:
+          input: BROOD
+          next:
+            ⬜🟩🟩⬜🟩: FROND
+        ⬜⬜⬜🟨⬜: PROWL
+        ⬜⬜⬜🟨🟨: DROOL
+        ⬜⬜⬜🟩⬜: WRYLY
+        ⬜⬜⬜🟩🟨:
+          input: DROLL
+          next:
+            🟩🟩⬜🟩⬜: DRYLY
+        ⬜⬜🟨⬜⬜: IRONY
+        ⬜⬜🟨🟨⬜: BROIL
+        ⬜⬜🟩⬜⬜:
+          input: ABYSM
+          next:
+            ⬜⬜⬜⬜⬜: PRIOR
+            ⬜⬜⬜⬜🟨: PRIMO
+            ⬜⬜⬜🟩⬜: FRISK
+            ⬜⬜⬜🟩🟩: PRISM
+            ⬜⬜🟨⬜⬜: PRIVY
+            ⬜🟨⬜⬜⬜: BRINK
+            ⬜🟨⬜🟩⬜: BRISK
+            ⬜🟨🟨⬜⬜: BRINY
+        ⬜⬜🟩⬜🟨: DRINK
+        ⬜⬜🟩🟩⬜:
+          input: KRILL
+          next:
+            ⬜🟩🟩🟩🟩: FRILL
+        ⬜⬜🟩🟩🟨: DRILL
+        ⬜🟨⬜⬜⬜: BRUSH
+        ⬜🟨⬜⬜🟨: DRUNK
+        ⬜🟨⬜⬜🟩: PROUD
+        ⬜🟨🟨⬜🟩: DRUID
+        🟨⬜⬜⬜⬜:
+          input: PRONG
+          next:
+            ⬜🟩🟩🟩🟩: WRONG
+        🟨⬜🟩⬜⬜:
+          input: BRING
+          next:
+            ⬜🟩🟩🟩🟩: WRING
+        🟨🟨⬜⬜⬜: WRUNG
+        🟩⬜⬜⬜⬜:
+          input: STINK
+          next:
+            ⬜⬜⬜⬜⬜: GROOM
+            ⬜⬜⬜🟨⬜: GROWN
+            🟨⬜⬜⬜⬜: GROSS
+        🟩⬜⬜🟨⬜: GROWL
+        🟩⬜🟨⬜⬜: GROIN
+        🟩⬜🟩⬜⬜: GRIMY
+        🟩⬜🟩⬜🟩: GRIND
+        🟩⬜🟩🟩⬜: GRILL
+        🟩🟨⬜⬜⬜:
+          input: GROUP
+          next:
+            🟩🟩⬜🟨⬜: GRUFF
+    ⬜🟩⬜⬜🟨:
+      input: DINGS
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: ERROR
+          next:
+            🟨🟩⬜⬜🟩: FREER
+        ⬜⬜⬜⬜🟨: FRESH
+        ⬜⬜⬜⬜🟩: PRESS
+        ⬜⬜⬜🟨⬜: GRUEL
+        ⬜⬜🟨⬜⬜: PREEN
+        ⬜⬜🟨🟨⬜: GREEN
+        ⬜🟨⬜⬜⬜: BRIEF
+        ⬜🟨⬜🟨⬜: GRIEF
+        🟨⬜⬜⬜⬜:
+          input: BREED
+          next:
+            ⬜🟩🟨🟩🟨: ORDER
+            ⬜🟩🟩🟩🟩: FREED
+        🟨⬜⬜🟨⬜: GREED
+        🟨🟨⬜⬜⬜:
+          input: PRIED
+          next:
+            ⬜🟩🟩🟩🟩: FRIED
+        🟩⬜⬜⬜⬜: DRYER
+        🟩⬜⬜⬜🟩: DRESS
+        🟩🟨⬜⬜⬜:
+          input: DRIER
+          next:
+            🟩🟩🟩🟩⬜: DRIED
+    ⬜🟩⬜⬜🟩:
+      input: PONDS
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: BRIBE
+          next:
+            ⬜🟩🟩⬜🟩: GRIME
+        ⬜⬜⬜🟨⬜: DRIVE
+        ⬜⬜⬜🟩⬜: BRIDE
+        ⬜⬜🟨⬜⬜:
+          input: BRINE
+          next:
+            ⬜🟩🟩🟩🟩: URINE
+        ⬜🟨⬜⬜⬜:
+          input: FEIGN
+          next:
+            ⬜🟨⬜⬜⬜: BROKE
+            ⬜🟨⬜🟨⬜: GROVE
+            🟩🟨⬜⬜⬜: FROZE
+        ⬜🟨⬜🟨⬜: DROVE
+        ⬜🟨⬜🟩⬜: ERODE
+        ⬜🟨🟨🟨⬜: DRONE
+        🟨⬜⬜⬜⬜: GRIPE
+        🟨🟨⬜⬜⬜: GROPE
+        🟩⬜⬜⬜⬜:
+          input: PRIZE
+          next:
+            🟩🟩🟩⬜🟩: PRIME
+        🟩⬜⬜🟩⬜:
+          input: PRIDE
+          next:
+            🟩🟩⬜🟩🟩: PRUDE
+        🟩⬜🟨⬜⬜: PRUNE
+        🟩🟨⬜⬜⬜:
+          input: PROVE
+          next:
+            🟩🟩🟩⬜🟩: PROBE
+        🟩🟨⬜⬜🟨: PROSE
+        🟩🟨🟨⬜⬜: PRONE
+    ⬜🟩⬜🟨⬜:
+      input: SPUNK
+      next:
+        ⬜⬜⬜⬜⬜: CROWD
+        ⬜⬜⬜⬜🟩: CROOK
+        ⬜⬜⬜🟨⬜: CROWN
+        ⬜⬜⬜🟩⬜: CRONY
+        ⬜⬜🟩⬜⬜: CRUMB
+        ⬜🟨⬜⬜⬜: CRIMP
+        ⬜🟨🟨⬜⬜: CROUP
+        ⬜🟨🟩⬜⬜: CRUMP
+        🟨⬜⬜⬜⬜: CROSS
+        🟨⬜🟩⬜⬜: CRUSH
+        🟨🟨⬜⬜⬜: CRISP
+    ⬜🟩⬜🟨🟨:
+      input: PLIED
+      next:
+        ⬜⬜⬜🟨⬜: CRESS
+        ⬜⬜⬜🟨🟨: CREDO
+        ⬜⬜⬜🟩⬜: CREEK
+        ⬜⬜⬜🟩🟩: CREED
+        ⬜⬜🟩🟩⬜: CRIER
+        ⬜⬜🟩🟩🟩: CRIED
+        ⬜🟨⬜🟩⬜: CRUEL
+        🟨⬜⬜🟩⬜: CREEP
+    ⬜🟩⬜🟨🟩:
+      input: SPEND
+      next:
+        ⬜⬜🟨⬜⬜: CRIME
+        ⬜⬜🟨⬜🟨: CRUDE
+        ⬜⬜🟨🟩⬜: CRONE
+        ⬜⬜🟩⬜⬜: CREME
+        ⬜🟨🟩⬜⬜: CREPE
+    ⬜🟩⬜🟩⬜:
+      input: CRIMP
+      next:
+        🟨🟩⬜⬜⬜: FROCK
+        🟨🟩🟩⬜⬜: BRICK
+        🟨🟩🟩⬜🟨: PRICK
+        🟩🟩⬜⬜⬜: CROCK
+        🟩🟩🟩⬜⬜: CRICK
+    ⬜🟩⬜🟩🟨: WRECK
+    ⬜🟩⬜🟩🟩: PRICE
+    ⬜🟩🟨⬜⬜:
+      input: BARON
+      next:
+        ⬜🟨🟨⬜⬜: FRIAR
+        ⬜🟨🟨🟨⬜: AROMA
+        ⬜🟨🟨🟨🟩:
+          input: GROAN
+          next:
+            🟨🟩🟨🟩🟩: ORGAN
+        ⬜🟨🟨🟩⬜:
+          input: ARDOR
+          next:
+            🟩🟩⬜🟩🟩: ARMOR
+        ⬜🟨🟨🟩🟩: ARSON
+        ⬜🟨🟩⬜⬜: ARRAY
+        ⬜🟨🟩🟩⬜: ARROW
+        🟨🟨🟨⬜🟩: URBAN
+        🟨🟨🟨🟩⬜: ARBOR
+        🟩🟨🟨⬜⬜: BRIAR
+        🟩🟨🟨🟨⬜: BROAD
+    ⬜🟩🟨⬜🟨:
+      input: BREAD
+      next:
+        ⬜🟩🟩🟨⬜: ARENA
+        ⬜🟩🟩🟩⬜:
+          input: FREAK
+          next:
+            ⬜🟩🟩🟩🟩: WREAK
+        ⬜🟩🟩🟩🟨: DREAM
+        ⬜🟩🟩🟩🟩: DREAD
+        🟩🟩🟩🟩⬜: BREAK
+    ⬜🟩🟨⬜🟩:
+      input: ARISE
+      next:
+        🟩🟩⬜⬜🟩: ARGUE
+        🟩🟩⬜🟩🟩: AROSE
+    ⬜🟩🟨🟨⬜: CROAK
+    ⬜🟩🟨🟨🟨:
+      input: CREAK
+      next:
+        🟩🟩🟩🟩⬜: CREAM
+    ⬜🟩🟩⬜⬜:
+      input: BLIND
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: GRASP
+          next:
+            🟩🟩🟩⬜⬜: GRAVY
+            🟩🟩🟩⬜🟨: GRAPH
+            🟩🟩🟩🟩⬜: GRASS
+        ⬜⬜⬜⬜🟨: DRAMA
+        ⬜⬜⬜⬜🟩: FRAUD
+        ⬜⬜⬜🟨⬜: PRAWN
+        ⬜⬜⬜🟨🟨: DRAWN
+        ⬜⬜⬜🟩⬜:
+          input: PRANK
+          next:
+            ⬜🟩🟩🟩🟩: FRANK
+        ⬜⬜⬜🟩🟨: DRANK
+        ⬜⬜⬜🟩🟩: GRAND
+        ⬜⬜🟨🟨⬜: GRAIN
+        ⬜⬜🟨🟨🟨: DRAIN
+        ⬜🟨⬜⬜🟨: DRAWL
+        ⬜🟨🟨⬜⬜:
+          input: FRAIL
+          next:
+            ⬜🟩🟩🟩🟩: GRAIL
+        🟩⬜⬜⬜⬜:
+          input: BRASS
+          next:
+            🟩🟩🟩⬜⬜: BRAVO
+            🟩🟩🟩🟩⬜: BRASH
+        🟩⬜⬜🟨⬜: BRAWN
+        🟩⬜⬜🟩🟩: BRAND
+        🟩⬜🟨⬜🟩: BRAID
+        🟩⬜🟨🟨⬜: BRAIN
+        🟩🟨⬜⬜⬜: BRAWL
+    ⬜🟩🟩⬜🟩:
+      input: DAMPS
+      next:
+        ⬜🟨⬜⬜⬜:
+          input: GRAVE
+          next:
+            ⬜🟩🟩⬜🟩: BRAKE
+            ⬜🟩🟩🟩🟩: BRAVE
+            🟩🟩🟩⬜🟩: GRAZE
+        ⬜🟨⬜⬜🟨: ERASE
+        ⬜🟨⬜🟩⬜: GRAPE
+        ⬜🟨🟨⬜⬜: FRAME
+        🟨🟨⬜⬜⬜: GRADE
+        🟩🟨⬜⬜⬜: DRAKE
+        🟩🟨⬜🟩⬜: DRAPE
+    ⬜🟩🟩🟨⬜:
+      input: AMYLS
+      next:
+        🟨⬜⬜⬜⬜: CRANK
+        🟨⬜⬜⬜🟨: CRASH
+        🟨⬜⬜⬜🟩: CRASS
+        🟨⬜⬜🟨⬜: CRAWL
+        🟨⬜🟨⬜⬜: CRAZY
+        🟨🟨⬜⬜⬜: CRAMP
+    ⬜🟩🟩🟨🟩:
+      input: NAVAL
+      next:
+        ⬜🟨⬜⬜⬜: CRAZE
+        ⬜🟨🟨⬜⬜: CRAVE
+        🟨🟨⬜⬜⬜: CRANE
+    ⬜🟩🟩🟩⬜:
+      input: WRACK
+      next:
+        ⬜🟩🟩🟩🟩: CRACK
+    ⬜🟩🟩🟩🟩:
+      input: GRACE
+      next:
+        ⬜🟩🟩🟩🟩: BRACE
+    🟨⬜⬜⬜⬜:
+      input: POINT
+      next:
+        ⬜⬜⬜⬜🟨:
+          input: GUILD
+          next:
+            ⬜🟨⬜⬜⬜: STUFF
+            ⬜🟨⬜⬜🟨: STUDY
+            ⬜🟩⬜⬜⬜: MUSTY
+            ⬜🟩⬜⬜🟨: DUSTY
+            ⬜🟩⬜🟨⬜: LUSTY
+            🟩🟩⬜⬜⬜: GUSTY
+        ⬜⬜⬜🟨🟨: NUTTY
+        ⬜⬜⬜🟩🟨:
+          input: STUNG
+          next:
+            🟩🟩🟩🟩⬜: STUNK
+        ⬜⬜⬜🟩🟩:
+          input: SHUNT
+          next:
+            ⬜⬜🟩🟩🟩: BLUNT
+            🟩⬜🟩🟩🟩: STUNT
+        ⬜⬜🟨⬜🟨:
+          input: FLESH
+          next:
+            ⬜⬜⬜⬜⬜:
+              input: BAWDY
+              next:
+                ⬜⬜⬜⬜🟩: KITTY
+                ⬜⬜⬜🟨🟩: DITTY
+                ⬜⬜🟨⬜🟩: WITTY
+                🟩⬜⬜⬜🟩: BITTY
+            ⬜⬜⬜⬜🟩: WIDTH
+            ⬜⬜⬜🟨⬜: SIXTY
+            ⬜⬜⬜🟨🟩: SIXTH
+            🟩⬜⬜⬜⬜: FIFTY
+            🟩⬜⬜⬜🟩: FIFTH
+            🟩🟨⬜⬜🟩: FILTH
+        ⬜⬜🟨⬜🟩:
+          input: FLESH
+          next:
+            ⬜⬜⬜⬜⬜: DIGIT
+            ⬜⬜⬜⬜🟨:
+              input: MIGHT
+              next:
+                ⬜🟩🟩🟩🟩: WIGHT
+            ⬜⬜⬜🟨⬜: VISIT
+            ⬜⬜⬜🟨🟨: SIGHT
+            ⬜⬜⬜🟩⬜: MIDST
+            ⬜🟨⬜⬜⬜: LIMIT
+            ⬜🟨⬜⬜🟨: LIGHT
+            🟩⬜⬜⬜🟨: FIGHT
+        ⬜⬜🟨🟨🟨:
+          input: MINTY
+          next:
+            ⬜🟨🟨🟨⬜: UNTIL
+            ⬜🟩🟩🟩⬜: NINTH
+        ⬜⬜🟨🟨🟩:
+          input: UNFIT
+          next:
+            ⬜🟨⬜🟨🟩: NIGHT
+            🟩🟩⬜🟩🟩: UNLIT
+        ⬜⬜🟩⬜🟨:
+          input: STILL
+          next:
+            ⬜🟨🟩🟨⬜: BLITZ
+            🟩🟨🟩⬜⬜: SMITH
+            🟩🟩🟩⬜⬜: STIFF
+        ⬜⬜🟩⬜🟩:
+          input: BLUSH
+          next:
+            ⬜⬜⬜🟨⬜: SWIFT
+            ⬜⬜⬜🟨🟨: SHIFT
+            ⬜🟨⬜🟨⬜: STILT
+            ⬜🟨🟨⬜⬜:
+              input: QUILT
+              next:
+                ⬜🟩🟩🟩🟩: GUILT
+            🟩🟨🟨⬜⬜: BUILT
+        ⬜⬜🟩🟨🟨: UNITY
+        ⬜⬜🟩🟩🟨:
+          input: STINK
+          next:
+            🟩🟩🟩🟩⬜: STING
+        ⬜⬜🟩🟩🟩:
+          input: FLINT
+          next:
+            ⬜⬜🟩🟩🟩: STINT
+            ⬜🟩🟩🟩🟩: GLINT
+        ⬜🟨⬜⬜🟨:
+          input: STOOD
+          next:
+            ⬜🟨🟨⬜⬜: OUTGO
+            ⬜🟨🟨⬜🟨: OUTDO
+            ⬜🟨🟩⬜⬜: QUOTH
+            🟨🟨🟨⬜⬜: GUSTO
+            🟩🟨🟩⬜⬜: SLOTH
+            🟩🟩🟩🟩⬜: STOOL
+        ⬜🟨⬜⬜🟩:
+          input: STOUT
+          next:
+            ⬜🟨🟨🟨🟩: OUGHT
+            ⬜🟨🟩🟩🟩: FLOUT
+            🟨🟨🟩⬜🟩: GHOST
+            🟩🟨🟩⬜🟩: SHOOT
+            🟩🟨🟩🟩🟩: SHOUT
+        ⬜🟨⬜🟨🟨: JUNTO
+        ⬜🟨⬜🟨🟩: SNOUT
+        ⬜🟨⬜🟩🟨: STONY
+        ⬜🟨🟨⬜🟨: DITTO
+        ⬜🟨🟨⬜🟩: BIGOT
+        ⬜🟨🟨🟨🟩: INGOT
+        ⬜🟨🟩⬜🟩: IDIOT
+        ⬜🟩⬜⬜🟨:
+          input: SHOWY
+          next:
+            ⬜⬜🟨⬜⬜: MOTTO
+            ⬜⬜🟨⬜🟩: LOFTY
+            ⬜⬜🟩⬜🟩: BOOTY
+            ⬜🟨🟨⬜⬜: MOUTH
+            ⬜🟨🟨⬜🟨: YOUTH
+            ⬜🟨🟨⬜🟩: HOTLY
+            ⬜🟨🟩⬜⬜: BOOTH
+            🟩⬜🟩⬜🟩: SOOTY
+            🟩🟨🟨⬜⬜: SOUTH
+            🟩🟨🟩⬜⬜: SOOTH
+        ⬜🟩⬜⬜🟩:
+          input: BOOST
+          next:
+            ⬜🟩⬜⬜🟩: MOULT
+            ⬜🟩⬜🟩🟩: JOUST
+            🟨🟩⬜⬜🟩: DOUBT
+        ⬜🟩⬜🟨🟨: MONTH
+        ⬜🟩⬜🟨🟩: DONUT
+        ⬜🟩⬜🟩🟩: MOUNT
+        ⬜🟩🟨⬜🟨: MOTIF
+        ⬜🟩🟨⬜🟩: VOMIT
+        ⬜🟩🟩⬜🟩:
+          input: FEHME
+          next:
+            ⬜⬜⬜⬜⬜: JOIST
+            ⬜⬜⬜🟨⬜: MOIST
+            ⬜⬜🟨⬜⬜: HOIST
+            🟩⬜⬜⬜⬜: FOIST
+        ⬜🟩🟩🟩🟩: JOINT
+        🟨⬜⬜⬜🟨: STUMP
+        🟨⬜🟨⬜🟩: SPLIT
+        🟨⬜🟨🟨🟩: INPUT
+        🟨⬜🟩⬜🟩: SPILT
+        🟨🟨⬜⬜🟨:
+          input: STOMP
+          next:
+            🟩🟩🟩⬜🟩: STOOP
+        🟨🟨⬜⬜🟩: SPOUT
+        🟩⬜⬜⬜🟨: PUTTY
+        🟩⬜🟨⬜🟨: PITHY
+        🟩🟨⬜⬜🟨: PHOTO
+        🟩🟨🟨⬜🟩:
+          input: PILOT
+          next:
+            🟩🟩⬜🟩🟩: PIVOT
+        🟩🟨🟨🟨🟨: PINTO
+        🟩🟩⬜⬜🟨: POUTY
+        🟩🟩🟨⬜🟩: POSIT
+    🟨⬜⬜⬜🟨:
+      input: SPILT
+      next:
+        ⬜⬜⬜⬜🟨:
+          input: JETTY
+          next:
+            ⬜🟨🟩⬜⬜: OFTEN
+            ⬜🟩🟨🟩🟩: HEFTY
+            ⬜🟩🟩⬜⬜: DETOX
+        ⬜⬜⬜⬜🟩:
+          input: UNMET
+          next:
+            ⬜⬜⬜🟩🟩: BEGET
+            ⬜🟨⬜🟨🟩: EVENT
+            🟨⬜⬜🟨🟩: DEBUT
+            🟨⬜⬜🟩🟩: DUVET
+        ⬜⬜⬜🟨🟨:
+          input: HOTEL
+          next:
+            ⬜⬜🟨🟨🟨: LEFTY
+            ⬜⬜🟩🟩🟩: BETEL
+            ⬜🟨🟩🟨🟩: EXTOL
+            ⬜🟩🟩🟩🟩: MOTEL
+        ⬜⬜⬜🟨🟩: FLEET
+        ⬜⬜⬜🟩🟩:
+          input: DWELT
+          next:
+            ⬜⬜🟨🟩🟩: EXULT
+            ⬜⬜🟩🟩🟩: KNELT
+        ⬜⬜🟨⬜🟨: FETID
+        ⬜⬜🟨⬜🟩:
+          input: DEBIT
+          next:
+            ⬜🟨⬜🟨🟩: EIGHT
+            ⬜🟩🟨🟩🟩: BEFIT
+        ⬜⬜🟨🟨🟩:
+          input: FILET
+          next:
+            ⬜🟨🟩🟩🟩: INLET
+        ⬜⬜🟩⬜🟨: DEITY
+        ⬜⬜🟩⬜🟩: QUIET
+        ⬜🟨⬜⬜🟨:
+          input: DEPTH
+          next:
+            ⬜🟨🟩🟩⬜: EMPTY
+            ⬜🟩🟨🟩⬜: PETTY
+        ⬜🟨⬜⬜🟩: DEPOT
+        ⬜🟨🟨⬜🟨: PIETY
+        ⬜🟨🟨⬜🟩: INEPT
+        🟨⬜⬜⬜🟨:
+          input: ZESTY
+          next:
+            ⬜🟨🟨🟨⬜: ETHOS
+            ⬜🟩🟨🟨⬜: FETUS
+        🟨⬜⬜⬜🟩:
+          input: GONER
+          next:
+            ⬜⬜⬜🟨⬜: QUEST
+            ⬜⬜⬜🟩⬜: BESET
+            ⬜⬜🟨🟩⬜: UNSET
+            ⬜🟨🟨🟩⬜: ONSET
+            🟩⬜⬜🟨⬜: GUEST
+        🟨⬜🟨🟨🟩: ISLET
+        🟨⬜🟩⬜🟩:
+          input: HEIST
+          next:
+            ⬜🟨🟩🟩🟩: EXIST
+        🟨🟨⬜⬜🟨: PESTO
+        🟨🟩⬜⬜🟩: UPSET
+        🟩⬜⬜⬜🟨: STEED
+        🟩⬜⬜⬜🟩:
+          input: SWEET
+          next:
+            🟩⬜🟩🟩🟩: SHEET
+        🟩⬜⬜🟨🟨: STEEL
+        🟩⬜⬜🟨🟩: SLEET
+        🟩⬜⬜🟩🟩: SMELT
+        🟩⬜🟨⬜🟨: STEIN
+        🟩🟨⬜⬜🟨:
+          input: STEEP
+          next:
+            🟩🟨🟨⬜🟩: SETUP
+        🟩🟨⬜⬜🟩: SWEPT
+        🟩🟨⬜🟨🟩: SLEPT
+        🟩🟩⬜⬜🟩: SPENT
+        🟩🟩⬜🟩🟩: SPELT
+    🟨⬜⬜⬜🟩:
+      input: MUILS
+      next:
+        ⬜⬜⬜⬜🟨:
+          input: NAVAL
+          next:
+            ⬜⬜⬜⬜⬜: STOKE
+            ⬜⬜🟨⬜⬜: STOVE
+            🟨⬜⬜⬜⬜: STONE
+        ⬜⬜⬜🟩🟨:
+          input: STOLE
+          next:
+            🟩🟩⬜🟩🟩: STYLE
+        ⬜⬜🟨🟨⬜: LITHE
+        ⬜⬜🟩⬜⬜: WHITE
+        ⬜⬜🟩⬜🟨: SPITE
+        ⬜⬜🟩🟨⬜: ELITE
+        ⬜🟨⬜⬜⬜: ETUDE
+        ⬜🟨⬜🟨⬜: FLUTE
+        ⬜🟨🟨⬜⬜: UNTIE
+        ⬜🟨🟩⬜⬜: UNITE
+        ⬜🟨🟩🟩⬜: UTILE
+        ⬜🟩⬜⬜⬜:
+          input: BUTTE
+          next:
+            ⬜🟩🟨🟩🟩: QUOTE
+        ⬜🟩🟩⬜⬜: QUITE
+        ⬜🟩🟩⬜🟨: SUITE
+        🟨⬜⬜⬜🟨: SMOTE
+        🟨⬜🟩⬜🟨: SMITE
+    🟨⬜⬜🟨⬜:
+      input: CLOUT
+      next:
+        🟨⬜⬜⬜🟨: ITCHY
+        🟨⬜⬜🟩🟩: UNCUT
+        🟨⬜🟨⬜🟨: OPTIC
+        🟨⬜🟩⬜🟨: STOIC
+        🟨⬜🟩🟩🟩: SCOUT
+        🟩⬜🟨🟨🟩: COUNT
+        🟩🟩🟩⬜🟨: CLOTH
+    🟨⬜⬜🟨🟨:
+      input: SOLVE
+      next:
+        ⬜⬜⬜⬜🟨: ETHIC
+        ⬜⬜🟨⬜🟨: CLEFT
+        ⬜🟨⬜⬜🟨: OCTET
+        ⬜🟩⬜⬜🟨: COMET
+        ⬜🟩⬜🟨🟨: COVET
+        🟨⬜⬜⬜🟨: CHEST
+        🟩⬜⬜⬜🟨: SCENT
+    🟨⬜⬜🟨🟩:
+      input: CHUTE
+      next:
+        🟩⬜🟨🟨🟩: CUTIE
+    🟨⬜⬜🟩⬜:
+      input: HOUND
+      next:
+        ⬜⬜⬜⬜⬜: STICK
+        ⬜⬜🟩⬜⬜: STUCK
+        ⬜🟨⬜⬜⬜: STOCK
+        🟨⬜⬜⬜⬜:
+          input: PITCH
+          next:
+            ⬜🟩🟩🟩🟩: WITCH
+        🟨⬜⬜⬜🟨: DITCH
+        🟨⬜🟨⬜⬜: BUTCH
+        🟨⬜🟨⬜🟨: DUTCH
+        🟨🟩⬜⬜⬜: BOTCH
+        🟨🟩⬜🟨⬜: NOTCH
+        🟩⬜⬜⬜⬜: HITCH
+        🟩⬜🟨⬜⬜: HUTCH
+    🟨⬜⬜🟩🟨:
+      input: VITAL
+      next:
+        ⬜⬜🟨⬜⬜: EJECT
+        ⬜⬜🟨⬜🟨: ELECT
+        ⬜⬜🟩⬜⬜: FETCH
+        ⬜🟨🟨⬜⬜: EDICT
+        🟨🟨🟨⬜⬜: EVICT
+    🟨⬜🟨⬜⬜:
+      input: SPINY
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: ALOFT
+          next:
+            🟨⬜⬜⬜🟨: DATUM
+            🟨⬜⬜⬜🟩: GAMUT
+            🟨⬜🟩⬜🟨: QUOTA
+            🟨🟨⬜⬜🟨: WALTZ
+            🟨🟨⬜⬜🟩: VAULT
+            🟨🟨⬜🟨🟨: FATAL
+            🟨🟨⬜🟨🟩: FAULT
+            🟨🟩🟩⬜🟩:
+              input: GLOAT
+              next:
+                ⬜🟩🟩🟩🟩: BLOAT
+            🟨🟩🟩🟨🟩: FLOAT
+            🟩⬜🟨⬜🟩: ABBOT
+            🟩⬜🟩⬜🟩: ABOUT
+            🟩⬜🟩🟨🟩: AFOOT
+            🟩🟨⬜⬜🟩: ADULT
+            🟩🟨🟩⬜🟨: ATOLL
+            🟩🟩🟨⬜🟩: ALLOT
+        ⬜⬜⬜⬜🟩:
+          input: BATTY
+          next:
+            ⬜🟩🟩🟩🟩: FATTY
+        ⬜⬜⬜🟨⬜:
+          input: BATON
+          next:
+            ⬜🟨🟨⬜🟨: JUNTA
+            ⬜🟩🟩⬜🟨: NATAL
+        ⬜⬜⬜🟨🟩: AUNTY
+        ⬜⬜⬜🟩⬜:
+          input: DOUGH
+          next:
+            ⬜⬜🟩⬜⬜:
+              input: JAUNT
+              next:
+                ⬜🟩🟩🟩🟩: VAUNT
+            ⬜⬜🟩⬜🟨: HAUNT
+            ⬜⬜🟩🟨⬜: GAUNT
+            🟩⬜🟩⬜⬜: DAUNT
+        ⬜⬜🟨⬜⬜:
+          input: AUDIT
+          next:
+            🟨⬜⬜🟨🟨: VITAL
+            🟨⬜⬜🟩🟩: HABIT
+            🟩⬜🟨🟩🟩: ADMIT
+        ⬜⬜🟩⬜⬜: FAITH
+        ⬜⬜🟩⬜🟩: AMITY
+        ⬜⬜🟩🟩⬜: FAINT
+        ⬜🟨⬜⬜⬜: ADOPT
+        ⬜🟨⬜⬜🟩: PATTY
+        ⬜🟨🟨⬜⬜: PATIO
+        ⬜🟨🟩🟩⬜: PAINT
+        ⬜🟩⬜⬜🟩: APTLY
+        🟨⬜⬜⬜🟩: HASTY
+        🟨⬜⬜🟨⬜: ANGST
+        🟨⬜⬜🟨🟩: NASTY
+        🟨⬜🟨⬜⬜: VISTA
+        🟨⬜🟩⬜⬜: WAIST
+        🟨🟨⬜⬜⬜: PASTA
+        🟨🟨⬜⬜🟩:
+          input: PATSY
+          next:
+            🟩🟩🟨🟨🟩: PASTY
+        🟩⬜⬜⬜⬜: SQUAT
+        🟩⬜⬜⬜🟩: SALTY
+        🟩⬜🟨🟨⬜: SATIN
+        🟩⬜🟩🟩⬜: SAINT
+        🟩🟩⬜⬜⬜: SPLAT
+    🟨⬜🟨⬜🟨:
+      input: PLEAT
+      next:
+        ⬜⬜🟨🟨🟨:
+          input: EATEN
+          next:
+            🟨🟩🟩🟩⬜: MATEY
+        ⬜⬜🟨🟨🟩: ASSET
+        ⬜⬜🟨🟩🟩: BEGAT
+        ⬜⬜🟩🟨🟩: AGENT
+        ⬜⬜🟩🟩🟨:
+          input: MODEL
+          next:
+            ⬜⬜⬜🟨⬜: STEAK
+            ⬜⬜🟨🟨⬜: STEAD
+            🟨⬜⬜🟨⬜: STEAM
+        ⬜⬜🟩🟩🟩:
+          input: SWEAT
+          next:
+            ⬜🟨🟩🟩🟩: WHEAT
+        ⬜🟨🟨🟨🟨: DELTA
+        ⬜🟨🟨🟨🟩: VALET
+        ⬜🟨🟨🟩🟨:
+          input: METAL
+          next:
+            ⬜🟩🟩🟩🟩: FETAL
+        ⬜🟨🟩🟩🟨: STEAL
+        ⬜🟩🟩🟩🟩: BLEAT
+        🟨⬜🟩🟨🟩: ADEPT
+        🟩🟨🟨🟩🟨: PETAL
+    🟨⬜🟨⬜🟩:
+      input: BLUSH
+      next:
+        ⬜⬜⬜⬜⬜: ATONE
+        ⬜⬜⬜🟨⬜:
+          input: WASTE
+          next:
+            ⬜🟩🟩🟩🟩: PASTE
+        ⬜⬜⬜🟨🟨: HASTE
+        ⬜⬜🟩⬜🟨: HAUTE
+        ⬜⬜🟩🟨⬜: SAUTE
+        ⬜🟨⬜⬜⬜: LATTE
+        ⬜🟨⬜⬜🟨: LATHE
+        🟩⬜⬜⬜🟨: BATHE
+        🟩⬜⬜🟨⬜: BASTE
+    🟨⬜🟨🟨⬜:
+      input: PAINT
+      next:
+        ⬜🟨⬜⬜🟨: OCTAL
+        ⬜🟨⬜⬜🟩: ASCOT
+        ⬜🟨🟨⬜🟨: ATTIC
+        ⬜🟨🟨🟨🟨: ANTIC
+        ⬜🟩⬜⬜🟨: CATTY
+        ⬜🟩⬜⬜🟩: YACHT
+        ⬜🟩🟨⬜🟨: CACTI
+        🟨🟩⬜⬜🟩: CAPUT
+    🟨⬜🟨🟨🟨:
+      input: CHEAT
+      next:
+        🟨⬜🟨🟨🟩: FACET
+        🟨⬜🟨🟩🟩: ECLAT
+        🟩⬜🟨🟨🟩: CADET
+        🟩⬜🟩🟩🟩: CLEAT
+    🟨⬜🟨🟨🟩:
+      input: ACUTE
+      next:
+        🟨🟨⬜🟩🟩: CASTE
+    🟨⬜🟨🟩⬜:
+      input: BLIMP
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: CLOWN
+          next:
+            🟨⬜⬜⬜⬜: HATCH
+            🟨⬜⬜🟨⬜: WATCH
+            🟩⬜⬜⬜⬜: CATCH
+        ⬜⬜⬜⬜🟨: PATCH
+        ⬜⬜⬜🟨⬜: MATCH
+        ⬜🟨⬜⬜⬜: LATCH
+        🟩⬜⬜⬜⬜: BATCH
+    🟨⬜🟩⬜⬜:
+      input: SLINK
+      next:
+        ⬜⬜⬜⬜⬜: ADAPT
+        ⬜⬜🟨⬜⬜: AWAIT
+        ⬜⬜🟨🟩⬜: GIANT
+        ⬜🟨⬜⬜⬜: LOATH
+        ⬜🟩⬜🟩⬜: PLANT
+        ⬜🟩🟨⬜⬜: PLAIT
+        🟨⬜⬜⬜⬜: BOAST
+        🟨🟩⬜⬜⬜: BLAST
+        🟩⬜⬜⬜⬜:
+          input: FRESH
+          next:
+            ⬜⬜⬜🟨⬜: STAMP
+            ⬜⬜⬜🟨🟩: SWATH
+            ⬜⬜⬜🟩🟩: STASH
+            🟨⬜⬜🟨⬜: STAFF
+            🟨⬜⬜🟨🟨: SHAFT
+        🟩⬜⬜🟩⬜: STAND
+        🟩⬜⬜🟩🟩: STANK
+        🟩⬜🟨⬜⬜: STAID
+        🟩⬜🟨🟨⬜: STAIN
+        🟩🟨⬜⬜⬜:
+          input: SHALT
+          next:
+            🟩⬜🟩🟩🟨: STALL
+        🟩🟨⬜⬜🟩: STALK
+        🟩🟩⬜🟩⬜: SLANT
+    🟨⬜🟩⬜🟨:
+      input: SADLY
+      next:
+        ⬜🟨⬜⬜⬜:
+          input: HEATH
+          next:
+            ⬜🟩🟩🟨⬜: MEANT
+        ⬜🟨⬜⬜🟩: MEATY
+        ⬜🟨⬜🟨⬜:
+          input: LEANT
+          next:
+            🟩🟩🟩⬜🟩: LEAPT
+        ⬜🟨⬜🟩⬜: EXALT
+        ⬜🟨🟨⬜⬜: DEATH
+        ⬜🟨🟨🟩⬜: DEALT
+        🟨🟨⬜⬜⬜:
+          input: FEAST
+          next:
+            ⬜🟩🟩🟩🟩: BEAST
+        🟨🟨⬜⬜🟨: YEAST
+        🟨🟨⬜🟨⬜: LEAST
+    🟨⬜🟩⬜🟩:
+      input: GLOPS
+      next:
+        ⬜⬜⬜⬜⬜: ABATE
+        ⬜⬜⬜⬜🟨:
+          input: SKATE
+          next:
+            🟩⬜🟩🟨🟩: STAVE
+            🟩⬜🟩🟩🟩: STATE
+            🟩🟨🟩🟨🟩: STAKE
+        ⬜⬜🟨⬜⬜: OVATE
+        ⬜🟨⬜⬜🟨: STALE
+        ⬜🟩⬜⬜⬜: ELATE
+        ⬜🟩⬜⬜🟨: SLATE
+        ⬜🟩⬜🟨⬜: PLATE
+        🟨⬜⬜⬜⬜: AGATE
+        🟨⬜⬜⬜🟨: STAGE
+    🟨⬜🟩🟨⬜:
+      input: COAST
+      next:
+        🟨⬜🟩🟨🟩: SCANT
+        🟩⬜🟩⬜🟩: CHANT
+    🟨⬜🟩🟩⬜: STACK
+    🟨⬜🟩🟩🟨:
+      input: ENACT
+      next:
+        🟩⬜🟩🟩🟩: EXACT
+    🟨🟨⬜⬜⬜:
+      input: SHOUT
+      next:
+        ⬜⬜⬜⬜🟨: DIRTY
+        ⬜⬜⬜⬜🟩: FLIRT
+        ⬜⬜⬜🟨🟩:
+          input: BLURT
+          next:
+            🟩⬜🟨🟨🟩: BURNT
+        ⬜⬜🟨⬜🟨:
+          input: MOTOR
+          next:
+            ⬜🟨🟩⬜🟨: INTRO
+            ⬜🟩🟨⬜🟨: FORTY
+            ⬜🟩🟩🟩🟩: ROTOR
+        ⬜⬜🟨⬜🟩: ROBOT
+        ⬜🟨⬜⬜🟨:
+          input: BIOME
+          next:
+            ⬜🟩⬜⬜⬜: GIRTH
+            ⬜🟩⬜🟨⬜: MIRTH
+            🟩🟩⬜⬜⬜: BIRTH
+        ⬜🟨⬜⬜🟩: RIGHT
+        ⬜🟨🟨⬜🟨:
+          input: DWARF
+          next:
+            ⬜⬜⬜🟨⬜: NORTH
+            ⬜⬜⬜🟨🟨: FORTH
+            ⬜🟨⬜🟨⬜: WORTH
+        🟨⬜⬜⬜🟩: FIRST
+        🟨⬜⬜🟨🟨: RUSTY
+        🟨⬜⬜🟨🟩: BURST
+        🟨⬜🟨⬜🟩: WORST
+        🟨⬜🟩⬜🟩: ROOST
+        🟩⬜⬜⬜🟨: STRIP
+        🟩⬜⬜⬜🟩: SKIRT
+        🟩⬜⬜🟨🟩: SPURT
+        🟩⬜⬜🟩🟩: STRUT
+        🟩⬜🟩⬜🟨:
+          input: KARMA
+          next:
+            ⬜⬜🟨⬜⬜: STORY
+            ⬜⬜🟨🟨⬜: STORM
+            🟨⬜🟨⬜⬜: STORK
+        🟩⬜🟩⬜🟩:
+          input: SPORT
+          next:
+            🟩⬜🟩🟩🟩: SNORT
+        🟩🟩⬜⬜🟩: SHIRT
+        🟩🟩🟩⬜🟩: SHORT
+    🟨🟨⬜⬜🟨:
+      input: MOTEN
+      next:
+        ⬜⬜🟨🟨⬜:
+          input: REBUT
+          next:
+            🟨🟨⬜⬜🟩: EXERT
+            🟨🟩🟨⬜🟨: BERTH
+            🟩🟩⬜⬜🟩: REFIT
+        ⬜⬜🟨🟨🟨: INERT
+        ⬜⬜🟨🟨🟩: STERN
+        ⬜⬜🟨🟩⬜:
+          input: RESET
+          next:
+            🟨🟨⬜🟩🟨: ETHER
+            🟨🟨⬜🟩🟩: EGRET
+            🟨🟨🟨🟩🟨: STEER
+            🟨🟩⬜🟩🟩: BERET
+            🟩🟨⬜🟩🟩: RIVET
+        ⬜⬜🟩🟨⬜: RETRY
+        ⬜⬜🟩🟨🟨: ENTRY
+        ⬜⬜🟩🟩⬜:
+          input: REBUT
+          next:
+            🟨🟨⬜⬜🟨: ESTER
+            🟨🟨⬜🟨🟨: UTTER
+            🟨🟩⬜⬜🟨: DETER
+        ⬜⬜🟩🟩🟨:
+          input: INTER
+          next:
+            ⬜🟩🟩🟩🟩: ENTER
+        ⬜🟨🟨🟨⬜: OVERT
+        ⬜🟨🟨🟩⬜: OTHER
+        ⬜🟨🟩🟨⬜: RETRO
+        ⬜🟨🟩🟩⬜:
+          input: OUTER
+          next:
+            🟩⬜🟩🟩🟩: OTTER
+        ⬜🟩🟩🟩⬜: VOTER
+        🟨⬜🟨🟨⬜: REMIT
+        🟩⬜🟨🟨⬜: MERIT
+        🟩⬜🟩🟩⬜: METER
+        🟩🟨🟩🟨⬜: METRO
+    🟨🟨⬜⬜🟩:
+      input: ROUTE
+      next:
+        🟨🟨⬜🟨🟩: STORE
+        🟨🟩⬜🟩🟩: FORTE
+    🟨🟨⬜🟨⬜: COURT
+    🟨🟨⬜🟨🟨: RECUT
+    🟨🟨⬜🟩🟨: RETCH
+    🟨🟨🟨⬜⬜:
+      input: WORRY
+      next:
+        ⬜⬜🟨⬜⬜: ALTAR
+        ⬜⬜🟨⬜🟨: SATYR
+        ⬜⬜🟨⬜🟩: RATTY
+        ⬜⬜🟨🟩⬜: ULTRA
+        ⬜⬜🟩⬜⬜: STRAP
+        ⬜⬜🟩⬜🟩:
+          input: STRAY
+          next:
+            ⬜🟨🟩🟨🟩: PARTY
+        ⬜🟨🟨⬜⬜: RATIO
+        ⬜🟨🟨🟩⬜: ABORT
+        ⬜🟩🟩⬜⬜: AORTA
+        🟨⬜🟩⬜⬜: STRAW
+        🟩⬜🟩⬜🟩: WARTY
+    🟨🟨🟨⬜🟨:
+      input: EASEL
+      next:
+        🟨🟨⬜⬜⬜: AVERT
+        🟨🟨⬜⬜🟨: ALERT
+        🟨🟨⬜🟩⬜: AFTER
+        🟨🟨⬜🟩🟨: ALTER
+        🟨🟩⬜🟩⬜:
+          input: HATER
+          next:
+            ⬜🟩🟩🟩🟩: WATER
+        🟨🟩⬜🟩🟨: LATER
+        🟩🟨⬜⬜⬜: EXTRA
+        🟩🟩⬜⬜⬜: EARTH
+        🟩🟩⬜🟩⬜: EATER
+    🟨🟨🟨🟨⬜:
+      input: ACTOR
+      next:
+        🟨🟨🟨⬜🟨: CARAT
+    🟨🟨🟨🟨🟨: CATER
+    🟨🟨🟩⬜⬜:
+      input: SKIMP
+      next:
+        ⬜⬜⬜⬜⬜: QUART
+        ⬜⬜⬜⬜🟨: APART
+        🟨⬜⬜⬜⬜: ROAST
+        🟩⬜⬜⬜⬜: START
+        🟩⬜⬜🟨⬜: SMART
+        🟩⬜🟨⬜⬜: STAIR
+        🟩🟨⬜⬜⬜: STARK
+    🟨🟨🟩⬜🟨: HEART
+    🟨🟨🟩⬜🟩: STARE
+    🟨🟨🟩🟨⬜: CHART
+    🟨🟨🟩🟩🟨: REACT
+    🟨🟩⬜⬜⬜:
+      input: FEIGN
+      next:
+        ⬜⬜⬜⬜⬜: BROTH
+        ⬜⬜⬜⬜🟨: BRUNT
+        ⬜⬜⬜🟨⬜: GROUT
+        ⬜⬜⬜🟨🟨: GRUNT
+        ⬜⬜🟨⬜⬜:
+          input: ORBIT
+          next:
+            🟨🟩⬜🟩🟩: DROIT
+        ⬜⬜🟩⬜⬜: WRIST
+        ⬜⬜🟩⬜🟨: PRINT
+        🟨⬜🟩⬜⬜: DRIFT
+        🟩⬜⬜⬜⬜:
+          input: FROTH
+          next:
+            🟩🟩🟩🟨⬜: FROST
+        🟩⬜⬜⬜🟨: FRONT
+        🟩⬜🟨⬜⬜: FRUIT
+        🟩⬜🟩⬜⬜: FRITZ
+    🟨🟩⬜⬜🟨:
+      input: GREET
+      next:
+        ⬜🟩🟨⬜🟩: ERUPT
+        ⬜🟩🟩⬜🟩: WREST
+    🟨🟩⬜⬜🟩:
+      input: WROTE
+      next:
+        ⬜🟩⬜🟩🟩: BRUTE
+        🟩🟩⬜🟩🟩: WRITE
+    🟨🟩⬜🟨⬜:
+      input: CRUST
+      next:
+        🟩🟩⬜⬜🟩: CRYPT
+    🟨🟩⬜🟨🟨:
+      input: CREPT
+      next:
+        🟩🟩🟩⬜🟩: CREST
+    🟨🟩⬜🟩🟨: ERECT
+    🟨🟩🟨⬜⬜: ARTSY
+    🟨🟩🟨⬜🟨: GREAT
+    🟨🟩🟩⬜⬜:
+      input: DRAFT
+      next:
+        ⬜🟩🟩⬜🟨: WRATH
+        ⬜🟩🟩⬜🟩: GRANT
+        ⬜🟩🟩🟩🟩: GRAFT
+    🟨🟩🟩⬜🟩:
+      input: GRATE
+      next:
+        ⬜🟩🟩🟩🟩: IRATE
+    🟨🟩🟩🟨⬜: CRAFT
+    🟨🟩🟩🟨🟩: CRATE
+    🟩⬜⬜⬜⬜:
+      input: LYING
+      next:
+        ⬜⬜⬜⬜⬜:
+          input: THUMB
+          next:
+            🟩🟨⬜⬜⬜: TOOTH
+            🟩🟩🟩🟩⬜: THUMP
+        ⬜⬜⬜⬜🟨: TOUGH
+        ⬜⬜⬜🟩🟩: THONG
+        ⬜⬜🟨⬜⬜: TIMID
+        ⬜⬜🟨⬜🟨: TIGHT
+        ⬜⬜🟨🟨⬜: TOXIN
+        ⬜⬜🟩⬜⬜:
+          input: TWIST
+          next:
+            🟩🟩🟩⬜🟩: TWIXT
+        ⬜⬜🟩⬜🟨: THIGH
+        ⬜⬜🟩🟩⬜: THINK
+        ⬜⬜🟩🟩🟩: THING
+        ⬜🟨⬜⬜⬜: TODDY
+        ⬜🟨🟨⬜⬜: TIPSY
+        ⬜🟩🟩🟩🟩: TYING
+        🟨⬜🟨⬜⬜: TULIP
+    🟩⬜⬜⬜🟨:
+      input: HONED
+      next:
+        ⬜⬜⬜🟨⬜: TESTY
+        ⬜⬜⬜🟨🟨: TEDDY
+        ⬜⬜⬜🟨🟩: TEPID
+        ⬜⬜⬜🟩⬜: TWEET
+        ⬜⬜⬜🟩🟩: TWEED
+        ⬜⬜🟩🟩⬜: TENET
+        ⬜🟨⬜🟨⬜: TEMPO
+        ⬜🟩⬜🟩⬜:
+          input: TOTEM
+          next:
+            🟩🟩⬜🟩⬜: TOWEL
+        ⬜🟩🟨🟩⬜: TOKEN
+        🟨⬜⬜🟨⬜:
+          input: TEETH
+          next:
+            🟩🟨🟩⬜🟨: THEFT
+        🟨⬜⬜🟩⬜: THIEF
+        🟨⬜🟩🟨⬜: TENTH
+    🟩⬜⬜⬜🟩:
+      input: SHILY
+      next:
+        ⬜⬜⬜⬜⬜: TEPEE
+        ⬜⬜⬜🟩⬜: TULLE
+        ⬜⬜🟨🟨⬜: TILDE
+        ⬜⬜🟨🟩⬜: TITLE
+        ⬜⬜🟩⬜⬜: TWINE
+        ⬜🟨🟨⬜⬜: TITHE
+        ⬜🟩⬜⬜⬜: THEME
+        ⬜🟩⬜⬜🟨: THYME
+        🟨⬜⬜⬜⬜: TENSE
+        🟨🟩⬜⬜⬜:
+          input: THOSE
+          next:
+            🟩🟩⬜🟩🟩: THESE
+    🟩⬜⬜🟨⬜:
+      input: POUND
+      next:
+        ⬜⬜🟨🟨⬜: TUNIC
+        ⬜🟩⬜⬜⬜: TOXIC
+        ⬜🟩⬜🟨⬜: TONIC
+        🟨🟩⬜⬜⬜: TOPIC
+    🟩⬜⬜🟩⬜:
+      input: TOUCH
+      next:
+        🟩⬜⬜🟩🟨: THICK
+    🟩⬜⬜🟩🟩: TWICE
+    🟩⬜🟨⬜⬜:
+      input: NOILY
+      next:
+        ⬜⬜⬜⬜🟩:
+          input: BATTY
+          next:
+            ⬜🟩🟨⬜🟩: TAFFY
+            ⬜🟩🟨🟩🟩: TASTY
+            ⬜🟩🟩🟩🟩: TATTY
+            🟨🟩🟨⬜🟩: TABBY
+        ⬜⬜⬜🟨⬜: TUBAL
+        ⬜⬜⬜🟩🟩: TALLY
+        ⬜⬜🟨⬜⬜: TIBIA
+        ⬜⬜🟨🟨⬜: TIDAL
+        ⬜🟨⬜⬜⬜: TABOO
+        ⬜🟩⬜⬜⬜: TOPAZ
+        ⬜🟩⬜⬜🟩: TODAY
+        ⬜🟩⬜🟨⬜: TOTAL
+        🟨⬜⬜⬜⬜: TAUNT
+        🟨⬜⬜⬜🟩:
+          input: TANGY
+          next:
+            🟩🟩🟨⬜🟩: TAWNY
+        🟨⬜🟨⬜⬜: TITAN
+        🟨⬜🟩⬜⬜: TAINT
+        🟨🟨⬜⬜⬜: TANGO
+        🟨🟨⬜🟨⬜: TALON
+        🟨🟩⬜⬜⬜: TONGA
+        🟨🟩⬜🟨⬜: TONAL
+    🟩⬜🟨⬜🟨:
+      input: THETA
+      next:
+        🟩⬜🟨⬜🟨: TAKEN
+        🟩⬜🟩⬜🟨: TWEAK
+    🟩⬜🟨⬜🟩:
+      input: TABLE
+      next:
+        🟩🟩⬜⬜🟩: TASTE
+    🟩⬜🟨🟨⬜:
+      input: TACIT
+      next:
+        🟩🟩🟩⬜⬜: TACKY
+    🟩⬜🟩⬜⬜:
+      input: TWANG
+      next:
+        🟩⬜🟩⬜⬜: TOAST
+        🟩⬜🟩🟩⬜: THANK
+    🟩⬜🟩⬜🟩: TEASE
+    🟩⬜🟩🟩🟨: TEACH
+    🟩🟨⬜⬜⬜:
+      input: BUTOH
+      next:
+        ⬜⬜🟨⬜⬜: TWIRL
+        ⬜⬜🟨⬜🟨: THIRD
+        ⬜⬜🟨🟨⬜: TORSO
+        ⬜⬜🟨🟨🟨: THORN
+        ⬜⬜🟨🟩🟨: THROW
+        ⬜🟨🟨⬜🟨: THRUM
+        ⬜🟨🟨🟨⬜: TORUS
+        ⬜🟩🟨🟩⬜: TUMOR
+        ⬜🟩🟩🟩⬜: TUTOR
+        🟨⬜🟨🟩🟨: THROB
+        🟨🟩🟨🟨⬜: TURBO
+    🟩🟨⬜⬜🟨:
+      input: HUMOR
+      next:
+        ⬜⬜⬜⬜🟩: TIGER
+        ⬜⬜⬜🟨🟩: TOWER
+        ⬜⬜⬜🟩🟩: TENOR
+        ⬜⬜🟩⬜🟩: TIMER
+        ⬜🟩⬜⬜🟩: TUBER
+        🟨⬜⬜⬜🟨: THREW
+        🟨⬜⬜⬜🟩: THEIR
+    🟩🟨⬜⬜🟩:
+      input: THERE
+      next:
+        🟩⬜🟨🟨🟩: TERSE
+        🟩🟩🟨🟨🟩: THREE
+    🟩🟨⬜🟩⬜: TORCH
+    🟩🟨🟨⬜⬜:
+      input: TARDY
+      next:
+        🟩🟩🟨⬜⬜: TAPIR
+        🟩🟩🟩⬜⬜: TAROT
+    🟩🟨🟨⬜🟨:
+      input: KARMA
+      next:
+        ⬜🟨🟩⬜🟩: TERRA
+        ⬜🟩🟨⬜⬜: TAPER
+        ⬜🟩🟨🟨⬜: TAMER
+        🟨🟩🟨⬜⬜: TAKER
+    🟩🟨🟩⬜⬜: TIARA
+    🟩🟨🟩⬜🟨: TEARY
+    🟩🟩⬜⬜⬜:
+      input: PLUSH
+      next:
+        ⬜⬜⬜🟩⬜: TRYST
+        ⬜⬜🟨⬜⬜: TROUT
+        ⬜⬜🟩⬜⬜: TRUNK
+        ⬜⬜🟩⬜🟩: TRUTH
+        ⬜⬜🟩🟩⬜:
+          input: TRUSS
+          next:
+            🟩🟩🟩🟩⬜: TRUST
+        ⬜🟨⬜⬜⬜: TROLL
+        ⬜🟨🟩⬜⬜: TRULY
+        🟨⬜⬜⬜⬜: TROOP
+        🟨⬜🟩⬜⬜: TRUMP
+    🟩🟩⬜⬜🟨:
+      input: TRIED
+      next:
+        🟩🟩⬜🟨🟩: TREND
+        🟩🟩⬜🟩⬜: TRUER
+    🟩🟩⬜⬜🟩:
+      input: PIETY
+      next:
+        ⬜⬜🟨🟨⬜: TROVE
+        ⬜🟨🟨🟨⬜: TRIBE
+        ⬜🟨🟨🟩⬜: TRITE
+        🟨⬜🟨🟨⬜: TROPE
+        🟨🟨🟨🟨⬜: TRIPE
+    🟩🟩⬜🟩⬜:
+      input: TRICK
+      next:
+        🟩🟩⬜🟩🟩: TRUCK
+    🟩🟩⬜🟩🟩:
+      input: TRICE
+      next:
+        🟩🟩⬜🟩🟩: TRUCE
+    🟩🟩🟨⬜⬜:
+      input: TRIAD
+      next:
+        🟩🟩🟩🟩⬜: TRIAL
+    🟩🟩🟨⬜🟨:
+      input: TREAT
+      next:
+        🟩🟩🟩🟩⬜: TREAD
+    🟩🟩🟩⬜⬜:
+      input: ISLET
+      next:
+        ⬜⬜⬜⬜🟨: TRAMP
+        ⬜⬜🟨⬜🟨: TRAWL
+        ⬜🟨⬜⬜🟨: TRASH
+        🟨⬜⬜⬜🟨: TRAIN
+        🟨⬜⬜⬜🟩: TRAIT
+        🟨⬜🟨⬜🟨: TRAIL
+    🟩🟩🟩⬜🟩: TRADE
+    🟩🟩🟩🟩⬜:
+      input: TRACK
+      next:
+        🟩🟩🟩🟩⬜: TRACT

@@ -136,9 +136,15 @@ function solveFlow(candidates: string[], answers: string[], depth = 0): Flow {
 
 setTimeout(() => {
 	const result = solveFlow(ValidWords, Answers)
-	document.getElementById('output').textContent = YAML.stringify(
-		formatFlow(result)
-	)
+
+	if (typeof result === 'string') return
+
+	const { maxDepth, averageDepth } = result
+
+	document.getElementById('output').textContent = YAML.stringify({
+		statics: { maxDepth, averageDepth },
+		flow: formatFlow(result),
+	})
 }, 10)
 
 function formatFlow(flow: Flow) {
