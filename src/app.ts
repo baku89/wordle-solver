@@ -141,17 +141,22 @@ setTimeout(() => {
 
 	const { maxDepth, averageDepth } = result
 
-	document.getElementById('output').textContent = YAML.stringify({
-		statics: { maxDepth, averageDepth },
-		flow: formatFlow(result),
-	})
+	document.getElementById('output').textContent =
+		`# For example, HUMID (6?) means:
+# - the best word to guess is "HUMID".
+# - the count of remaining candidates at the present is 6
+# - "HUMID" also might be an answer (annotated as trailing ? mark)\n\n` +
+		YAML.stringify({
+			statics: { maxDepth, averageDepth },
+			flow: formatFlow(result),
+		})
 }, 10)
 
 function formatFlow(flow: Flow) {
 	if (typeof flow === 'string') return flow
 
 	return {
-		input: flow.input,
+		guess: `${flow.input} (${flow.count}${flow.maybeAnswer ? '?' : ''})`,
 		next: _.mapValues(sortKeysBy(flow.next, getHintHash), formatFlow),
 	}
 }
