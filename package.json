@@ -1,0 +1,23 @@
+{
+	"name": "wordle",
+	"version": "1.0.0",
+	"source": "src/index.pug",
+	"author": "Baku Hashimoto <mail@baku89.com>",
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"@parcel/transformer-pug": "^2.2.1",
+		"@parcel/transformer-stylus": "^2.2.1",
+		"parcel": "^2.2.1"
+	},
+	"scripts": {
+		"serve": "parcel",
+		"build": "parcel build"
+	},
+	"dependencies": {
+		"@types/lodash": "^4.14.178",
+		"lodash": "^4.17.21",
+		"mathjs": "^10.1.1",
+		"yaml": "^1.10.2"
+	}
+}
