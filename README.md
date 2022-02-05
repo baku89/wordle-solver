@@ -4,6 +4,8 @@ Solving [Wordle](https://www.powerlanguage.co.uk/wordle/) can be regarded as bui
 
 The algorithm uses a straightforward strategy of choosing the best guess to maximize the number of groups of candidates for each hint. However, there should be more efficient yet better objective function, like using the average depth of the search tree for the pair of remaining candidates and possible answers.
 
+Special thanks to [@stuartpb](https://twitter.com/stuartpb)'s advisory.
+
 ## Result
 
 **(SPOILER)** You can see the tree data from [flow.yaml](./flow.yaml).
