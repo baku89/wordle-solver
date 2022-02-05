@@ -6,6 +6,15 @@ The algorithm uses a straightforward strategy of choosing the best guess to maxi
 
 Special thanks to [@stuartpb](https://twitter.com/stuartpb)'s advisory.
 
+## Setup
+
+```
+git clone https://github.com/baku89/wordle-solver
+cd wordle-solver
+yarn init
+yarn serve
+```
+
 ## Result
 
 **(SPOILER)** You can see the tree data from [flow.yaml](./flow.yaml).
