@@ -1,7 +1,6 @@
 doctype html
 html
 	head
-		//- viewport
 		meta(name='viewport' content='width=device-width,initial-scale=1.0')
 		meta(http-equiv='Content-Style-Type' content='text/css')
 		meta(http-equiv='Content-Script-Type' content='text/javascript')
@@ -9,10 +8,17 @@ html
 		meta(http-equiv='Pragma' content='no-cache')
 		meta(http-equiv='Cache-Control' content='no-cache')
 
-	title Wordle
-	link(rel='stylesheet' href='./style.styl')
+		title Wordle Solver
+
+		link(rel='stylesheet' href='https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css')
+		link(rel='stylesheet' href='./style.styl')
+
 
 body
+
+	h1 Wordle Solver
+
+
 	pre#output Computing...
 	script(type="module" src="./app.ts")
 	
